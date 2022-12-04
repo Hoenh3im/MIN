@@ -1,0 +1,1311 @@
+quality_score;species;country_of_origin;farm_name;altitude;region;harvest_year;aroma;flavor;aftertaste;acidity;body;balance;cupper_points;total_cup_points;moisture;color
+90.58;Arabica;Ethiopia;METAD PLC;1950-2200;GUJI-HAMBELA/GOYO;2014;8.67;8.83;8.67;8.75;8.5;8.42;8.75;Sample  90.58;12;Green
+89.92;Arabica;Ethiopia;METAD PLC;1950-2200;GUJI-HAMBELA/ALAKA;2014;8.75;8.67;8.5;8.58;8.42;8.42;8.58;Sample  89.92;12;Green
+89.75;Arabica;Guatemala;"San Marcos Barrancas ""San Cristobal Cuch";1600 - 1800 m;;;8.42;8.5;8.42;8.42;8.33;8.42;9.25;Sample  89.75;0;
+89.0;Arabica;Ethiopia;Yidnekachew Dabessa Coffee Plantation;1800-2200;Oromia;2014;8.17;8.58;8.42;8.42;8.5;8.25;8.67;Sample  89.00;11;Green
+88.83;Arabica;Ethiopia;METAD PLC;1950-2200;GUJI-HAMBELA/BISHAN FUGU;2014;8.25;8.5;8.25;8.5;8.42;8.33;8.58;Sample  88.83;12;Green
+88.83;Arabica;Brazil;;;;2013;8.58;8.42;8.42;8.5;8.25;8.33;8.33;Sample  88.83;11;Bluish-Green
+88.75;Arabica;Peru;;;;2012;8.42;8.5;8.33;8.5;8.25;8.25;8.5;Sample  88.75;11;Bluish-Green
+88.67;Arabica;Ethiopia;Aolme;1570-1700;Oromia;March 2010;8.25;8.33;8.5;8.42;8.33;8.5;9.0;Sample  88.67;3;
+88.42;Arabica;Ethiopia;Aolme;1570-1700;Oromiya;March 2010;8.67;8.67;8.58;8.42;8.33;8.42;8.67;Sample  88.42;3;
+88.25;Arabica;Ethiopia;Tulla Coffee Farm;1795-1850;SNNP/Kaffa Zone,GimboWereda;2014;8.08;8.58;8.5;8.5;7.67;8.42;8.5;Sample  88.25;10;Green
+88.08;Arabica;Ethiopia;Fahem Coffee Plantation;1855-1955;Oromia;2014;8.17;8.67;8.25;8.5;7.75;8.17;8.58;Sample  88.08;10;
+87.92;Arabica;United States;El filo;Meters above sea level: 1.872;Antioquía-Giraldo;2014;8.25;8.42;8.17;8.33;8.08;8.17;8.5;Sample  87.92;0;
+87.92;Arabica;United States;Los Cedros;Meters above sea level: 1.943;Antioquía-Betulia;2014;8.08;8.67;8.33;8.42;8.0;8.08;8.33;Sample  87.92;0;
+87.92;Arabica;United States (Hawaii);Arianna Farms;2000 ft;Kona;Sept 2009 - April 2010;8.33;8.42;8.08;8.25;8.25;8.0;8.58;Sample  87.92;0;
+87.83;Arabica;Ethiopia;Aolme;1570-1700;Oromiya;March 2010;8.25;8.33;8.5;8.25;8.58;8.75;8.5;Sample  87.83;5;
+87.58;Arabica;United States;El Águila;Meters above sea level: 2.080;Antioquía-Caicedo;2014;8.0;8.5;8.58;8.17;8.17;8.0;8.17;Sample  87.58;0;
+87.42;Arabica;Indonesia;Toarco Jaya;1200-1800m;Sulawesi;May-August;8.33;8.25;7.83;7.75;8.5;8.42;8.33;Sample  87.42;3;
+87.33;Arabica;Ethiopia;;;Yirgacheffe;2009/2010;8.17;8.33;8.25;8.33;8.42;8.33;8.83;Sample  87.33;5;
+87.25;Arabica;China;Echo Coffee;1450;Yunnan Province XiShuangBanNa City Menghai County;2015;8.42;8.25;8.08;8.17;7.92;8.0;8.42;Sample  87.25;10;Green
+87.25;Arabica;Ethiopia;Drima Zede;1700-2000m;Gedio;2014;8.17;8.17;8.0;8.17;8.08;8.33;8.33;Sample  87.25;0;
+87.25;Arabica;United States;El Rodeo;Meters above sea level: 2.019;Antioquía-Betulia;2014;8.0;8.25;8.08;8.5;8.25;8.0;8.17;Sample  87.25;0;None
+87.17;Arabica;Costa Rica;SEVERAL;1300 MSNM;SAN RAMON;2014;8.08;8.25;8.0;8.17;8.0;8.33;8.33;Sample  87.17;11;Green
+87.17;Arabica;Mexico;LA HERRADURA;1320;XALAPA;2012;8.17;8.25;8.17;8.0;7.83;8.17;8.58;Sample  87.17;13;Green
+87.08;Arabica;United States;La curva;Meters above sea level: 2.112;Antioquía-Giraldo;2014;8.25;8.33;8.17;8.17;7.83;8.17;8.17;Sample  87.08;0;
+87.08;Arabica;Ethiopia;;;Sidamo;2013;8.42;8.17;7.92;8.17;8.33;8.0;8.08;Sample  87.08;11;Bluish-Green
+86.92;Arabica;Brazil;Fazenda Kaquend;1250m;South of Minas;2011;8.5;8.5;8.0;8.0;8.0;8.0;7.92;Sample  86.92;12;Green
+86.92;Arabica;Ethiopia;;;Sidamo;2009/2010;7.83;8.25;8.08;8.17;8.17;8.17;8.25;Sample  86.92;5;
+86.83;Arabica;Uganda;Chebonet (23) women coffee;1950;Kapchorwa Eastern;2013;8.42;8.17;8.17;8.17;7.83;7.92;8.17;Sample  86.83;12;Green
+86.67;Arabica;Honduras;Los Hicaques;1400;Comayagua;2016;8.17;8.08;8.08;8.0;8.08;8.0;8.25;Sample  86.67;10;Green
+86.58;Arabica;Taiwan;Tsoustructive Garden 鄒築園;1200;Leye, Alishan Township, Chiayi County;2015;8.0;8.0;8.0;8.25;8.0;8.17;8.17;Sample  86.58;0;Green
+86.58;Arabica;Nicaragua;;;;;7.92;8.25;8.0;8.33;8.0;8.08;8.0;Sample  86.58;8;
+86.5;Arabica;Tanzania, United Republic Of;;;;2012;8.42;8.17;8.17;8.0;7.58;8.0;8.17;Sample  86.50;11;Bluish-Green
+86.42;Arabica;Brazil;Fazenda Recreio;1300;Vale da Grama;2011;8.5;8.17;8.0;7.75;8.0;8.0;8.0;Sample  86.42;12;Green
+86.33;Arabica;Costa Rica;Exclusive Coffees S.A.;1300;West and Central Valley;2015/2016;8.17;7.83;8.0;8.08;7.83;8.0;8.42;Sample  86.33;0;Blue-Green
+86.25;Arabica;Ethiopia;Haider Abamecha Coffee Plantation;1750-1800;Oromia;2014;8.0;8.08;7.92;8.0;8.08;8.08;8.08;Sample  86.25;10;Green
+86.25;Arabica;Kenya;Kangunu;1800;Muranga;2013;8.08;8.0;8.0;8.25;7.92;7.92;8.08;Sample  86.25;12;Blue-Green
+86.25;Arabica;United States (Hawaii);;;KONA;2012;8.08;8.17;8.0;7.92;7.92;7.83;8.33;Sample  86.25;0;
+86.25;Arabica;United States (Hawaii);Kona Pacific Farmers Co-Op;;Kona;2010;8.25;8.42;8.08;7.75;7.67;7.83;8.25;Sample  86.25;0;
+86.25;Arabica;Ethiopia;Phone number | 0911-51-08-01, Email | at;;Yirgacheffe;2009/2010;7.92;7.75;8.08;8.08;8.08;8.17;8.17;Sample  86.25;10;
+86.17;Arabica;United States;La Primavera;Meters above sea level: 1.941;Antioquía-Urrao;2014;7.67;8.17;8.0;8.0;8.17;8.08;8.08;Sample  86.17;0;
+86.17;Arabica;Thailand;Co-op #12;1300;Chiang Rai;2012;7.83;8.33;7.83;8.25;7.58;7.92;8.42;Sample  86.17;10;Green
+86.17;Arabica;Brazil;Pereira Estate Coffee;1.2;Sul de Minas - Carmo de Minas;2010;8.17;7.92;7.92;7.75;8.33;8.0;8.08;Sample  86.17;8;
+86.17;Arabica;Brazil;Pereira Estate Coffee;1.2;Sul de Minas - Carmo de Minas;2010;8.42;7.92;8.0;7.75;7.92;8.0;8.17;Sample  86.17;1;
+86.08;Arabica;Taiwan;Sunshine Valley Estate 向陽高山咖啡;1000 M;Guoxing Township, Nantou County 南投縣國姓鄉;2015;8.08;8.17;7.75;8.08;7.75;7.83;8.42;Sample  86.08;12;Green
+86.08;Arabica;Kenya;JUNGLE ESTATE;1754;NYERI;2014;8.08;8.08;8.0;8.0;7.83;8.08;8.0;Sample  86.08;11;Bluish-Green
+86.08;Arabica;Brazil;Fazenda Kaquend;1250m;South of Minas Gerais;2011;8.33;8.0;8.0;8.0;7.75;8.0;8.0;Sample  86.08;11;Blue-Green
+86.0;Arabica;Uganda;Kaasayi;;Eastern Uganda;2014;8.08;8.08;7.83;7.92;8.08;7.92;8.08;Sample  86.00;0;
+86.0;Arabica;Colombia;Ecobio Colombia;900-1,500m;Tolima;2013;7.75;7.92;7.83;8.08;8.08;8.17;8.17;Sample  86.00;12;Green
+86.0;Arabica;Kenya;KIANJAVI;1520m-2200m;Kiambu;2013;7.92;8.17;7.83;8.5;7.5;7.92;8.17;Sample  86.00;11;Green
+86.0;Arabica;Uganda;;1400-1900M;Sipi, Mt Elgon;2012;8.25;8.0;7.83;8.08;8.0;7.92;7.92;Sample  86.00;10;Blue-Green
+86.0;Arabica;Ethiopia;Contact | sidacoop@ethionet.net;1500-2000 m;Sidamo;2009/2010;7.75;8.08;8.0;8.25;8.0;8.0;7.92;Sample  86.00;1;
+86.0;Arabica;United States (Hawaii);Hula Daddy Kona Coffee;1400ft;Kona;Fall 2009;8.33;8.17;7.75;8.0;7.75;7.83;8.17;Sample  86.00;0;
+85.92;Arabica;Guatemala;LA ESPERANZA Y ANEXOS;;NUEVO ORIENTE;2016;7.92;8.08;7.92;8.08;8.08;7.83;8.0;Sample  85.92;10;Green
+85.92;Arabica;Uganda;Sipi organic coffee project;1400-1900;Eastern;2013;8.17;8.17;7.92;8.08;7.83;7.75;8.0;Sample  85.92;12;Green
+85.92;Arabica;Colombia;;1800 msnm;Huila;2013;8.0;8.0;8.0;8.17;7.83;8.0;7.92;Sample  85.92;0;Blue-Green
+85.83;Arabica;Panama;La Berlina Estate;1600;Boquete;2017;8.0;8.0;7.92;8.08;7.83;8.0;8.0;Sample  85.83;8;Bluish-Green
+85.83;Arabica;Ethiopia;;1800-2000;Oromia;2014;7.83;8.08;7.92;8.08;8.0;7.92;8.0;Sample  85.83;10;Green
+85.83;Arabica;Guatemala;VALPARAISO;5000;ACATENANGO, CHIMALTENANGO;2012;7.83;8.0;8.0;8.17;7.83;8.0;8.0;Sample  85.83;12;Green
+85.83;Arabica;Guatemala;FINCA EL LIMON;4650;NUEVO ORIENTE ALDEA EL LIMON;2012;8.0;8.0;7.83;8.33;7.83;7.83;8.0;Sample  85.83;10;Bluish-Green
+85.75;Arabica;Ethiopia;seid damtew coffee export and plantation;;addis ababa;2017;7.83;8.0;7.83;8.17;7.92;8.0;8.0;Sample  85.75;9;None
+85.75;Arabica;Peru;;;Cajamarca;2013;8.0;8.0;8.0;8.08;7.92;7.75;8.0;Sample  85.75;10;Green
+85.75;Arabica;Papua New Guinea;Tairora Cherry – Bonta;1,700 mts;Eastern Highlands Province;2012;8.33;8.42;7.83;8.33;8.0;8.25;7.92;Sample  85.75;12;Bluish-Green
+85.58;Arabica;El Salvador;El Majahual;1500 meters;Apaneca Llamantepec;2013;7.92;8.17;8.0;7.92;7.75;7.83;8.0;Sample  85.58;10;Blue-Green
+85.58;Arabica;El Salvador;Finca La Esmeralda;1300~1400 m.s.l;Ataco, Apaneca - Ilamatepec mountain range;2012;7.83;8.0;8.0;7.75;7.92;8.17;7.92;Sample  85.58;11;None
+85.58;Arabica;United States (Hawaii);;;KONA;2012;7.83;8.0;7.92;7.75;8.08;8.0;8.0;Sample  85.58;0;
+85.5;Arabica;Panama;Elida Estate;1680;Boquete;2014;8.0;7.75;7.83;7.83;7.67;8.58;7.83;Sample  85.50;9;
+85.5;Arabica;Kenya;Inoi;1900M;Kirinyaga;2014;7.92;7.92;7.83;8.08;7.83;7.92;8.0;Sample  85.50;10;Green
+85.5;Arabica;Ethiopia;;1800-2000;Oromia;2015;7.83;8.0;7.83;7.92;7.83;8.08;8.0;Sample  85.50;12;Green
+85.5;Arabica;Uganda;Buginyanya;1600;Bulambuli Eastern region;2013;8.33;7.92;7.67;7.92;7.67;7.92;8.08;Sample  85.50;12;Green
+85.5;Arabica;Guatemala;ASOPERC;5600-5760 METROS;HUEHUETENANGO;2013;8.0;7.83;7.67;8.33;7.83;8.0;7.83;Sample  85.50;11;Green
+85.42;Arabica;Ethiopia;;1800-2000;Oromia;2015;7.75;7.83;7.83;8.17;7.92;7.83;8.08;Sample  85.42;10;Green
+85.42;Arabica;Uganda;Chesiyo farmer group;1950;Kapchorwa;2013;8.08;8.0;7.83;7.67;8.0;7.83;8.0;Sample  85.42;12;Green
+85.42;Arabica;United States (Hawaii);;;KONA;2012;7.92;7.92;7.75;7.92;7.75;7.92;8.25;Sample  85.42;0;
+85.42;Arabica;Brazil;Fazenda Serra de Três Barras;1250m;South of Minas Gerais;2011;8.0;8.0;8.0;7.67;7.75;8.0;8.0;Sample  85.42;11;Blue-Green
+85.42;Arabica;El Salvador;Sierra Nevada;1400 M;Apaneca Ilamatepec Mountain Range;2009 / 2010;8.08;7.83;7.83;8.08;7.83;7.83;7.92;Sample  85.42;1;
+85.33;Arabica;China;Pu'er City Longke Coffee Co.Ltd;1700;Yunnan Province Pu'er City Lancang County;2015;8.0;8.0;8.0;7.83;7.83;7.75;7.92;Sample  85.33;10;Green
+85.33;Arabica;Guatemala;El Injerto S.A.;1770;Huehuetenango;2014;7.83;7.75;7.83;7.67;7.83;8.58;7.83;Sample  85.33;11;Green
+85.33;Arabica;Costa Rica;Several;1300;West Valley;2014;7.92;8.08;8.0;7.92;8.0;8.08;8.0;Sample  85.33;0;Bluish-Green
+85.33;Arabica;Costa Rica;SEVERAL;1300 msnm;SAN RAMON;2014;8.0;7.58;7.58;7.67;8.08;8.5;7.92;Sample  85.33;10;Bluish-Green
+85.33;Arabica;Kenya;;above 1600 M;Central Kenya - Nyeri;2012;7.83;8.08;7.75;8.08;7.92;7.75;7.92;Sample  85.33;0;Green
+85.33;Arabica;Kenya;;Above 1200 M;Blend - Central & western Kenya;2012;8.0;7.92;7.92;8.08;7.83;7.75;7.83;Sample  85.33;0;Green
+85.33;Arabica;Ethiopia;Phone Number | 0911-513824 email: gmt.ft;;Yirgacheffe;2009/2010;7.83;7.83;7.92;8.08;7.75;7.83;8.08;Sample  85.33;5;
+85.33;Arabica;Ethiopia;;;Yirgacheffe;2009/2010;7.92;7.83;7.75;8.33;7.75;7.75;8.0;Sample  85.33;10;
+85.25;Arabica;Guatemala;LA ESPERANZA Y ANEXOS;;ORIENTE;2016;8.0;7.92;7.75;8.0;7.92;7.83;7.83;Sample  85.25;10;Green
+85.25;Arabica;Colombia;varios;1550 msnm;santander;2015;8.17;7.92;7.83;8.0;7.58;7.83;7.92;Sample  85.25;11;Green
+85.25;Arabica;Colombia;;1550;Santander;2014;7.58;8.08;7.92;7.83;8.0;7.92;7.92;Sample  85.25;12;Green
+85.17;Arabica;Indonesia;;1250-1400 meter;Lintong;2012;7.75;7.83;7.67;8.0;8.08;7.83;8.0;Sample  85.17;11;Green
+85.17;Arabica;Guatemala;Coop. Hoja Blanca - Fedecocagua;1400 msm;Huehuetenango;2012;8.25;8.0;7.67;7.92;7.75;7.67;7.92;Sample  85.17;0;
+85.08;Arabica;Ethiopia;SEID DAMTEW COFFEE PLANATION;;Kefa Zone, Gimbo Distict, at a place called Woka Araba, South West Ethiopia.;2016;7.75;8.0;7.58;8.0;8.0;7.92;7.83;Sample  85.08;11;Green
+85.08;Arabica;Colombia;;2.560 msnm;PASTO;2015;8.17;7.83;7.58;8.08;8.0;7.75;7.67;Sample  85.08;0;
+85.08;Arabica;Ethiopia;Aricha Coop;1700;Aricha;2014;8.42;8.0;7.42;8.0;7.92;7.92;8.08;Sample  85.08;10;Green
+85.08;Arabica;United States (Hawaii);;;KONA;2014;7.58;7.83;7.83;7.92;7.83;8.17;7.92;Sample  85.08;11;Bluish-Green
+85.08;Arabica;Colombia;;2136 msnm;CUNDINAMARCA;2012;7.83;8.0;7.75;7.75;7.83;7.83;8.08;Sample  85.08;11;Green
+85.08;Arabica;United States (Hawaii);;;Kona;2010-2011;8.08;8.17;7.92;8.0;8.08;8.0;8.17;Sample  85.08;1;
+85.08;Arabica;Ethiopia;;;Sidamo;2010;7.67;8.0;7.83;8.0;7.92;7.83;7.83;Sample  85.08;0;
+85.08;Arabica;United States (Hawaii);Kona Pacific Farmers Cooperative;;Kona;;7.5;7.92;8.25;7.83;7.92;7.75;7.92;Sample  85.08;0;
+85.0;Arabica;Uganda;Mount Elgon Area;1800;Eastern Uganda;2016;8.17;7.92;7.75;7.75;7.67;7.75;8.0;Sample  85.00;11;Green
+85.0;Arabica;Colombia;;;Huila;2016;8.0;7.92;7.75;7.92;7.75;7.83;7.83;Sample  85.00;0;Green
+85.0;Arabica;Costa Rica;Estate La Patricia;1900;Tarrazu;2016;7.83;8.0;7.58;7.92;7.92;7.83;7.92;Sample  85.00;12;Green
+85.0;Arabica;Mexico;Varias fincas;1300;Veracruz;2015;7.83;8.0;7.83;7.75;7.67;7.83;8.08;Sample  85.00;9;Green
+85.0;Arabica;Kenya;;-1;;2015;8.17;7.83;7.92;7.75;7.67;7.83;7.83;Sample  85.00;11;Green
+85.0;Arabica;Kenya;Machure Estate;1580;Central Kenya;2012;7.75;7.83;7.75;8.08;8.0;7.75;7.83;Sample  85.00;0;Green
+85.0;Arabica;Brazil;Sitío São Geraldo;1100m;Grama Vale;2012;8.0;8.0;7.83;7.83;7.67;7.67;8.0;Sample  85.00;12;Green
+85.0;Arabica;Mexico;KASSANDRA;1400 MASL;Mexico;2010-2011;7.92;8.17;7.75;8.08;7.42;7.83;7.83;Sample  85.00;0;
+85.0;Arabica;United States (Hawaii);Kona Pacific Farmers Cooperative;;Kona;;7.75;7.92;7.75;7.75;8.0;8.0;7.83;Sample  85.00;0;
+85.0;Arabica;Guatemala;La Igualdad;3500-5200 feet;Chuva, San Marcos;2009/2010;7.83;8.08;7.67;8.0;7.75;7.67;8.0;Sample  85.00;4;
+84.92;Arabica;Colombia;;;Huila;2016;7.92;7.92;7.67;7.83;7.92;7.83;7.83;Sample  84.92;0;
+84.92;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2015;7.92;7.83;7.75;7.83;7.75;8.0;7.83;Sample  84.92;12;Green
+84.92;Arabica;Taiwan;Baishengcun Coffee 百勝村咖啡莊園;800 M;Guoxing Township, Nantou County 南投縣國姓鄉;2015;7.67;7.83;8.0;7.58;8.0;7.92;7.92;Sample  84.92;11;Green
+84.92;Arabica;Tanzania, United Republic Of;Hasambo AMCOS;1620M;Mbeya;2014;8.0;7.83;7.83;7.92;7.75;7.75;7.83;Sample  84.92;12;Green
+84.92;Arabica;Colombia;;De 1600 a 1950 msnm;HUILA;2012;7.75;7.92;7.83;7.75;7.75;8.0;7.92;Sample  84.92;11;Green
+84.92;Arabica;Mexico;EL SUSPIRO;1200;COATEPEC;2012;7.75;8.0;7.75;7.83;7.5;7.92;8.17;Sample  84.92;11;
+84.92;Arabica;Brazil;Fazenda Grota Funda;1200m;South of Minas Gerais;2011;8.0;7.92;7.75;7.75;8.0;7.75;7.75;Sample  84.92;11;Green
+84.92;Arabica;Brazil;Sitio Claro;1000 m;South of Minas Gerais;2011;8.0;8.0;7.75;8.0;7.5;7.75;7.92;Sample  84.92;12;Green
+84.92;Arabica;Kenya;;;;2009-2010;8.0;7.67;7.83;8.17;7.92;7.75;7.58;Sample  84.92;6;
+84.83;Arabica;Taiwan;Shi Fang Yuan 十方源;350;Dongshan Dist., Tainan City 臺南市東山區;2016;7.92;7.58;7.83;7.83;7.83;7.83;8.0;Sample  84.83;0;Green
+84.83;Arabica;Uganda;Mt.Elgon Bugisu shamba 2;1400-1900;Eastern;2013;7.75;7.92;7.67;7.67;8.25;7.75;7.83;Sample  84.83;12;Green
+84.83;Arabica;United States (Hawaii);;;KONA;2012;7.67;7.75;7.75;7.75;7.83;8.0;8.08;Sample  84.83;0;
+84.83;Arabica;Ethiopia;Contact | sidacoop@ethionet.net;1500-2000 m;Sidamo;2009/2010;7.75;7.92;7.83;7.92;7.75;7.67;8.0;Sample  84.83;10;
+84.83;Arabica;Ethiopia;Contact | sidacoop@ethionet.net;1500-2000 m;Sidamo;2009/2010;7.42;7.92;7.92;8.0;7.83;7.83;7.92;Sample  84.83;10;
+84.75;Arabica;Thailand;Matsuzawa Coffee;;Thailand;2015;7.75;7.75;7.75;7.75;8.0;7.75;8.0;Sample  84.75;12;Green
+84.75;Arabica;Kenya;KARATINA;1800;NYERI;2014;7.92;7.83;7.58;7.92;7.75;7.83;7.92;Sample  84.75;13;Green
+84.75;Arabica;Honduras;Cerro Bueno;1450 msnm;Marcala;2014;7.83;7.75;8.0;7.67;7.67;7.67;8.17;Sample  84.75;11;Green
+84.75;Arabica;El Salvador;Several;1200 mts;Santa Ana;2010-2011;7.75;8.0;8.0;8.33;7.67;7.92;7.75;Sample  84.75;15;
+84.75;Arabica;Nicaragua;Santa Martha;800-1050m;Jinotega;2009 - 2010;7.83;7.58;7.58;7.83;7.75;7.67;8.5;Sample  84.75;18;
+84.67;Arabica;El Salvador;Monterrey;1350;Apaneca;2016;7.83;7.83;7.5;8.0;7.83;7.67;8.0;Sample  84.67;0;Blue-Green
+84.67;Arabica;Indonesia;SRAN Temanggung Plantation;1200;Temanggung, Indonesia;2016;7.92;7.83;7.75;7.75;7.75;7.75;7.92;Sample  84.67;12;Green
+84.67;Arabica;Japan;Ada Farm;170;ADA OKINAWA JAPAN;;7.75;7.75;7.75;7.42;8.08;7.83;8.08;Sample  84.67;12;Green
+84.67;Arabica;Costa Rica;Rio Jorco;1150;Tarrazu;2015;8.08;7.75;7.67;7.83;7.5;7.92;7.92;Sample  84.67;10;Blue-Green
+84.67;Arabica;Guatemala;SAN DIEGO BUENA VISTA;1600;ACATENANGO;2015;7.75;7.83;7.58;8.0;7.92;7.75;7.83;Sample  84.67;10;Green
+84.67;Arabica;Costa Rica;Coopetarrazú;1750;Tarrazú;2014;8.17;8.0;7.83;7.17;7.83;7.75;7.92;Sample  84.67;12;Green
+84.67;Arabica;Ethiopia;Moplaco;1900M;Yirgacheffe;2014;8.08;7.83;7.75;7.83;7.58;7.67;7.92;Sample  84.67;10;
+84.67;Arabica;Costa Rica;Finca Salaca Las Brisas;1750M;Costa Rica;2014;7.67;7.58;7.75;7.75;7.67;8.58;7.67;Sample  84.67;8;Green
+84.67;Arabica;Costa Rica;VARIOS;1200;WEST VALLEY / CENTRAL VALLEY BLEND;2014;8.0;7.58;7.83;7.75;7.75;7.75;8.0;Sample  84.67;11;Green
+84.67;Arabica;Costa Rica;;;;2012;8.08;7.83;7.75;7.83;7.92;8.0;7.92;Sample  84.67;0;Green
+84.67;Arabica;Taiwan;Dragon 龍咖啡;1000 M;Taichung Xinshe 台中市新社區;2013/2014;8.0;7.92;7.75;7.75;7.75;7.75;7.75;Sample  84.67;11;Green
+84.67;Arabica;Colombia;;1550;Santander;2013;7.75;7.83;7.75;7.83;7.75;7.83;7.92;Sample  84.67;0;Green
+84.67;Arabica;Kenya;;2000;Nyeri Province;2012;7.75;7.92;7.83;8.0;7.58;7.75;7.83;Sample  84.67;11;Bluish-Green
+84.67;Arabica;Guatemala;AGROPECUARIA QUIAGRAL;4300;ORIENTE;2012;8.0;7.83;7.67;7.83;7.67;8.0;7.67;Sample  84.67;11;Green
+84.67;Arabica;Guatemala;VALPARAISO;5000;ACATENANGO, CHIMALTENANGO;2012;7.67;7.83;7.67;8.0;7.67;7.83;8.0;Sample  84.67;12;Green
+84.67;Arabica;Mexico;EL NOGAL, LA HIGUERA, LOS LAURELES;1200;EL REMUDADERO;2012;7.83;7.58;7.67;7.92;7.92;7.83;7.92;Sample  84.67;13;
+84.67;Arabica;Uganda;;1700-1850m;Mbale;2012;7.92;7.83;7.75;7.92;7.67;7.75;7.83;Sample  84.67;11;Blue-Green
+84.67;Arabica;Peru;;;Penachi, CECANOR;;7.67;7.83;7.75;7.75;7.92;7.83;7.92;Sample  84.67;0;
+84.67;Arabica;Ethiopia;Contact | sidacoop@ethionet.net;1500-2000 m;Sidamo;2009/2010;7.42;7.75;7.75;8.0;8.0;7.92;7.83;Sample  84.67;20;
+84.58;Arabica;Kenya;JUNGLE ESTATE;1754;NYERI;;7.92;7.75;7.83;7.75;7.58;7.92;7.83;Sample  84.58;11;Blue-Green
+84.58;Arabica;Colombia;;1500;Santander;2016;7.83;7.67;7.58;7.92;7.67;7.83;8.08;Sample  84.58;0;Blue-Green
+84.58;Arabica;Colombia;;;Huila;2016;7.92;7.83;7.58;8.0;7.83;7.67;7.75;Sample  84.58;0;Green
+84.58;Arabica;Kenya;BLEND;1800;NYERI;2013;7.83;7.83;7.83;7.75;7.58;7.83;7.92;Sample  84.58;10;Bluish-Green
+84.58;Arabica;Guatemala;EL MORITO;5000 FT.;JALAPA;2014;7.75;7.83;7.67;7.92;7.75;7.83;7.83;Sample  84.58;11;Green
+84.58;Arabica;Guatemala;EL PAPATURRO;4000 PSN;ORIENTE;2014;8.0;7.92;7.67;7.58;7.58;7.67;8.17;Sample  84.58;9;Green
+84.58;Arabica;Colombia;;1550;Santander;2013;7.67;7.67;7.58;7.75;7.58;8.5;7.83;Sample  84.58;0;
+84.58;Arabica;Colombia;;1600 a 1900 msnm;Huila;2013;7.75;7.75;7.83;7.75;7.58;8.0;7.92;Sample  84.58;0;
+84.58;Arabica;Kenya;;;;2013;7.75;7.75;7.75;8.08;7.75;7.75;7.75;Sample  84.58;0;Green
+84.58;Arabica;Colombia;;1750 msnm;Huila;2012;7.67;7.83;7.83;8.0;7.58;7.92;7.75;Sample  84.58;0;Green
+84.58;Arabica;Costa Rica;La Chaparral;1450 ~ 1700 m;Tres Rios;2012;7.75;7.83;7.75;8.0;7.83;7.67;7.75;Sample  84.58;12;Bluish-Green
+84.58;Arabica;Colombia;varias;1800 msnm;huila;2012;7.42;7.67;7.75;7.75;8.08;7.83;8.08;Sample  84.58;11;Green
+84.58;Arabica;Brazil;Fazenda Recreio;1300m;Vale da Grama;2011;8.0;8.0;7.75;7.75;7.58;7.75;7.75;Sample  84.58;12;Green
+84.58;Arabica;Brazil;Fazenda Vista Alegre;1100m;Mountains of Minas Gerais;2011;8.5;8.0;7.5;7.75;7.5;7.83;7.5;Sample  84.58;11;Blue-Green
+84.5;Arabica;Costa Rica;;1200;Valle Central;2017 / 2018;7.92;7.67;7.92;7.75;7.67;7.58;8.0;Sample  84.50;10;Bluish-Green
+84.5;Arabica;Uganda;Kawacom Sipi Project;1750;Eastern Uganda;2016;7.92;7.75;7.67;7.75;7.83;7.75;7.83;Sample  84.50;11;Green
+84.5;Arabica;China;Menglian Ban’an Coffee Processing Factory;1680;Yunnan Province Pu'er City Menglian County;2015;7.75;7.92;7.67;7.83;7.75;7.67;7.92;Sample  84.50;10;Green
+84.5;Arabica;Costa Rica;Coopetarrazú;1700;Tarrazú;2014;7.92;7.83;7.83;7.83;7.58;7.58;7.92;Sample  84.50;11;Green
+84.5;Arabica;Colombia;;1800;Cauca;2015/2016;8.08;7.67;7.83;7.83;7.67;7.67;7.75;Sample  84.50;12;Green
+84.5;Arabica;China;PUER JIANGCHENG FUWANG COFFEE BIOTECHNOLOGY CO., LTD;Above 1100m;Pu'er City, Yunnan, China;2013;7.67;8.0;7.75;7.83;7.75;7.58;7.92;Sample  84.50;0;Green
+84.5;Arabica;Guatemala;EL SACRAMENTO;4300;ORIENTE;2013;8.17;7.83;7.67;7.83;7.67;7.83;7.5;Sample  84.50;11;Green
+84.5;Arabica;Kenya;Rumukia Farmers;2000 m;Nyeri province, Kenya;2012;7.92;7.83;7.67;8.0;7.67;7.75;7.67;Sample  84.50;11;Blue-Green
+84.5;Arabica;Mexico;LA BARRANCA;1350;HUSTUSCO;2012;8.0;7.92;7.42;8.08;7.5;7.67;7.92;Sample  84.50;12;Green
+84.5;Arabica;Mexico;FINCA EL RETIRO;1500;JALTENANGO;2012;7.92;7.83;7.75;7.75;7.75;7.83;7.67;Sample  84.50;11;
+84.5;Arabica;Guatemala;NUEVA GRANADA;;EL TUMBADOR, SAN MARCOS;2012;7.67;8.0;7.67;8.0;7.5;7.83;7.83;Sample  84.50;11;Green
+84.5;Arabica;Brazil;;mmm;mmm;mmm;7.81;7.81;7.88;7.75;7.38;8.25;8.13;Sample  84.50;0;
+84.5;Arabica;Brazil;;TEST;TEST;TEST;8.17;7.67;7.75;7.75;7.67;7.75;7.75;Sample  84.50;0;
+84.42;Arabica;Costa Rica;Several Farmers;1300;Tarrazu;2016;7.58;7.83;7.83;8.0;7.67;7.58;7.92;Sample  84.42;10;Blue-Green
+84.42;Arabica;Indonesia;Darmawi;1400;Sumatra Brastagi - Indonesia;2017;7.67;7.67;7.83;7.58;7.83;7.83;8.0;Sample  84.42;0;Blue-Green
+84.42;Arabica;Colombia;;;Pitalito-Huila;2015/2016;7.92;7.83;7.75;7.67;7.92;7.67;7.67;Sample  84.42;0;Green
+84.42;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2014;7.92;7.75;7.67;7.92;7.67;7.75;7.75;Sample  84.42;0;Green
+84.42;Arabica;Taiwan;Tropica Galliard;1200M;Mountain Ali, Taiwan;2012;7.83;7.83;7.75;8.0;7.5;7.75;7.75;Sample  84.42;11;Blue-Green
+84.42;Arabica;United States (Hawaii);;;KONA;2012;7.92;7.92;7.5;7.83;7.5;7.92;7.83;Sample  84.42;11;Blue-Green
+84.42;Arabica;Mexico;FINCA LA CHIRIPA;900;TAPACHULA;2012;7.75;7.92;7.75;7.67;7.83;7.67;7.83;Sample  84.42;12;
+84.42;Arabica;Ethiopia;Phone Number | 0911-513824 email: gmt.ft;;Limu;2009/2010;7.5;7.75;7.83;7.92;7.92;7.75;7.75;Sample  84.42;20;
+84.33;Arabica;Kenya;Kigwandi;1800;Nyeri;2017 / 2018;7.33;7.58;7.83;7.75;7.75;7.92;8.17;Sample  84.33;11;Green
+84.33;Arabica;Honduras;Las Cuchillas;1500;Comayagua;2016;7.92;8.0;7.75;7.67;7.67;7.75;7.58;Sample  84.33;10;Green
+84.33;Arabica;Colombia;;;Huila;2016;7.58;7.75;7.5;7.83;7.67;8.5;7.5;Sample  84.33;0;Green
+84.33;Arabica;Honduras;Los Hicaques;1500;Central Region;2016;7.58;7.92;7.58;7.75;7.92;7.75;7.83;Sample  84.33;11;Green
+84.33;Arabica;Colombia;;;La Plata;2016;7.67;7.67;7.75;7.83;7.75;7.83;7.83;Sample  84.33;0;
+84.33;Arabica;Colombia;;442 msnm;HUILA;2015;7.75;7.67;8.0;7.67;8.08;7.83;7.33;Sample  84.33;11;Green
+84.33;Arabica;Colombia;;1800;huila;2013;7.75;7.58;7.33;7.83;7.58;8.08;8.17;Sample  84.33;0;Green
+84.33;Arabica;Mexico;LA DISTANCIA;1700;TUXTLA GUTIERREZ;2012;8.0;7.75;7.75;7.83;7.5;7.67;7.83;Sample  84.33;12;Blue-Green
+84.33;Arabica;Brazil;Santa Alina;1200m to 1350m;Vale da Grama;2011;8.17;8.0;7.5;7.75;7.5;7.67;7.75;Sample  84.33;0;
+84.33;Arabica;Brazil;Fazenda Baipendi;900-1200m;South Minas Gerais;2011;8.0;8.0;7.5;7.5;7.67;7.75;7.92;Sample  84.33;2;
+84.33;Arabica;Ethiopia;;3600-6200 ft;Limu (Southwest Ethiopia);;7.75;7.75;7.92;7.75;7.5;7.92;7.75;Sample  84.33;0;
+84.33;Arabica;Guatemala;Las Minas;4400-4700 ft;Nuevo Oriente;December 2009-March 2010;7.5;7.67;7.75;7.67;7.92;7.92;7.92;Sample  84.33;4;
+84.25;Arabica;Taiwan;馨晴咖啡 Good Mood Coffee;1000;國姓鄉 Guoshing Township;2016;7.92;7.75;7.75;7.67;7.67;7.83;7.67;Sample  84.25;12;Blue-Green
+84.25;Arabica;Thailand;Matsuzawa Coffee Farm;1200;Chiang Rai THAILAND;2015;7.83;7.75;7.75;7.42;7.83;7.67;8.0;Sample  84.25;12;Green
+84.25;Arabica;Colombia;;2560;NARIÑO;2016;7.83;7.58;7.75;7.58;7.67;8.0;7.83;Sample  84.25;11;Green
+84.25;Arabica;Guatemala;FINCA MEDINA;1500;ANTIGUA;2016;7.75;7.75;7.58;7.92;7.75;7.75;7.75;Sample  84.25;11;Green
+84.25;Arabica;Guatemala;FINCA SAN VICENTE;3607;HUEHUETENANGO;2015;7.75;7.92;7.5;8.08;7.58;7.67;7.75;Sample  84.25;10;Green
+84.25;Arabica;China;Menglian County Nayun Town Mangzhang Coffee Farm;1400;Yunnan Province Pu'er City Menglian County Nayun Town;2015;7.83;7.83;7.58;7.75;7.75;7.75;7.75;Sample  84.25;10;Green
+84.25;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2015;7.67;7.67;7.75;7.75;7.67;7.92;7.83;Sample  84.25;11;Green
+84.25;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2015;7.83;7.67;7.75;7.58;7.92;7.75;7.75;Sample  84.25;12;Green
+84.25;Arabica;Colombia;;1800;Cauca;2015/2016;7.83;7.75;7.83;7.58;7.67;7.75;7.83;Sample  84.25;12;Green
+84.25;Arabica;Colombia;;442 msnm;HUILA;2015;7.42;7.67;7.83;7.75;7.92;7.83;7.83;Sample  84.25;12;Green
+84.25;Arabica;Tanzania, United Republic Of;Jacksom Mwasenga;1620M;Shizingo Village;2014;7.83;7.67;7.75;7.83;7.67;7.67;7.83;Sample  84.25;12;Green
+84.25;Arabica;Tanzania, United Republic Of;Suma JKT Itende;1600;Mbeya;2014;7.83;7.75;7.75;7.75;7.67;7.75;7.75;Sample  84.25;12;Green
+84.25;Arabica;Guatemala;EL PAPATURRO;4000 PSNM;ORIENTE;2014;7.83;7.83;7.5;7.92;7.58;7.75;7.83;Sample  84.25;10;Green
+84.25;Arabica;Colombia;;1700;cauca;2013;7.58;7.5;7.75;7.83;7.92;7.83;7.83;Sample  84.25;11;Green
+84.25;Arabica;United States (Hawaii);;;KONA;2012;7.33;7.92;7.92;7.92;7.92;8.08;7.83;Sample  84.25;11;Bluish-Green
+84.25;Arabica;Mexico;PANTE CARAJILLO;1450;SAN PEDRO COTZILNAM;2012;7.83;7.92;7.67;7.83;7.5;7.75;7.75;Sample  84.25;12;Green
+84.25;Arabica;Mexico;FINCA LOS BARREALES;1170;TEOCELO, VERACRUZ;2012;7.83;7.83;7.75;7.67;7.83;7.58;7.75;Sample  84.25;12;Green
+84.25;Arabica;Mexico;FINCA SANTA TERESA;1400;LA CONCORDIA, CHIAPAS;2012;7.83;7.92;7.67;7.75;7.5;7.75;7.83;Sample  84.25;10;Bluish-Green
+84.25;Arabica;Uganda;;1700m;Kasese;2012;8.17;7.75;7.58;7.67;7.83;7.58;7.67;Sample  84.25;13;Green
+84.17;Arabica;Guatemala;PIAMONTE;1700;SAN MARCOS;2017;7.75;7.83;7.58;7.83;7.67;7.75;7.75;Sample  84.17;13;Green
+84.17;Arabica;Colombia;;;Huila;2016;7.83;7.75;7.58;7.67;7.75;7.83;7.75;Sample  84.17;0;Green
+84.17;Arabica;Costa Rica;Los Girasoles;1700;Tarrazu;2016;7.92;7.75;7.67;7.67;7.5;7.67;8.0;Sample  84.17;9;Bluish-Green
+84.17;Arabica;Guatemala;FINCA LA JOYA;3664;HUEHUETENANGO;2016;7.75;7.75;7.58;8.0;7.67;7.83;7.58;Sample  84.17;11;Green
+84.17;Arabica;Guatemala;SANTO TOMAS PACHUJ;1565;SOLOLA;2016;7.75;7.92;7.58;7.92;7.67;7.67;7.67;Sample  84.17;10;Green
+84.17;Arabica;Guatemala;CHAPULTEPEC;3280;NORTE;2016;7.58;7.83;7.58;7.83;7.83;7.67;7.83;Sample  84.17;10;Green
+84.17;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2015;8.0;7.5;7.5;7.67;8.0;7.83;7.67;Sample  84.17;0;Bluish-Green
+84.17;Arabica;Nicaragua;Las Nubes;de 900 a 1100 msnm;Jinotega, Nicaragua;2015;7.67;7.83;7.83;7.5;7.67;7.83;7.83;Sample  84.17;12;Bluish-Green
+84.17;Arabica;Brazil;PANTANO;1150;CERRADO;2015;7.67;7.75;7.75;7.67;7.83;7.75;7.75;Sample  84.17;0;
+84.17;Arabica;Costa Rica;Gamboa;1850;TARRAZU;2014;7.67;7.75;7.67;7.75;7.5;8.0;7.83;Sample  84.17;0;Blue-Green
+84.17;Arabica;Ethiopia;Asefa Dukamo Coffee Plantation;1545-1668 MASL;"SNNPRG; KAFA; TELO WOREDA; SHADA KEBELE";2014;7.5;7.92;7.58;7.83;7.75;7.83;7.75;Sample  84.17;10;Green
+84.17;Arabica;Tanzania, United Republic Of;Selian Coffee Estate;1400;Arusha;2014;7.92;7.75;7.75;7.75;7.75;7.58;7.67;Sample  84.17;13;Green
+84.17;Arabica;Colombia;;1530;Huila;2014/2015;7.67;7.5;7.67;7.42;7.83;8.58;7.5;Sample  84.17;12;Green
+84.17;Arabica;Guatemala;;;;2013;7.67;7.75;7.67;7.75;7.75;7.75;7.83;Sample  84.17;11;Bluish-Green
+84.17;Arabica;Kenya;;approx. 1'500 metres a.s.l.;Kenya;2013;7.58;7.75;7.75;7.75;7.75;7.83;7.75;Sample  84.17;8;Green
+84.17;Arabica;Brazil;Café do Paraíso;894m - 1183m;Minas Gerais, BR;2012;7.58;7.83;7.75;7.67;7.67;8.0;7.67;Sample  84.17;11;Green
+84.17;Arabica;Guatemala;LA UNION MONTEVERDE;4300;ORIENTE;2013;7.92;7.75;7.67;7.67;7.83;7.92;7.42;Sample  84.17;11;Green
+84.17;Arabica;El Salvador;El Majahual Tempisque;1500 meters;Apaneca Llamantepec;2013;8.42;8.08;7.5;7.17;7.58;8.17;7.92;Sample  84.17;11;Bluish-Green
+84.17;Arabica;Colombia;;1750 msnm;huila;2012;7.75;7.75;7.75;7.75;7.83;7.75;7.58;Sample  84.17;0;Green
+84.17;Arabica;Guatemala;EL LIMON;;GUATEMALA;2012;7.83;7.5;7.5;8.0;7.83;7.83;7.67;Sample  84.17;11;Bluish-Green
+84.17;Arabica;Uganda;;1500-1700m;Mt. Rwenzori;2012;7.83;7.75;7.5;7.83;7.83;7.75;7.67;Sample  84.17;11;Green
+84.13;Arabica;Indonesia;MUS, EMAN;;ACEH TENGAH;2017;7.81;7.88;7.56;7.75;7.63;7.75;7.75;Sample  84.13;12;Bluish-Green
+84.08;Arabica;Colombia;;442;HUILA;2017 / 2018;7.83;7.5;7.42;7.5;7.83;8.5;7.5;Sample  84.08;0;Green
+84.08;Arabica;Taiwan;CHANG YU LIANG 張玉良;968;Nanxi Dist., Tainan City 臺南市楠西區;2016;7.58;7.67;7.67;7.67;7.75;7.83;7.92;Sample  84.08;10;Bluish-Green
+84.08;Arabica;Guatemala;LA ESPERANZA Y ANEXOS;;ORIENTE;2016;8.0;7.75;7.5;7.58;7.92;7.67;7.67;Sample  84.08;10;Green
+84.08;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2014;7.92;7.75;7.67;7.75;7.67;7.67;7.67;Sample  84.08;0;
+84.08;Arabica;Guatemala;Aprocafi;1550;Aldea Xeucalvitz, Ixil Region, Quiche Department;2014;7.58;7.75;7.67;8.0;7.75;7.67;7.67;Sample  84.08;10;Bluish-Green
+84.08;Arabica;United States (Hawaii);;;KONA;2012;7.83;7.75;7.83;7.83;7.42;8.08;8.0;Sample  84.08;11;Green
+84.08;Arabica;Mexico;LA LAGUNILLA;1480;SANTO DOMINGO CACALOTEPEC;2012;7.67;7.75;7.67;7.75;7.67;7.75;7.83;Sample  84.08;11;Green
+84.08;Arabica;Ethiopia;;1800m;Ethiopia, Sidamo;2012;7.92;7.92;7.83;8.0;7.92;7.92;7.92;Sample  84.08;9;
+84.0;Arabica;Costa Rica;;;;2017;7.58;7.75;7.67;7.75;7.83;7.75;7.67;Sample  84.00;8;None
+84.0;Arabica;Ethiopia;Kerchanshe;1800;SIDAMO;2017;7.83;7.75;7.67;7.75;7.33;7.75;7.92;Sample  84.00;11;Green
+84.0;Arabica;Honduras;Las Cuchillas;1500;Comayagua;2017;7.42;7.83;7.75;7.92;7.75;7.58;7.75;Sample  84.00;10;Green
+84.0;Arabica;Guatemala;FINCA LOS CERROS Y ANEXOS;5440 - 5760 METROS;HUEHUETENANGO;2015;7.67;7.83;7.58;7.92;7.75;7.67;7.58;Sample  84.00;12;Green
+84.0;Arabica;Colombia;;1600;Huila;2014/2015;7.67;7.67;7.83;7.58;7.58;7.83;7.83;Sample  84.00;11;Green
+84.0;Arabica;Guatemala;EL PAPATURRO;4000 PSNM;ORIENTE;2014;7.92;7.67;7.42;7.92;7.75;7.83;7.5;Sample  84.00;10;Green
+84.0;Arabica;Guatemala;EL PAPATURRO;4000 PSNM;ORIENTE;2014;7.75;7.83;7.5;7.83;7.58;7.67;7.83;Sample  84.00;10;Green
+84.0;Arabica;Colombia;;1480;Huila;2014;7.67;7.75;7.67;7.67;7.67;7.75;7.83;Sample  84.00;12;Green
+84.0;Arabica;Colombia;;1450;santander;2014;7.58;7.42;7.75;7.92;7.75;7.92;7.67;Sample  84.00;12;Green
+84.0;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2014;7.67;7.67;7.5;7.5;7.67;7.67;8.33;Sample  84.00;12;Green
+84.0;Arabica;Ethiopia;;1550 m;Sidamo;2013;7.75;7.75;7.5;7.58;7.67;7.92;7.83;Sample  84.00;9;Green
+84.0;Arabica;Brazil;Fazenda Rio Verde;1260;South Minas;2013/2014;7.58;7.83;7.67;7.25;8.0;7.75;7.92;Sample  84.00;10;Green
+84.0;Arabica;Colombia;;1700 msnm;Cauca;2013;7.67;7.83;7.67;7.75;7.67;7.75;7.67;Sample  84.00;11;Green
+84.0;Arabica;Kenya;;Above 1200 M;Blend;2012;7.67;7.83;7.5;7.75;7.92;7.67;7.67;Sample  84.00;0;Green
+84.0;Arabica;Thailand;Doi Tung Development Project;-;Thailand;2012;7.92;8.17;8.17;8.42;8.08;8.17;8.42;Sample  84.00;12;Green
+84.0;Arabica;Kenya;-;1650;Central Kenya;2012;7.67;7.75;7.67;7.75;7.83;7.67;7.67;Sample  84.00;0;Bluish-Green
+84.0;Arabica;Uganda;;1700m;Kasese;2012;7.92;7.75;7.58;7.67;7.67;7.83;7.58;Sample  84.00;10;Green
+84.0;Arabica;Thailand;Doi Tung Development Project;;;2011;7.58;7.75;7.58;7.75;7.58;7.75;8.0;Sample  84.00;6;
+83.92;Arabica;Brazil;Fazenda Capoeirinha;890;South of Minas Gerais;2017 / 2018;7.5;7.75;7.58;7.5;7.58;7.5;8.5;Sample  83.92;0;Green
+83.92;Arabica;Mexico;CAFETAL;1300;VERACRUZ;2017;7.83;7.83;7.58;7.92;7.42;7.5;7.83;Sample  83.92;11;Green
+83.92;Arabica;Thailand;Saveg Coffee Farm;1350;Chiangrai;2015;7.67;7.75;7.5;7.67;7.67;7.83;7.83;Sample  83.92;10;Bluish-Green
+83.92;Arabica;Brazil;Capoeirinha Farm;934;South of Minas Gerais;2016;7.58;7.67;7.67;7.75;7.58;7.83;7.83;Sample  83.92;11;Green
+83.92;Arabica;Taiwan;Tsoustructive Garden 鄒築園;1200;Leye, Alishan Township, Chiayi County 嘉義阿里山樂野村;2015;7.83;7.75;7.83;7.75;7.83;7.75;7.83;Sample  83.92;11;Green
+83.92;Arabica;Colombia;;442;HUILA;2016;7.75;7.67;7.5;7.75;7.83;7.75;7.67;Sample  83.92;11;Green
+83.92;Arabica;Colombia;;;La Plata;2016;7.75;7.58;7.5;7.83;7.75;7.92;7.58;Sample  83.92;0;
+83.92;Arabica;Taiwan;Very Famous Intl.名門義理國際股份有限公司;none;台灣;2014;7.75;7.75;7.58;7.75;7.75;7.67;7.67;Sample  83.92;0;Blue-Green
+83.92;Arabica;Colombia;;;Huila;2015;7.92;7.67;7.5;7.83;7.58;7.67;7.75;Sample  83.92;0;
+83.92;Arabica;Colombia;;;Huila;2014;7.83;7.75;7.58;7.58;7.75;7.75;7.67;Sample  83.92;0;None
+83.92;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2014;7.75;7.58;7.67;7.83;7.83;7.67;7.58;Sample  83.92;0;Green
+83.92;Arabica;Taiwan;神谷山莊園;950公尺;台中和平區;2014;8.0;7.92;7.92;7.92;7.67;7.33;7.17;Sample  83.92;6;Green
+83.92;Arabica;Colombia;;1550;Santander;2014;7.67;7.83;7.67;7.75;7.67;7.83;7.5;Sample  83.92;12;Green
+83.92;Arabica;Mexico;FINCA CUETZALINGO;900;XICOTEPEC DE JUAREZ;2012;7.67;7.75;7.58;7.67;7.75;7.83;7.67;Sample  83.92;12;Blue-Green
+83.92;Arabica;Mexico;FINCA SANT ROSA;1500;LA CONCORDIA;2012;7.5;7.67;7.58;7.83;7.75;7.75;7.83;Sample  83.92;11;
+83.92;Arabica;Mexico;COMUNIDAD LA YERBABUENA;1400;LA YERBABUENA;2012;7.75;7.92;7.83;7.92;7.75;7.67;7.75;Sample  83.92;0;Green
+83.83;Arabica;Colombia;;2527;Nariño;2017;7.92;7.58;7.5;7.83;7.58;7.67;7.75;Sample  83.83;0;Green
+83.83;Arabica;Colombia;;;Huila;2016;7.83;7.67;7.5;7.75;7.75;7.75;7.58;Sample  83.83;0;Green
+83.83;Arabica;Costa Rica;Gamboa;1850;Tarrazu;2015;7.67;7.67;7.75;7.67;7.5;7.75;7.83;Sample  83.83;0;Blue-Green
+83.83;Arabica;Guatemala;FINCA MEDINA;1500;ANTIGUA;2016;7.75;7.75;7.5;7.75;7.83;7.58;7.67;Sample  83.83;11;Green
+83.83;Arabica;Taiwan;優遊吧斯股份有限公司Yuyupas International Corp.;1200;台灣;2016;7.75;7.67;7.5;7.75;7.75;7.67;7.75;Sample  83.83;0;
+83.83;Arabica;Brazil;Rio Verde;1;South of Minas Gerais;2015/2016;7.25;7.58;7.42;8.0;7.75;7.83;8.0;Sample  83.83;0;Green
+83.83;Arabica;Taiwan;鄉舍咖啡 Hometown Coffee;480-570M;Dongshan Dist., Tainan City 臺南市東山區;2014;7.67;7.75;7.67;7.75;7.42;7.75;7.83;Sample  83.83;0;Green
+83.83;Arabica;Ethiopia;;1650-1703;Oromia;2014;7.75;7.75;7.67;7.67;7.58;7.67;7.75;Sample  83.83;12;Green
+83.83;Arabica;Brazil;Rio Verde;1200;South Minas Gerais;2014/2015;7.67;7.67;7.58;7.5;7.83;8.17;8.08;Sample  83.83;0;Green
+83.83;Arabica;Costa Rica;VARIOS;1200-1400;CENTRAL VALLEY - WEST VALLEY;2013;7.83;7.42;7.5;7.83;7.75;7.83;7.67;Sample  83.83;10;Green
+83.83;Arabica;Guatemala;EL PAPATURRO;4000 PSNM;ORIENTE;2014;7.58;7.83;7.33;8.0;7.58;7.75;7.75;Sample  83.83;10;Green
+83.83;Arabica;Brazil;Fazenda Rio Verde;1260;South Minas;2013/2014;7.92;7.5;7.33;7.67;8.17;7.5;7.75;Sample  83.83;10;Green
+83.83;Arabica;Ecuador;Finca El Trueno;800 meters above sea level;Province of Manabi, Ecuador;2013;7.5;7.67;7.58;7.75;7.83;7.83;7.67;Sample  83.83;9;Bluish-Green
+83.83;Arabica;Colombia;;1750 msnm;huila;2013;7.67;7.58;7.58;7.83;7.58;7.67;7.92;Sample  83.83;11;Green
+83.83;Arabica;Guatemala;FINCA EL MORITO;4300;ORIENTE;2013;7.5;7.83;7.5;7.83;7.83;7.67;7.67;Sample  83.83;11;Green
+83.83;Arabica;Mexico;PREDIO CAÑADA DEL ENCINO;1218;PETATLAN;2012;7.67;8.0;7.67;7.42;7.67;7.5;7.92;Sample  83.83;10;Green
+83.83;Arabica;Mexico;FINCA SANTA TERESA;1300;LA CONCORDIA, CHIAPAS;2012;7.67;7.58;7.5;7.75;7.75;7.75;7.83;Sample  83.83;11;
+83.83;Arabica;Brazil;Fazenda do Sertão;1.250 m;Carmo de Minas;2011/2012;7.83;7.83;7.58;7.67;7.5;7.58;7.83;Sample  83.83;12;Green
+83.83;Arabica;Thailand;Doi Chaang Coffee Original Co.,Ltd;4921ft;Doi Chaang Villiang, Chiang Rai, Thialand;2011;7.75;7.75;7.58;8.0;7.67;7.58;7.5;Sample  83.83;2;
+83.83;Arabica;Thailand;Doi Tung Development Project;;;2011;7.5;7.83;7.58;7.58;7.75;7.83;7.75;Sample  83.83;1;
+83.83;Arabica;Ethiopia;Phone number | 0911-51-08-01, Email | at;;Sidamo;2010;7.58;7.83;7.58;8.0;7.83;7.5;7.5;Sample  83.83;10;
+83.75;Arabica;Kenya;;1800;NYERI COUNTY;;7.75;7.58;7.5;7.58;7.75;7.75;7.83;Sample  83.75;11;Green
+83.75;Arabica;Brazil;Fazenda Capoeirinha;890;South of Minas Gerais;2017 / 2018;7.67;7.67;7.58;7.75;7.67;7.67;7.75;Sample  83.75;11;Green
+83.75;Arabica;Colombia;;442;HUILA;2017;7.83;7.83;7.58;7.58;7.58;7.58;7.75;Sample  83.75;11;Green
+83.75;Arabica;Taiwan;崁頭山咖啡館 (Kan Tou Mountain Coffee);750;台南市東山區 (Dongshan Dist., Tainan City);2016;7.67;7.67;7.58;7.58;7.67;7.83;7.75;Sample  83.75;0;Green
+83.75;Arabica;Colombia;;;Huila;2016;7.92;7.75;7.5;7.67;7.75;7.5;7.67;Sample  83.75;0;Green
+83.75;Arabica;China;Pu’er Specialty Coffee Cupping Center;1650;Yunnan Province Pu'er City Menglian County;2015;7.83;7.75;7.67;7.5;7.58;7.67;7.75;Sample  83.75;10;Green
+83.75;Arabica;Colombia;;442 msnm;HUILA;2015/2016;7.75;7.67;7.5;7.67;7.58;7.83;7.75;Sample  83.75;0;Green
+83.75;Arabica;Uganda;Erussi Farmers group;1400;West Nile;2013;8.0;7.92;7.58;7.75;7.33;7.5;7.67;Sample  83.75;12;Green
+83.75;Arabica;United States (Puerto Rico);Hacienda Caracolillo;2800 ft;Yauco Region;2013;7.83;7.83;7.83;7.67;8.0;8.17;7.75;Sample  83.75;12;Green
+83.75;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2014;7.67;7.67;7.67;7.92;7.5;7.67;7.67;Sample  83.75;0;Green
+83.75;Arabica;Colombia;;1500-1600;Huila;2014;7.67;7.42;7.42;7.42;8.0;8.33;7.5;Sample  83.75;0;Green
+83.75;Arabica;Colombia;;1750 msnm;Huila;2013;7.58;7.67;7.75;7.67;7.67;7.67;7.75;Sample  83.75;0;Blue-Green
+83.75;Arabica;Colombia;;1750;huila;2013;7.75;7.67;7.75;7.58;7.42;8.0;7.58;Sample  83.75;11;Green
+83.75;Arabica;United States (Hawaii);;;KONA;2013;7.25;7.42;7.67;7.58;7.83;8.25;7.75;Sample  83.75;0;Bluish-Green
+83.75;Arabica;Mexico;NARANJAL;700;HUAZALINGO, HIDALGO;2012;7.83;7.58;7.58;7.5;7.75;7.67;7.83;Sample  83.75;13;None
+83.75;Arabica;Guatemala;Several farms;1300 mts;Quetzaltenango;2012;7.67;7.58;7.58;7.67;7.75;7.75;7.75;Sample  83.75;11;Bluish-Green
+83.75;Arabica;Colombia;;1600 m.s.n.m;Cauca;January 2011;7.83;7.83;7.58;7.33;7.42;7.67;8.08;Sample  83.75;10;
+83.75;Arabica;Colombia;;1600 msnm;cundinamarca;4T/10;7.75;7.67;7.25;7.25;7.58;8.5;7.75;Sample  83.75;6;
+83.75;Arabica;United States (Hawaii);;;Kona;;7.83;7.67;7.75;7.67;7.58;7.5;7.75;Sample  83.75;0;
+83.67;Arabica;Brazil;Fazenda Capoeirinha;890;South of Minas Gerais;2017 / 2018;7.67;7.83;7.5;7.67;7.67;7.5;7.83;Sample  83.67;11;Green
+83.67;Arabica;Kenya;;1700;MERU COUNTY;2017;8.08;7.67;7.67;7.58;7.25;7.67;7.75;Sample  83.67;11;Bluish-Green
+83.67;Arabica;Honduras;Los Hicaques;1400;Comayagua;2016;7.5;7.5;7.67;7.67;8.0;8.0;7.33;Sample  83.67;10;Green
+83.67;Arabica;Nicaragua;SANTA MATILDE;1250;JINOTEGA, NICARAGUA;2016;7.67;7.75;7.67;7.67;7.83;7.58;7.5;Sample  83.67;10;Green
+83.67;Arabica;Brazil;Capoeirinha Farm;934;South of Minas Gerais;2016;7.58;7.75;7.58;7.75;7.58;7.58;7.83;Sample  83.67;11;Green
+83.67;Arabica;Taiwan;Tsoustructive Garden 鄒築園;1200;Leye, Alishan Township, Chiayi County;2015;7.5;7.67;7.33;7.92;7.83;7.67;7.75;Sample  83.67;10;Bluish-Green
+83.67;Arabica;Costa Rica;;1350;WEST VALLEY;;7.33;7.67;7.67;7.5;7.67;7.5;8.33;Sample  83.67;11;Blue-Green
+83.67;Arabica;Thailand;;800++;THAILAND;2014;7.5;7.75;7.58;7.83;7.67;7.58;7.75;Sample  83.67;12;Bluish-Green
+83.67;Arabica;Colombia;;1550-1700m;Huila;2014/2015;7.5;7.75;7.5;7.75;7.67;7.67;7.83;Sample  83.67;11;
+83.67;Arabica;Guatemala;FINCA LAS CUEVITAS;4451 METROS;HUEHUETENANGO;2014;8.0;7.5;7.33;8.0;8.0;8.0;7.5;Sample  83.67;10;Green
+83.67;Arabica;Colombia;VARIAS;1750 MSNM;HUILA SUPREMO;2013;7.83;7.75;7.67;7.58;7.58;7.67;7.58;Sample  83.67;0;Green
+83.67;Arabica;Colombia;;1800 - 2000;Huila;2013;7.67;7.67;7.67;7.67;7.33;7.75;7.92;Sample  83.67;0;Green
+83.67;Arabica;Guatemala;LA UNION MONTEVERDE;4300;ORIENTE;2013;7.67;7.67;7.42;7.67;8.0;7.75;7.5;Sample  83.67;12;Green
+83.67;Arabica;Guatemala;EL SACRAMENTO;4300;ORIENTE;2013;7.83;7.67;7.33;7.67;7.67;7.83;7.67;Sample  83.67;11;Green
+83.67;Arabica;Colombia;;1750 msnm;huila;2012;7.75;7.75;7.58;7.83;7.17;7.75;7.83;Sample  83.67;11;Green
+83.67;Arabica;Guatemala;Finca Quequesquez;1450;Oriente;2012;8.17;8.17;7.83;7.67;8.08;7.75;8.0;Sample  83.67;11;Green
+83.67;Arabica;Guatemala;AGROPECUARIA QUIAGRAL;4300;ORIENTE;2012;7.67;8.17;7.5;7.42;7.58;7.83;7.5;Sample  83.67;11;Green
+83.67;Arabica;Mexico;FINCA APOXTLA;1100;XICOTEPEC DE JUAREZ;2012;7.67;7.5;7.5;7.33;7.83;8.25;7.58;Sample  83.67;12;Green
+83.67;Arabica;Indonesia;Ijen Highland, East Java;1200-1600masl;East Java;2012;8.17;7.67;7.58;7.58;7.42;7.67;7.58;Sample  83.67;12;Green
+83.67;Arabica;Guatemala;FINCA MEDINA;5000;SACATEPEQUEZ, GUATEMALA;2012;7.67;7.5;7.33;8.0;7.67;7.67;7.83;Sample  83.67;10;Green
+83.67;Arabica;United States (Hawaii);;;;;7.75;8.0;7.92;8.08;7.75;8.0;8.17;Sample  83.67;0;
+83.58;Arabica;Brazil;Fazenda Capoeirinha;890;South of Minas Gerais;2017 / 2018;7.58;7.67;7.58;7.58;7.67;7.58;7.92;Sample  83.58;11;Green
+83.58;Arabica;Guatemala;FINCA SANTA CLARA;3702;HUEHUETENANGO;2016;7.75;7.75;7.5;7.83;7.58;7.58;7.58;Sample  83.58;11;Green
+83.58;Arabica;Colombia;;;Huila;2016;7.75;7.75;7.58;7.58;7.67;7.58;7.67;Sample  83.58;11;Green
+83.58;Arabica;China;Menglian Mang Pan Professional Cooperative;1100;Yunnan Province Pu'er City Menglian County;2015;7.67;7.58;7.58;7.58;7.67;7.75;7.75;Sample  83.58;10;Green
+83.58;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2015;7.67;7.75;7.58;7.67;7.75;7.58;7.58;Sample  83.58;12;Green
+83.58;Arabica;Mexico;Exportadora Café California;1200;CHIAPAS, JALTENANGO;2014;7.75;7.75;7.58;7.58;7.5;7.67;7.75;Sample  83.58;12;Green
+83.58;Arabica;Ethiopia;Lomi Tasha;1700-2000m;Yirgacheffe;2014;7.75;7.67;7.58;7.67;7.5;7.67;7.75;Sample  83.58;0;
+83.58;Arabica;Uganda;Bulamburi coffee farmers;1800;Eastern;2013;7.67;7.67;7.42;7.75;7.75;7.67;7.67;Sample  83.58;12;Green
+83.58;Arabica;Colombia;;1600;CUNDINAMARCA;2014;7.67;7.58;7.67;7.67;7.67;7.67;7.67;Sample  83.58;0;Green
+83.58;Arabica;Colombia;;1550;Santander;2014;7.67;7.58;7.67;7.58;7.67;7.75;7.67;Sample  83.58;12;Green
+83.58;Arabica;Colombia;;1550;Santander;2014;7.75;7.58;7.5;7.58;7.75;7.83;7.58;Sample  83.58;0;
+83.58;Arabica;Taiwan;Dragon Coffee 龍咖啡;1000 M;Taichung Xinshe 台中市新社區;2013/2014;7.75;7.75;7.75;7.75;7.5;7.58;7.5;Sample  83.58;11;Green
+83.58;Arabica;Colombia;;DE 1.600 A 1.950 MSNM;HUILA;2012;7.67;7.67;7.58;7.67;7.75;7.58;7.67;Sample  83.58;11;Green
+83.58;Arabica;Mexico;OJO DE AGUA;1000;XALAPA;2012;7.83;7.67;7.58;7.58;7.67;7.58;7.67;Sample  83.58;12;
+83.58;Arabica;Colombia;;2136 msnm;CUNDINAMARCA;2012;7.67;7.58;7.58;7.58;7.67;7.75;7.75;Sample  83.58;11;Green
+83.58;Arabica;Brazil;Fazenda Jericó;1100m;South of Minas Gerais;2012;7.83;7.75;7.5;7.75;7.5;7.58;7.67;Sample  83.58;12;Blue-Green
+83.5;Arabica;Colombia;;1799;cundinamarca;2016;7.75;7.58;7.58;7.75;7.75;7.5;7.58;Sample  83.50;0;Bluish-Green
+83.5;Arabica;Taiwan;南投縣魚池鄉水社村中正路63-1號;;;2016 / 2017;7.58;7.58;7.17;7.17;7.0;7.0;10.0;Sample  83.50;11;Blue-Green
+83.5;Arabica;Costa Rica;;1850;Tarrazu;2015;7.92;7.42;7.5;7.67;7.5;7.67;7.83;Sample  83.50;0;Blue-Green
+83.5;Arabica;Colombia;;1000;PITALITO - HUILA;2016;7.75;7.58;7.58;7.5;7.75;7.75;7.58;Sample  83.50;0;Green
+83.5;Arabica;Guatemala;LA ESPERANZA;4000;ORIENTE;2016;7.67;7.75;7.5;7.83;7.58;7.58;7.58;Sample  83.50;10;Bluish-Green
+83.5;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2015;7.58;7.58;7.58;7.58;7.75;7.67;7.75;Sample  83.50;12;Green
+83.5;Arabica;Tanzania, United Republic Of;ANO Family;1400M;Nkure- Meru;2015;7.75;7.67;7.58;7.67;7.67;7.58;7.58;Sample  83.50;13;Green
+83.5;Arabica;Indonesia;Yusrin;1500;Bener Meriah;2015;7.25;7.67;7.58;7.92;7.83;7.58;7.67;Sample  83.50;13;Bluish-Green
+83.5;Arabica;Ethiopia;;1600 on Average;Oromia;2014;7.67;7.75;7.5;7.58;7.75;7.67;7.58;Sample  83.50;10;
+83.5;Arabica;Colombia;;;Huila;2014;7.67;7.42;7.67;7.83;7.58;7.67;7.67;Sample  83.50;0;
+83.5;Arabica;Colombia;;1850 MSNM;HUILA;2014;8.0;7.58;7.25;7.58;7.92;7.58;7.58;Sample  83.50;11;Green
+83.5;Arabica;Guatemala;SEVERAL;1400 mts;Atitlan;2013;7.58;7.75;7.5;7.83;7.42;7.67;7.75;Sample  83.50;10;Green
+83.5;Arabica;Colombia;;1650;cundinamarca;2014;7.75;7.58;7.33;7.5;7.83;7.83;7.67;Sample  83.50;0;
+83.5;Arabica;Honduras;Los Hicaques;1350;Comayagua;2014/2015;7.67;7.5;7.67;7.5;7.67;7.67;7.83;Sample  83.50;10;Green
+83.5;Arabica;Colombia;;1750 msnm;Huila;2013;7.58;7.75;7.42;7.67;7.75;7.67;7.67;Sample  83.50;0;Green
+83.5;Arabica;Colombia;;1750 msnm;Huila;2013;7.58;7.67;7.58;7.75;7.58;7.75;7.58;Sample  83.50;11;Green
+83.5;Arabica;Mexico;FINCA LOS BARREALES 1112LBAN;1170;XALAPA;2012;7.83;7.58;7.25;7.5;7.5;7.42;8.42;Sample  83.50;13;Green
+83.5;Arabica;Mexico;;940;CHILÓN;2012;7.67;7.75;7.67;7.75;7.58;7.5;7.58;Sample  83.50;11;Green
+83.5;Arabica;Mexico;LA CORRALERA;1400;TOTUTLA;2012;7.75;7.67;7.67;7.75;7.33;7.5;7.83;Sample  83.50;12;Green
+83.5;Arabica;Guatemala;SANTO TOMAS PACHUJ;5000;ATITLAN;2012;7.83;7.5;7.5;8.0;7.67;7.5;7.5;Sample  83.50;10;Green
+83.5;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2012;7.67;7.58;7.58;7.67;7.67;7.67;7.67;Sample  83.50;11;Green
+83.5;Arabica;Guatemala;Conquista/Morito;4,600 ft.;Oriente;2012;7.5;7.5;7.75;7.5;8.0;7.67;7.58;Sample  83.50;0;Green
+83.5;Arabica;United States (Hawaii);;;;;7.5;7.67;7.58;7.92;7.58;7.67;7.58;Sample  83.50;1;
+83.5;Arabica;Indonesia;PANCOER ANGKREK;1600;Bondowoso;23 July 2010;7.83;7.58;7.58;7.58;7.75;7.58;7.58;Sample  83.50;0;
+83.42;Arabica;Colombia;;439;HUILA;2017 / 2018;7.5;7.58;7.58;7.5;7.75;7.83;7.67;Sample  83.42;0;Green
+83.42;Arabica;Guatemala;PIAMONTE;1700;SAN MARCOS;2017;7.67;7.75;7.5;7.58;7.58;7.67;7.67;Sample  83.42;10;Green
+83.42;Arabica;Colombia;;442;HUILA;2016;7.67;7.67;7.5;7.67;7.67;7.58;7.67;Sample  83.42;11;Green
+83.42;Arabica;Costa Rica;Gamboa;1850;Tarrazu;2016;7.58;7.5;7.42;7.92;7.5;7.67;7.83;Sample  83.42;9;Blue-Green
+83.42;Arabica;Taiwan;日月潭文武莊園;;;2015;7.67;7.67;7.0;7.08;7.0;7.0;10.0;Sample  83.42;11;Blue-Green
+83.42;Arabica;Uganda;Bulago & Buginyanya;1800;Eastern;2015;7.58;7.75;7.33;7.75;7.67;7.58;7.75;Sample  83.42;11;Green
+83.42;Arabica;Thailand;Matsuzawa Coffee;1200;Thailand;2015;7.5;7.58;7.75;7.5;7.75;7.67;7.67;Sample  83.42;13;Bluish-Green
+83.42;Arabica;El Salvador;La Joya;1330;Apaneca - Ilamatepec;2016;7.58;7.5;7.75;7.58;7.75;7.67;7.58;Sample  83.42;11;
+83.42;Arabica;Colombia;;442 msnm;HUILA;2015;7.58;7.67;7.58;7.67;7.58;7.67;7.67;Sample  83.42;12;Green
+83.42;Arabica;Brazil;CACHOEIRA DA GRAMA FARM;;VALE DA GRAMA;2014;7.33;7.83;7.75;7.5;7.42;7.83;7.75;Sample  83.42;12;Green
+83.42;Arabica;Tanzania, United Republic Of;Ngila Estate;1600;Karatu Northern;2014;7.75;7.67;7.58;7.67;7.58;7.58;7.58;Sample  83.42;13;Green
+83.42;Arabica;Colombia;;1813;HUILA;2014/2015;7.58;7.58;7.25;7.75;7.75;8.58;7.58;Sample  83.42;12;Green
+83.42;Arabica;Guatemala;EL PAPATURRO;4000 PSNM;ORIENTE;2013;7.75;7.83;7.33;7.83;7.5;7.67;7.5;Sample  83.42;10;Green
+83.42;Arabica;Guatemala;FINCA MEDINA;1500 msnm;ANTIGUA;2014;7.67;7.75;7.5;7.83;7.58;7.5;7.58;Sample  83.42;10;Green
+83.42;Arabica;Guatemala;EL MORITO;4300;ORIENTE;2013;7.67;7.5;7.75;7.42;7.75;7.75;7.58;Sample  83.42;11;Green
+83.42;Arabica;United States (Hawaii);;;KONA;2012;7.42;7.75;7.67;7.58;7.67;7.67;7.67;Sample  83.42;0;Green
+83.42;Arabica;Colombia;varios;1450 msnm;cundinamarca;2012;7.5;7.75;7.58;7.5;7.67;7.75;7.67;Sample  83.42;11;Green
+83.42;Arabica;Colombia;;;HUILA;;7.58;7.58;7.58;7.67;7.75;7.67;7.58;Sample  83.42;10;
+83.42;Arabica;United States (Hawaii);Kona Pacific Farmers Co-Op;;Kona;2010;7.5;7.92;7.42;7.67;7.83;7.58;7.5;Sample  83.42;1;
+83.42;Arabica;Thailand;Doi Tung Development Project;;;;7.58;7.25;7.5;7.92;7.92;7.42;7.83;Sample  83.42;11;
+83.38;Arabica;Mexico;;900-1200mtr;Nayarit;January Through April;7.25;7.88;7.38;7.63;7.5;8.75;8.0;Sample  83.38;9;
+83.33;Arabica;Colombia;Various;1650;Huila;2016;7.75;7.5;7.75;7.58;7.58;7.58;7.58;Sample  83.33;0;
+83.33;Arabica;Colombia;;;Guayatá;2016;7.67;7.58;7.58;7.42;7.67;7.75;7.67;Sample  83.33;0;Blue-Green
+83.33;Arabica;Colombia;;;Huila;2016;7.83;7.58;7.58;7.58;7.5;7.58;7.67;Sample  83.33;0;Green
+83.33;Arabica;Brazil;Rio Verde;1227;South Minas Gerais;2015/2016;7.5;7.83;7.33;7.58;7.58;7.92;7.58;Sample  83.33;10;Green
+83.33;Arabica;Mexico;ECC;1200;Chiapas;2014;7.75;7.75;7.5;7.67;7.5;7.58;7.58;Sample  83.33;12;Green
+83.33;Arabica;Colombia;varios;1650 msnm;Santander;2015;7.67;7.75;7.42;7.83;7.83;7.42;7.42;Sample  83.33;11;Green
+83.33;Arabica;Tanzania, United Republic Of;Mondul Coffee Estate;1700;Arusha;2014;7.75;7.58;7.67;7.58;7.58;7.58;7.58;Sample  83.33;12;Green
+83.33;Arabica;Mexico;EL PINO;1100;COSAUTLAN DE CARVAJAL;2013;7.67;7.67;7.58;7.67;7.5;7.58;7.67;Sample  83.33;12;Green
+83.33;Arabica;Costa Rica;SEVERAL;1300 MSNM;SAN RAMON;2014;7.67;7.67;7.42;7.67;7.67;7.67;7.58;Sample  83.33;12;Green
+83.33;Arabica;United States (Hawaii);;;KONA;2014;7.83;7.58;7.83;7.67;7.92;8.0;7.83;Sample  83.33;11;Bluish-Green
+83.33;Arabica;Costa Rica;SEVERAL;1100-1300;CENTRAL VALLEY - WEST VALLEY;2013;7.5;7.67;7.67;7.5;7.83;7.17;8.0;Sample  83.33;11;Green
+83.33;Arabica;Peru;;;;2013;7.83;7.75;7.58;7.83;7.92;7.58;7.5;Sample  83.33;12;Green
+83.33;Arabica;Haiti;MARRE BLANCHE;4200 FEET;THIOTTE, HAITI;2012;7.58;7.5;7.67;7.5;7.83;7.42;7.83;Sample  83.33;11;Green
+83.33;Arabica;Colombia;;1000 MSNM;PITALITO HUILA;2013;7.67;7.67;7.5;7.67;7.92;7.42;7.5;Sample  83.33;11;Green
+83.33;Arabica;Guatemala;EL SACRAMENTO;4300;ORIENTE;2013;7.83;7.67;7.17;7.67;7.67;7.67;7.67;Sample  83.33;11;Green
+83.33;Arabica;United States (Hawaii);;;KONA;2012;7.92;7.5;7.58;7.83;7.67;7.67;7.83;Sample  83.33;10;Bluish-Green
+83.33;Arabica;Burundi;Sogestal Kayanza;1880;Kayanza;2012;7.75;7.67;7.33;7.5;7.5;7.75;7.83;Sample  83.33;0;
+83.33;Arabica;Colombia;;1750 msnm;huila;2012;7.5;7.67;7.67;7.58;7.67;7.58;7.67;Sample  83.33;0;Green
+83.33;Arabica;United States (Hawaii);;;Kona;;8.08;7.83;7.83;7.75;7.67;7.58;7.92;Sample  83.33;1;
+83.33;Arabica;United States (Hawaii);;;;;7.58;7.67;7.58;7.5;7.83;7.67;7.5;Sample  83.33;0;
+83.25;Arabica;Mexico;CORTA PICO;1600;SIERRA MADRE OCCIDENTAL;2017;7.67;7.83;7.42;7.83;7.33;7.5;7.67;Sample  83.25;11;Blue-Green
+83.25;Arabica;Costa Rica;Estate La Patricia;1900;Tarrazu;2016;7.5;7.5;7.83;7.5;7.67;7.67;7.58;Sample  83.25;11;Green
+83.25;Arabica;Costa Rica;Coopellanobonito;;Tarrazu;2015;7.83;7.5;7.42;7.67;7.5;7.67;7.67;Sample  83.25;11;
+83.25;Arabica;Guatemala;LINDA VISTA;2100;NUEVO ORIENTE;2016;7.5;7.58;7.42;7.83;7.67;7.58;7.67;Sample  83.25;11;Green
+83.25;Arabica;Uganda;Kawacom Uganda LTD Sipi Farmers Group;;Sipi, Mt. Elgon;2015;7.5;7.67;7.67;7.42;7.67;7.67;7.67;Sample  83.25;12;Green
+83.25;Arabica;Brazil;;;CAMPOS ALTOS - CERRADO;2016;7.58;7.67;7.42;7.5;7.67;7.42;8.0;Sample  83.25;12;Green
+83.25;Arabica;Colombia;;442 msnm;HUILA;2015/2016;7.58;7.67;7.67;7.17;7.75;7.83;7.58;Sample  83.25;0;Green
+83.25;Arabica;Mexico;Los charcos;1261;Cuarenteño;2015;7.83;7.75;7.5;7.58;7.58;7.58;7.42;Sample  83.25;12;Bluish-Green
+83.25;Arabica;Taiwan;Sunshine Valley Estate 向陽高山咖啡;1000 M;Guoxing Township, Nantou County 南投縣國姓鄉;2015;7.67;7.5;7.5;7.5;7.67;7.83;7.58;Sample  83.25;10;Blue-Green
+83.25;Arabica;Taiwan;以勒咖啡;800公尺;南投國姓;2014;7.92;7.83;7.75;7.58;7.5;7.33;7.33;Sample  83.25;10;Green
+83.25;Arabica;Colombia;;1483;eje cafetero;2014;7.58;7.58;7.5;7.58;7.58;7.75;7.67;Sample  83.25;0;Green
+83.25;Arabica;Guatemala;FINCA MEDINA;1500 MSNM;ANTIGUA;2014;7.5;7.67;7.58;7.67;7.67;7.5;7.67;Sample  83.25;10;Green
+83.25;Arabica;Colombia;;1750 msnm;huila;2013;7.83;7.5;7.67;7.33;7.67;7.67;7.58;Sample  83.25;11;Green
+83.25;Arabica;Mexico;VARIAS COMUIDADES;1300;CHIAPAS;2013;7.58;7.75;7.5;7.5;7.58;7.58;7.75;Sample  83.25;12;Green
+83.25;Arabica;United States (Hawaii);;;KONA;2012;7.58;7.75;7.83;8.0;8.08;7.67;7.67;Sample  83.25;11;Bluish-Green
+83.25;Arabica;Mexico;FINCA TEOCELO;;TEOCELO;2012;7.75;7.58;7.58;7.58;7.5;7.58;7.67;Sample  83.25;13;Green
+83.25;Arabica;Mexico;MATA LARGA;1000;FORTÍN DE LAS FLORES;2012;7.75;7.75;7.42;7.92;7.33;7.5;7.58;Sample  83.25;12;Blue-Green
+83.25;Arabica;Guatemala;AGROPECUARIA QUIAGRAL;4300;ORIENTE;2012;7.83;7.58;7.08;7.83;7.42;8.08;7.42;Sample  83.25;11;Green
+83.25;Arabica;Brazil;Água Limpa;1200m;Grama Valley;2012;7.75;7.67;7.5;7.58;7.58;7.58;7.58;Sample  83.25;11;Blue-Green
+83.25;Arabica;Colombia;;175;Huila;2012;7.67;7.58;7.58;7.42;7.83;7.58;7.58;Sample  83.25;12;Green
+83.25;Arabica;Colombia;;De 1600 a 1950 msnm;La Plata;2012;7.67;7.67;7.5;7.5;7.58;7.67;7.67;Sample  83.25;11;Green
+83.25;Arabica;Colombia;;1600-1800msnm;huila;1T/2011;7.92;7.75;7.25;7.42;7.83;7.58;7.5;Sample  83.25;8;
+83.25;Arabica;Colombia;;1880 msnm;Cauca;4t/2010;8.0;7.67;7.67;7.25;7.67;7.5;7.5;Sample  83.25;13;
+83.25;Arabica;Colombia;;1800 m.s.n.m;Cundinamarca;4T/2010;7.92;7.75;7.5;7.42;7.42;7.67;7.58;Sample  83.25;4;
+83.17;Arabica;Brazil;Fazenda Capoeirinha;890;South of Minas Gerais;2017 / 2018;7.67;7.42;7.5;7.58;7.67;7.58;7.75;Sample  83.17;11;Green
+83.17;Arabica;Guatemala;BENEFICIO EL TORREON;1901;ORIENTE;2017;7.58;7.58;7.33;7.67;7.75;7.58;7.67;Sample  83.17;10;Green
+83.17;Arabica;Tanzania, United Republic Of;Mamsera;16.8;Moshi;2016;7.67;7.58;7.42;7.67;7.67;7.58;7.58;Sample  83.17;12;Green
+83.17;Arabica;Peru;;;;2017;7.92;7.5;7.5;7.58;7.67;7.5;7.5;Sample  83.17;11;Green
+83.17;Arabica;Vietnam;Apollo Estate;1550;Dala;2017;7.58;7.42;7.08;7.33;7.58;8.58;7.58;Sample  83.17;7;None
+83.17;Arabica;Guatemala;FINCA MEDINA;1500;ANTIGUA;2016;7.67;7.75;7.42;7.75;7.58;7.5;7.5;Sample  83.17;11;Green
+83.17;Arabica;Honduras;BETHEL;1450;Marcala;2016;7.67;7.67;7.5;7.67;7.5;7.67;7.5;Sample  83.17;11;Blue-Green
+83.17;Arabica;China;Chen Lin;1200;Yunnan Province Pu'er City Mojiang County;2015;7.5;7.67;7.33;7.67;7.67;7.67;7.67;Sample  83.17;11;Green
+83.17;Arabica;China;Yunnan Success Trade Co.Ltd;1600;Dehong Prefecture;2015;7.67;7.67;7.5;7.67;7.42;7.58;7.67;Sample  83.17;10;Green
+83.17;Arabica;El Salvador;Agua Caliente;1350;Apaneca-Ilamatepec;2016;7.5;7.5;7.33;7.67;8.0;7.67;7.5;Sample  83.17;0;Green
+83.17;Arabica;Guatemala;FINCA MEDINA;1500msnm;ANTIGUA;2015;7.5;7.75;7.5;7.83;7.58;7.5;7.5;Sample  83.17;11;Green
+83.17;Arabica;Guatemala;LA ESPERANZA, MARGARITA NUYES;1400-1900 PSN;ORIENTE;2015;7.92;7.67;7.42;7.75;7.5;7.5;7.42;Sample  83.17;12;Green
+83.17;Arabica;Kenya;;approx.1'500 metres a.s.l.;kenya;2014;7.83;7.75;7.67;7.75;7.83;8.5;7.83;Sample  83.17;10;Bluish-Green
+83.17;Arabica;Thailand;;800++;THAILAND;2014;7.67;7.58;7.58;7.75;7.42;7.67;7.5;Sample  83.17;12;Bluish-Green
+83.17;Arabica;Tanzania, United Republic Of;Myanganyanga;1653;Mbinga;2014;7.58;7.67;7.67;7.58;7.42;7.58;7.67;Sample  83.17;13;Bluish-Green
+83.17;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2014;7.58;7.5;7.5;7.67;7.5;7.67;7.75;Sample  83.17;0;
+83.17;Arabica;Uganda;kaptanya;1800;Eastern;2014;8.0;7.67;7.5;7.42;7.33;7.58;7.67;Sample  83.17;10;Bluish-Green
+83.17;Arabica;Colombia;unkown;unkown;unkown;2014;7.58;7.75;7.5;7.58;7.58;7.58;7.58;Sample  83.17;11;Green
+83.17;Arabica;Honduras;El Cerron;1450 MSNN;San marcos Ocotepeque;2013;7.5;7.5;7.5;7.67;7.67;7.67;7.67;Sample  83.17;10;Green
+83.17;Arabica;Honduras;Los Hicaques;1350;Comayagua;2014/2015;7.67;7.67;7.5;7.67;7.5;7.67;7.5;Sample  83.17;11;Green
+83.17;Arabica;Guatemala;NUEVA GRANADA;5000 Pies;SAN MARCOS;2014;7.33;7.83;7.17;8.17;7.33;7.67;7.67;Sample  83.17;9;Green
+83.17;Arabica;United States (Hawaii);;;KONA;2013;7.5;7.5;7.58;7.42;7.92;7.67;7.58;Sample  83.17;11;Bluish-Green
+83.17;Arabica;Tanzania, United Republic Of;;1800;KILIMANJARO;2014;7.58;7.5;7.58;7.75;7.58;7.58;7.58;Sample  83.17;12;Green
+83.17;Arabica;Guatemala;FINCA EL MORITO;4300;ORIENTE;2013;7.67;7.83;7.33;7.67;7.5;7.67;7.5;Sample  83.17;11;Green
+83.17;Arabica;Mexico;SANTA CECILIA;1500;CHIAPAS;2013;7.75;7.58;7.58;7.58;7.5;7.42;7.75;Sample  83.17;11;Green
+83.17;Arabica;Mexico;TLAPACOYA;532;TLANCHINOL, HIDALGO;2012;7.75;7.67;7.58;7.5;7.42;7.58;7.67;Sample  83.17;12;None
+83.17;Arabica;Mexico;LA LOMA;1089;SAN BARTOLO TUTOTEPEC;2012;7.58;7.75;7.42;7.67;7.5;7.58;7.67;Sample  83.17;14;None
+83.17;Arabica;Colombia;;DE 1.600 A 1.950 MSNM;HUILA;2012;7.67;7.5;7.5;7.5;7.58;8.17;7.25;Sample  83.17;11;Green
+83.17;Arabica;Mexico;EL MIRADOR;700;SAN ISIDRO;2012;7.75;7.5;7.42;7.75;7.58;7.58;7.58;Sample  83.17;13;Green
+83.17;Arabica;Colombia;;1750 msnm;huila;2012;7.58;7.67;7.5;7.58;7.67;7.67;7.5;Sample  83.17;11;Blue-Green
+83.17;Arabica;Mexico;FINCA NUEVA LINDA;1380;LA CONCORDIA;2012;7.5;7.75;7.58;7.58;7.67;7.5;7.58;Sample  83.17;11;
+83.17;Arabica;Brazil;Campo das Flores;1000m;South of Minas Gerais;2012;7.75;7.67;7.58;7.5;7.58;7.58;7.5;Sample  83.17;12;Green
+83.17;Arabica;Brazil;São Francisco da Serra;950m;Mogiana;2012;7.92;7.58;7.5;7.58;7.42;7.5;7.67;Sample  83.17;11;Green
+83.17;Arabica;Guatemala;Conquista / Morito;4,600 ft.;Oriente;2012;7.75;7.5;7.67;7.5;7.92;8.0;7.5;Sample  83.17;0;Green
+83.17;Arabica;Brazil;Fazenda do Lobo;1000m;South of Minas Gerais;2011;7.75;7.5;7.58;7.5;7.75;7.5;7.58;Sample  83.17;12;Blue-Green
+83.17;Arabica;Brazil;Olhos D'agua;900m;South of Minas Gerais;2011;7.58;7.75;7.67;7.5;7.67;7.58;7.42;Sample  83.17;2;
+83.17;Arabica;El Salvador;Several;1200 mts;Santa Ana;2010-2011;7.42;7.83;8.17;8.08;7.17;7.58;7.58;Sample  83.17;14;
+83.17;Arabica;Ethiopia;Tega and Tula Special Coffee Farm;1850 m;Limu (South Nation Nationalities Peoples State Region);August to December;7.75;8.0;7.67;8.08;7.83;7.92;7.92;Sample  83.17;1;
+83.08;Arabica;Colombia;;1799;cundinamarca;2016;7.58;7.67;7.33;7.67;7.75;7.58;7.5;Sample  83.08;0;Green
+83.08;Arabica;Colombia;;;Huila;2016;7.75;7.5;7.5;7.42;8.0;7.75;7.17;Sample  83.08;0;Green
+83.08;Arabica;Brazil;Capoeirinha;905;South of Minas Gerais;2015;7.58;7.58;7.58;7.5;7.67;7.58;7.58;Sample  83.08;11;Bluish-Green
+83.08;Arabica;Brazil;Rio Verde;1;South of Minas Gerais;2015/2016;7.33;7.67;7.67;7.33;7.75;7.42;7.92;Sample  83.08;0;Green
+83.08;Arabica;Taiwan;Kan Tou Mountain Coffee 崁頭山咖啡館;700-800M;Dongshan Dist., Tainan City 臺南市東山區;2015;7.83;7.92;7.5;7.83;7.67;7.25;7.75;Sample  83.08;0;Green
+83.08;Arabica;Brazil;;;CHAPADÃO DE FERRO (CERRADO MINEIRO);2015;7.42;7.67;7.58;7.5;7.75;7.67;7.5;Sample  83.08;11;Green
+83.08;Arabica;Brazil;Rio Verde;1200;South Minas Gerais;2014/2015;7.58;7.83;7.67;7.42;7.42;7.5;7.67;Sample  83.08;0;Green
+83.08;Arabica;Costa Rica;VARIOS;1200-1400;CENTRAL VALLEY - WEST VALLEY;2014;7.83;7.33;7.5;7.67;7.58;7.67;7.5;Sample  83.08;10;Green
+83.08;Arabica;United States (Hawaii);;;KONA;2013;7.33;7.75;7.58;7.33;7.83;7.67;7.58;Sample  83.08;12;Bluish-Green
+83.08;Arabica;Taiwan;Alishan Zou zhu yuan 阿里山鄒築園;1300 M;Chiayi Alishan 嘉義縣阿里山鄉;2013/2014;7.75;7.75;7.5;7.5;7.5;7.5;7.58;Sample  83.08;11;
+83.08;Arabica;United States (Hawaii);;;KONA;2012;7.83;7.83;7.33;7.17;7.75;7.67;7.5;Sample  83.08;10;Bluish-Green
+83.08;Arabica;Mexico;santa maria;1400;SANTA CATARINA JUQUILA;2012;7.75;7.67;7.42;7.75;7.5;7.5;7.5;Sample  83.08;10;
+83.08;Arabica;United States (Hawaii);;;KONA;2012;7.67;7.58;7.5;7.67;7.92;8.0;8.08;Sample  83.08;0;
+83.08;Arabica;United States (Hawaii);;;Kona;2012;7.33;7.58;7.58;7.92;7.67;7.58;7.42;Sample  83.08;12;Green
+83.08;Arabica;Colombia;;De 1.600 a 1.950 msn;Huila;Mayo a Julio;7.33;7.33;7.33;7.58;7.25;8.08;8.17;Sample  83.08;1;
+83.08;Arabica;Colombia;;1880 msnm;Cauca;47/2010;7.83;7.75;7.33;7.25;7.42;7.92;7.58;Sample  83.08;8;
+83.08;Arabica;Indonesia;LINTONG NIHUTA;1300-1400m;DOLOK SANGGUL;2010;7.67;7.58;7.5;7.58;7.67;7.58;7.5;Sample  83.08;0;
+83.08;Arabica;Guatemala;;;;;7.92;7.67;7.67;7.25;7.83;7.67;7.75;Sample  83.08;2;
+83.0;Arabica;Brazil;Fazenda Capoeirinha;890;South of Minas Gerais;2017 / 2018;7.58;7.5;7.5;7.75;7.67;7.5;7.5;Sample  83.00;0;Green
+83.0;Arabica;Brazil;Fazenda Capoeirnha;894;South of Minas Gerais;2016;7.5;7.58;7.58;7.67;7.58;7.5;7.58;Sample  83.00;11;Green
+83.0;Arabica;Brazil;Capoerinha Farm;872;South of Minas Gerais;2016;7.5;7.67;7.58;7.67;7.58;7.42;7.58;Sample  83.00;11;Bluish-Green
+83.0;Arabica;Uganda;Isule Farmers Group;1473;Kasese, Mt. Rwenzori;2015;7.67;7.58;7.42;7.42;7.83;7.5;7.58;Sample  83.00;12;Green
+83.0;Arabica;Uganda;Ibanda Farmers Group;1645;Kasese, Mt. Rwenzori;2015;7.67;7.67;7.5;7.58;7.42;7.5;7.67;Sample  83.00;12;Green
+83.0;Arabica;Colombia;;442;HUILA;2016;7.67;7.67;7.33;7.67;7.5;7.58;7.58;Sample  83.00;11;Green
+83.0;Arabica;Vietnam;APOLLO Estate;1550;Vietnam Cau Dat;2014;7.75;7.67;7.58;7.58;7.42;7.67;8.0;Sample  83.00;0;Green
+83.0;Arabica;Guatemala;EL CHILE;1300 A 1800 METROS SOBRE EL NIVEL DEL MAR;NUEVO ORIENTE;2015;7.67;7.75;7.33;7.92;7.42;7.5;7.42;Sample  83.00;11;Green
+83.0;Arabica;Guatemala;Nueva Granada;4500 Pies;El Tumbador, San Marcos;2015;7.75;7.67;7.33;7.75;7.5;7.42;7.58;Sample  83.00;11;Green
+83.0;Arabica;Guatemala;FINCA MEDINA;1500MSNM;ANTIGUA;2015;7.83;7.67;7.25;7.67;7.75;7.5;7.33;Sample  83.00;11;Green
+83.0;Arabica;Brazil;Fazenda Santo Antonio;900-1100;High Mogiana;2014;7.67;7.67;7.67;7.5;7.42;7.5;7.58;Sample  83.00;0;Green
+83.0;Arabica;Taiwan;雅慕伊;1200;嘉義阿里山;2014;7.92;7.92;7.83;7.58;7.33;7.25;7.17;Sample  83.00;8;Green
+83.0;Arabica;Uganda;Kabeywa county;1800;Kapchorwa;2013;7.83;7.58;7.5;7.5;7.58;7.5;7.5;Sample  83.00;12;Green
+83.0;Arabica;United States (Puerto Rico);Hacienda Caracolillo;2800 ft;Yauco Region;2013;7.67;7.5;7.67;7.83;7.75;7.83;7.42;Sample  83.00;0;Bluish-Green
+83.0;Arabica;Guatemala;GRUPO MEDINA (PEQUEÑOS PRODUCTORES);1500 MSNM;ANTIGUA;2014;7.67;7.67;7.42;7.83;7.5;7.5;7.42;Sample  83.00;10;Green
+83.0;Arabica;Costa Rica;SEVERAL;1100-1300;CENTRAL VALLEY - WEST VALLEY;2013;7.67;7.58;7.5;7.58;7.5;7.5;7.67;Sample  83.00;11;Green
+83.0;Arabica;Brazil;SERTAO FARM;1250;SUL DE MINAS;2013/2014;7.75;7.58;7.42;7.67;7.42;7.67;7.5;Sample  83.00;12;Bluish-Green
+83.0;Arabica;Colombia;;1600 - 1950 msnm;Huila;2013;7.75;7.42;7.33;7.5;7.58;7.17;8.25;Sample  83.00;11;Green
+83.0;Arabica;Colombia;;1750 msnm;huila;2013;7.83;7.5;7.58;7.33;7.5;7.67;7.58;Sample  83.00;0;Green
+83.0;Arabica;Colombia;;1000 msnm;PITALITO;2013;7.33;7.67;7.75;7.42;7.75;7.58;7.5;Sample  83.00;11;Green
+83.0;Arabica;Colombia;;1000 MSNM;PITALITO HUILA;2013;7.58;7.75;7.42;7.67;7.58;7.42;7.58;Sample  83.00;0;Green
+83.0;Arabica;Colombia;;DE 1600 a 1950 msnm;HUILA;2012;7.5;7.5;7.42;7.58;7.75;7.58;7.67;Sample  83.00;11;Green
+83.0;Arabica;Mexico;VEGAS;750;COATEPEC;2012;7.67;7.58;7.42;7.5;7.67;7.58;7.58;Sample  83.00;11;Green
+83.0;Arabica;Mexico;FINCA LA ESTANCIA;1200;ATOYAC DE ALVAREZ;2012;7.67;7.83;7.5;7.58;7.58;7.67;7.83;Sample  83.00;11;Green
+83.0;Arabica;Mexico;LAS LOMAS;1200;COATEPEC;2012;7.5;7.67;7.5;7.5;7.58;7.58;7.67;Sample  83.00;11;Green
+83.0;Arabica;Colombia;;;;2012;7.67;7.58;7.5;7.5;7.75;7.5;7.5;Sample  83.00;0;
+83.0;Arabica;Colombia;varios;1500-1750 msnm;huila;2012;7.75;7.58;7.5;7.67;7.83;7.75;7.58;Sample  83.00;0;Green
+83.0;Arabica;Colombia;;1750 msnm;huila;2012;7.67;7.58;7.58;7.58;7.67;7.42;7.5;Sample  83.00;11;Green
+83.0;Arabica;Guatemala;LA IGUALDAD;4500;LA REFORMA, SAN MARCOS;2012;7.5;7.67;7.5;7.67;7.5;7.83;7.33;Sample  83.00;10;Green
+83.0;Arabica;Colombia;;1600 - 1950 MSNM;LA PLATA;2011;7.67;7.67;7.58;7.5;7.67;7.42;7.5;Sample  83.00;12;Bluish-Green
+83.0;Arabica;Thailand;Doi Tung Development Project;;;2011;7.33;7.67;7.58;7.5;7.75;7.67;7.5;Sample  83.00;28;
+83.0;Arabica;Colombia;;1050 - 1850 msnm;Cauca;Abril - Julio;7.33;7.67;7.58;7.33;7.58;7.92;7.58;Sample  83.00;8;
+83.0;Arabica;United States (Hawaii);;;;;7.83;7.83;7.67;7.83;7.92;7.83;8.08;Sample  83.00;0;
+83.0;Arabica;United States (Hawaii);;;;;7.5;7.58;7.42;7.58;7.58;7.67;7.67;Sample  83.00;0;
+83.0;Arabica;Colombia;;1800 msnm;huila;4t/2011;7.5;7.58;7.67;7.67;7.58;7.58;7.42;Sample  83.00;6;
+83.0;Arabica;Nicaragua;Santa Rosa;;Matagalpa;2009-2010;7.58;7.83;7.75;7.92;7.92;8.08;7.92;Sample  83.00;7;
+83.0;Arabica;Thailand;Doi Tung Development Project;;;;7.5;7.25;7.42;7.75;8.17;7.5;7.42;Sample  83.00;0;
+82.92;Arabica;Brazil;Fazenda Capoeirinha;890;South of Minas Gerais;2017 / 2018;7.67;7.58;7.5;7.58;7.58;7.5;7.5;Sample  82.92;0;Green
+82.92;Arabica;El Salvador;Santa Josefita;1350;Apaneca-Ilamatepec;2017;7.5;7.5;7.75;7.58;7.92;7.83;7.5;Sample  82.92;0;Green
+82.92;Arabica;Colombia;;1500;Guayata;2017;7.58;7.67;7.5;7.33;7.67;7.58;7.58;Sample  82.92;11;Green
+82.92;Arabica;Taiwan;Shi Fang Yuan 十方源;350;Dongshan Dist., Tainan City 臺南市東山區;2016;7.17;7.83;7.25;7.67;7.67;7.58;7.75;Sample  82.92;9;Green
+82.92;Arabica;Ethiopia;-;2000;Blida,kercha,Guji,Oromia;2016;7.58;7.58;7.5;7.5;7.58;7.58;7.58;Sample  82.92;0;Bluish-Green
+82.92;Arabica;Taiwan;佐佑品咖啡莊園;775;台東太麻里;2014;7.5;7.58;7.67;7.33;7.5;7.75;7.58;Sample  82.92;0;Green
+82.92;Arabica;Philippines;Kalugmanan Agri Development Corp.;1,200 masl;Bukidnon, Mindanao, Philppines;2015;7.58;7.58;7.67;7.58;7.5;7.5;7.5;Sample  82.92;11;Blue-Green
+82.92;Arabica;Philippines;several, Bukidnon, Mindanao, Philippines;1,600 + meters above sea level;Asia Pacific;2014;8.08;7.5;7.67;7.42;7.33;7.5;7.42;Sample  82.92;0;Bluish-Green
+82.92;Arabica;Mexico;Pinzoneno;1059;Cuarenteño;2015;7.83;7.67;7.25;7.58;7.5;7.5;7.58;Sample  82.92;13;Blue-Green
+82.92;Arabica;Mexico;FIECH (mixed producers);1,300 meters;Chiapas;2015;7.75;7.67;7.42;7.42;7.75;7.5;7.42;Sample  82.92;12;Bluish-Green
+82.92;Arabica;Brazil;Fazenda Pantano;11000 metros;Cerrado;2014/2015;7.08;7.5;7.5;7.83;7.75;7.67;7.58;Sample  82.92;11;Green
+82.92;Arabica;Uganda;Sipi organic coffee project;1400-1900;Eastern;2013;8.0;7.5;7.5;7.58;7.33;7.42;7.58;Sample  82.92;12;Green
+82.92;Arabica;Uganda;Nyapea coffee farmers;1400;West Nile;2013;7.75;7.58;7.58;7.5;7.5;7.5;7.5;Sample  82.92;12;Green
+82.92;Arabica;Guatemala;FINCA MEDINA;1500 MSNM;ANTIGUA;2014;7.75;7.5;7.42;7.58;7.67;7.5;7.5;Sample  82.92;10;Green
+82.92;Arabica;Guatemala;FINCA MEDINA;1500 MSNM;ANTIGUA;2014;7.67;7.83;7.42;7.5;7.33;7.5;7.67;Sample  82.92;10;Green
+82.92;Arabica;Guatemala;;;;2012;7.58;7.58;7.25;7.58;7.58;7.58;7.75;Sample  82.92;10;Green
+82.92;Arabica;Colombia;;1800 - 2000;Huila;2013;7.58;7.5;7.75;7.33;7.58;7.58;7.58;Sample  82.92;11;Green
+82.92;Arabica;Colombia;;1750 msnm;huila;2013;7.75;7.5;7.25;7.5;7.75;7.5;7.67;Sample  82.92;0;Bluish-Green
+82.92;Arabica;Guatemala;FINCA LOS CERROS Y ANEXOS;5440-5760 METROS;HUEHUETENANGO;2013;7.83;7.75;7.25;7.92;7.5;7.17;7.5;Sample  82.92;11;Green
+82.92;Arabica;Colombia;;1450;Antioquia;2013;7.83;7.67;7.42;7.42;7.5;7.58;7.5;Sample  82.92;11;Green
+82.92;Arabica;Mexico;EL REGALITO;1248;PETATLAN;2012;7.58;7.58;7.33;7.25;7.58;7.75;7.83;Sample  82.92;10;Green
+82.92;Arabica;Vietnam;Apollo Co., Ltd.;1040M;Don Duong;2012;7.67;7.33;7.17;7.58;8.08;7.42;7.67;Sample  82.92;0;None
+82.92;Arabica;Mexico;EL JABALI;1400 m;LA CUMBRE;2012;8.0;7.92;7.67;7.17;7.67;7.42;7.75;Sample  82.92;14;Green
+82.92;Arabica;United States (Hawaii);;;Kona;2012;7.5;7.5;7.5;7.42;7.67;7.83;7.5;Sample  82.92;10;Green
+82.92;Arabica;Colombia;;1050 - 1850 msnm;Cauca;Abril - Julio /2011;7.5;7.75;7.33;7.75;7.08;7.83;7.67;Sample  82.92;15;
+82.92;Arabica;Thailand;Doi Tung Development Project;;;;7.42;7.58;7.5;7.17;7.5;8.0;7.75;Sample  82.92;0;
+82.83;Arabica;Kenya;JUNGLE ESTATE;1754;NYERI;2017;7.75;7.58;7.42;7.58;7.5;7.5;7.5;Sample  82.83;10;Green
+82.83;Arabica;Guatemala;PIAMONTE;1700;SAN MARCOS;2017;7.5;7.58;7.33;7.67;7.58;7.58;7.58;Sample  82.83;11;Green
+82.83;Arabica;Brazil;Capoeirinha;905;South of Minas Gerais;2015;7.67;7.58;7.58;7.5;7.5;7.42;7.58;Sample  82.83;11;Bluish-Green
+82.83;Arabica;El Salvador;El Barbaro;1250;El Bálsamo - Quezaltepec;2016;7.33;7.67;7.67;7.83;7.33;7.67;7.33;Sample  82.83;0;Green
+82.83;Arabica;Rwanda;Gicumbi;1900;Gicumbi;2015;7.83;7.92;7.75;7.83;7.75;7.75;8.0;Sample  82.83;11;Bluish-Green
+82.83;Arabica;Vietnam;APOLLO Estate;1040;Vietnam Tutra;2014;7.25;7.58;7.5;7.42;7.75;7.42;7.92;Sample  82.83;11;Green
+82.83;Arabica;Guatemala;EL PAPATURRO;4000PSN;ORIENTE;2015;7.58;7.58;7.33;7.67;7.67;7.5;7.5;Sample  82.83;11;Green
+82.83;Arabica;Brazil;Santa Fé 2;900;Cerrado;2015;7.58;7.83;7.33;7.67;7.42;7.33;7.67;Sample  82.83;12;Green
+82.83;Arabica;Colombia;;1200-2000m;Huila;2014;7.83;7.67;7.5;7.58;7.5;7.67;7.08;Sample  82.83;0;
+82.83;Arabica;United States;Kampung keling, Jumaraj, Gurusinga, Gongsol;1200 m;Berastagi;2014;7.42;7.58;7.25;7.5;7.75;7.75;7.58;Sample  82.83;0;
+82.83;Arabica;Guatemala;FINCA MEDINA;1500 MSNM;ANTIGUA;2014;7.67;7.67;7.75;7.67;7.42;7.17;7.5;Sample  82.83;10;Green
+82.83;Arabica;Colombia;;1800 mts;Santander;2013;7.5;7.42;7.58;7.5;7.58;7.58;7.67;Sample  82.83;0;Green
+82.83;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2013;7.83;7.5;7.5;7.42;7.5;7.5;7.58;Sample  82.83;11;Green
+82.83;Arabica;Tanzania, United Republic Of;BURKA COFFEE ESTATE;1,400 METER ABOVE SEA LEVEL;ARUSHA;2012;7.67;7.5;7.33;7.25;7.58;7.75;7.75;Sample  82.83;11;Green
+82.83;Arabica;Mexico;;1550;LA CONCORDIA;2012;7.58;7.67;7.5;7.58;7.5;7.5;7.5;Sample  82.83;12;Green
+82.83;Arabica;Mexico;SANTA ROSA;1250;TEOCELO;2012;7.67;7.58;7.42;7.75;7.42;7.42;7.58;Sample  82.83;12;Blue-Green
+82.83;Arabica;Guatemala;AGROPECUARIA QUIAGRAL;4300;ORIENTE;2012;7.67;7.67;7.33;7.5;7.33;7.92;7.42;Sample  82.83;11;Green
+82.83;Arabica;Mexico;FINCA NUEVA LINDA;1380;LA CONCORDIA;2012;7.58;7.58;7.5;7.42;7.67;7.58;7.5;Sample  82.83;11;
+82.83;Arabica;El Salvador;Several Farms;1200 mts;Santa Ana;2010-2011;7.75;7.58;7.75;7.75;7.25;7.5;7.25;Sample  82.83;0;
+82.75;Arabica;Guatemala;PROVIDENCIA;1100;SANTA ROSA;;7.5;7.58;7.42;7.67;7.58;7.5;7.5;Sample  82.75;10;Green
+82.75;Arabica;Guatemala;LINDA VISTA;1800;SANTA ROSA;2017;7.58;7.67;7.5;7.58;7.5;7.42;7.5;Sample  82.75;11;Green
+82.75;Arabica;Guatemala;LAS MERCEDITAS;1700;SAN MARCOS;2017;7.5;7.67;7.17;7.67;7.67;7.58;7.5;Sample  82.75;11;Green
+82.75;Arabica;Guatemala;LAS DELICIAS;4000;SANTA ROSA;2017;7.5;7.5;7.42;7.58;7.67;7.5;7.58;Sample  82.75;10;Green
+82.75;Arabica;Guatemala;LA ESMERALDA;4000;ORIENTE;2017;7.42;7.58;7.42;7.67;7.5;7.5;7.67;Sample  82.75;10;Green
+82.75;Arabica;Indonesia;vary;1500;Sapan Toraja;2017;7.5;7.58;7.42;7.58;7.58;7.5;7.58;Sample  82.75;12;Blue-Green
+82.75;Arabica;Guatemala;LA ESMERALDA;518;EL PROGRESO;2017;7.58;7.58;7.33;7.58;7.33;7.67;7.67;Sample  82.75;12;Green
+82.75;Arabica;Taiwan;大鋤花間 (HOE Vs. FLOWER COFFEE FARM);650;台南市東山區( Dongshan Dist., Tainan City);2016;7.83;7.67;7.33;7.67;7.58;7.67;7.67;Sample  82.75;0;Green
+82.75;Arabica;El Salvador;La Montaña;1250;Cacahuatique;2017;7.67;7.67;7.17;7.33;7.58;7.67;7.67;Sample  82.75;0;
+82.75;Arabica;Costa Rica;Gamboa;1850;Tarrazu;2016;7.58;7.5;7.42;7.67;7.42;7.5;7.67;Sample  82.75;9;Bluish-Green
+82.75;Arabica;Honduras;Los Hicaques;1400;Comayagua;2017;7.58;7.5;7.42;7.58;7.5;7.5;7.67;Sample  82.75;9;Green
+82.75;Arabica;Brazil;Capoeirinha;905;South of Minas Gerais;2015;7.5;7.5;7.58;7.5;7.58;7.58;7.5;Sample  82.75;11;Bluish-Green
+82.75;Arabica;China;Man Ganna Estate;1100;Yunnan Province XiShuangBanNa City Puwen County;2015;7.67;7.5;7.33;7.33;7.67;7.67;7.58;Sample  82.75;10;Green
+82.75;Arabica;China;Pu'er Lingdu Yunlin Coffee Co.LTD;1500;Menglian;2015;7.5;7.67;7.42;7.67;7.5;7.5;7.5;Sample  82.75;11;Green
+82.75;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2014;7.5;7.58;7.58;7.75;7.33;7.5;7.5;Sample  82.75;0;Blue-Green
+82.75;Arabica;Malawi;Msese;1442 M;South of Mzuzu;2014;7.75;7.58;7.42;7.5;7.33;7.5;7.67;Sample  82.75;12;Bluish-Green
+82.75;Arabica;Guatemala;EL MORITO;5000 FT.;JALAPA;2014;7.75;7.42;7.25;7.75;7.5;7.67;7.42;Sample  82.75;13;Green
+82.75;Arabica;Colombia;;1.65;Huila;2014;7.67;7.42;7.42;7.58;7.33;7.67;7.67;Sample  82.75;12;Green
+82.75;Arabica;United States (Hawaii);;;KONA;2013;7.67;7.58;7.42;7.83;7.33;7.5;7.42;Sample  82.75;10;Blue-Green
+82.75;Arabica;United States (Hawaii);;;KONA;2013;7.58;7.83;7.75;7.75;7.42;8.0;7.75;Sample  82.75;10;Green
+82.75;Arabica;Colombia;several;1300;Antioquia;2013;7.58;7.33;7.17;7.33;7.25;8.58;7.5;Sample  82.75;10;Green
+82.75;Arabica;Mexico;SAN LORENZO;1550;CHIAPAS;2013;7.58;7.58;7.5;7.5;7.5;7.5;7.58;Sample  82.75;12;Green
+82.75;Arabica;Mexico;TLAMATOCA;1200;HUATUSCO;2012;7.58;7.58;7.33;7.75;7.25;7.58;7.67;Sample  82.75;12;
+82.75;Arabica;Mexico;;1200;ATOYAC DE ALVAREZ;2012;8.08;8.17;8.0;8.0;7.83;7.92;8.08;Sample  82.75;12;
+82.75;Arabica;Colombia;Supply Chain ECOM CCA S.A.;1400 thru 1850;South huila;2012;7.5;7.58;7.42;7.67;7.5;7.58;7.5;Sample  82.75;0;Blue-Green
+82.75;Arabica;Colombia;;DE 1.600 A 1.950 MSNM;HUILA;2012;7.67;7.58;7.58;7.58;7.5;7.42;7.42;Sample  82.75;11;Green
+82.75;Arabica;United States (Hawaii);;;Kona;2012;7.25;7.75;7.5;7.83;7.67;7.67;7.75;Sample  82.75;12;Green
+82.75;Arabica;Panama;Hacienda La Esmeralda;1100;Boquete, Panama;2012;7.42;7.42;7.5;7.58;7.5;7.75;7.58;Sample  82.75;0;Green
+82.75;Arabica;United States (Hawaii);;;Kona;;7.75;7.67;7.5;7.83;7.17;7.42;7.42;Sample  82.75;0;
+82.67;Arabica;Brazil;Capoeirinha Farm;890;South of Minas Gerais;2017 / 2018;7.5;7.58;7.25;7.75;7.58;7.5;7.5;Sample  82.67;0;Green
+82.67;Arabica;Brazil;Capoeirinha Farm;934;South of Minas Gerais;2016;7.5;7.58;7.5;7.67;7.5;7.42;7.5;Sample  82.67;11;Bluish-Green
+82.67;Arabica;Laos;Savan coffee bean;1300;Paksong,Laos;2015;7.67;7.67;7.42;7.42;7.42;7.5;7.58;Sample  82.67;13;Bluish-Green
+82.67;Arabica;El Salvador;El Barbaro;1200;El Balsamo, Quezaltepec;2016;7.67;7.67;7.67;7.67;7.5;7.67;7.5;Sample  82.67;0;Green
+82.67;Arabica;Mexico;Gabriel Bernard Rivas Ross;1300;Huatusco, Ver;2016;7.5;7.67;7.42;7.75;7.42;7.17;7.75;Sample  82.67;11;Green
+82.67;Arabica;Colombia;;;Huila;2015;7.75;7.5;7.33;7.58;7.33;7.75;7.42;Sample  82.67;0;Green
+82.67;Arabica;Brazil;Rio Verde;1;South of Minas Gerais;2015/2016;7.58;7.5;7.42;7.67;7.5;7.5;7.5;Sample  82.67;0;Green
+82.67;Arabica;Brazil;SANTA MARIA;;MONTE CARMELO;2014;7.33;7.5;7.58;7.58;7.67;7.5;7.5;Sample  82.67;12;
+82.67;Arabica;Tanzania, United Republic Of;Nitin;1700;Karatu Arusha;2014;7.5;7.5;7.5;7.5;7.5;7.58;7.58;Sample  82.67;12;Green
+82.67;Arabica;Tanzania, United Republic Of;AMPCG;1550;Mbinga, Ruvuma;2014;7.58;7.5;7.5;7.58;7.33;7.58;7.58;Sample  82.67;12;Green
+82.67;Arabica;Taiwan;伊娜咖啡莊園;1200公尺;嘉義阿里山;2014;8.0;7.83;7.83;7.42;7.25;7.25;7.08;Sample  82.67;8;Green
+82.67;Arabica;Mexico;LOS LLANITOS;1296;LA YERBA;2014;7.67;7.58;7.42;7.5;7.42;7.5;7.58;Sample  82.67;11;Green
+82.67;Arabica;Uganda;Bugisu Shamba;1400- 1900;Mt Elgon;2013;7.67;7.5;7.33;7.67;7.5;7.5;7.5;Sample  82.67;12;Green
+82.67;Arabica;Taiwan;Zhuo wu shan Coffee 卓武山咖啡農場;1240 M;Chiayi Alishan 嘉義縣阿里山鄉;2013/2014;7.67;7.5;7.5;7.5;7.5;7.5;7.5;Sample  82.67;11;Green
+82.67;Arabica;Thailand;m10;1500;Phahi;2013;7.42;7.5;7.5;7.67;7.58;7.5;7.5;Sample  82.67;11;Bluish-Green
+82.67;Arabica;Colombia;;1800 msnm;Huila;2012;7.75;7.58;7.67;7.25;7.58;7.42;7.42;Sample  82.67;11;Bluish-Green
+82.67;Arabica;El Salvador;;;;2012;7.92;8.0;7.5;6.75;7.92;7.58;7.67;Sample  82.67;0;None
+82.67;Arabica;Guatemala;FINCA MEDINA;1500;ANTIGUA;2012;7.67;7.67;7.17;7.67;7.5;7.5;7.5;Sample  82.67;11;Green
+82.67;Arabica;Thailand;Doi Tung Development Project;-;Thailand;2012;7.83;7.33;7.83;7.33;7.58;7.83;7.58;Sample  82.67;12;Bluish-Green
+82.67;Arabica;Mexico;FINCA MONTE GRANDE;1100;;2012;7.58;7.58;7.42;7.58;7.42;7.5;7.58;Sample  82.67;11;
+82.67;Arabica;Mexico;FINCA CASTILLOS;950;MAHUIXTLAN;2012;7.5;7.58;7.58;7.58;7.42;7.42;7.58;Sample  82.67;12;
+82.67;Arabica;Colombia;La Canada;1,800 meters (5,900;"52 Narino (exact location: Mattituy; municipal region: Florida Code 381";Spring 2011 in Colombia.;7.33;7.58;7.42;7.42;7.67;7.67;7.58;Sample  82.67;11;Green
+82.67;Arabica;United States (Hawaii);;;Kona;;7.83;7.67;7.5;7.67;7.5;7.58;7.58;Sample  82.67;3;
+82.67;Arabica;Mexico;KASSANDRA;1400 MASL;Mexico;2010-2011;7.75;7.58;7.25;7.75;7.67;7.58;7.08;Sample  82.67;0;
+82.67;Arabica;Colombia;;1800 msnm;huila;4T/10;8.08;7.67;7.67;7.33;7.33;7.17;7.42;Sample  82.67;8;
+82.67;Arabica;Colombia;;;;2009-2010;7.5;7.42;7.33;7.33;7.67;7.83;7.58;Sample  82.67;21;
+82.58;Arabica;Guatemala;LA ESMERALDA;4000;ORIENTE;2017;7.5;7.42;7.42;7.75;7.5;7.5;7.5;Sample  82.58;10;Green
+82.58;Arabica;Taiwan;林園咖啡 Lin Yuan Coffee;1050;國姓鄉 Guoshing Township;2016;7.67;7.42;7.5;7.42;7.58;7.5;7.5;Sample  82.58;11;Green
+82.58;Arabica;Brazil;;;South of Minas;2016;7.5;7.58;7.42;7.5;7.75;7.33;7.5;Sample  82.58;11;Green
+82.58;Arabica;Taiwan;台中市新社區崑山里;200 M;Changhua BaGuaShan 彰化市八卦山;2016 / 2017;7.25;7.25;7.0;7.08;7.0;7.0;10.0;Sample  82.58;11;Blue-Green
+82.58;Arabica;Brazil;;;CAMPOS ALTOS - CERRADO;2016;7.42;7.42;7.5;7.33;7.25;7.67;8.0;Sample  82.58;0;Green
+82.58;Arabica;Indonesia;SMALL HOLDERS FARMER;1200-1300m dpl;Aceh;2015;7.83;7.58;7.42;7.33;7.42;7.5;7.5;Sample  82.58;13;Blue-Green
+82.58;Arabica;Thailand;;800++;THAILAND;2014;7.75;7.33;7.42;7.67;7.42;7.5;7.5;Sample  82.58;12;Green
+82.58;Arabica;Thailand;;1,400-1,500 m;Chiangrai;2014;7.42;7.58;7.58;7.42;7.58;7.5;7.5;Sample  82.58;12;Blue-Green
+82.58;Arabica;Tanzania, United Republic Of;Lubanda AMCOS;1317;Ikand Village;2014;7.75;7.42;7.33;7.5;7.58;7.5;7.5;Sample  82.58;12;
+82.58;Arabica;Uganda;Mt.Elgon sipi falls Cheema;1400-1900;Eastern;2013;7.83;7.5;7.42;7.58;7.42;7.42;7.42;Sample  82.58;12;Green
+82.58;Arabica;Costa Rica;VARIOS;1200-1400;CENTRAL VALLEY - WEST VALLEY;2013;7.67;7.42;7.5;7.67;7.0;7.75;7.58;Sample  82.58;11;Green
+82.58;Arabica;Mexico;;;Veracruz;2014;7.58;7.58;7.42;7.75;7.67;7.67;7.58;Sample  82.58;0;Green
+82.58;Arabica;Guatemala;;;;2012;7.5;7.58;7.42;7.58;7.42;7.58;7.5;Sample  82.58;0;Blue-Green
+82.58;Arabica;Colombia;varias;1750 msnm;huila;2013;7.75;7.25;7.33;7.42;7.5;7.83;7.5;Sample  82.58;11;Blue-Green
+82.58;Arabica;Colombia;varias;1750 msnm;huila;2012;7.75;7.5;7.75;7.25;7.33;7.58;7.42;Sample  82.58;11;
+82.58;Arabica;Colombia;;1750 msnm;huila;2013;7.58;7.5;7.42;7.58;7.67;7.42;7.42;Sample  82.58;11;Green
+82.58;Arabica;Mexico;JAMAICA;1250;OAXACA;2012;7.5;7.58;7.5;7.5;7.42;7.5;7.58;Sample  82.58;10;Green
+82.58;Arabica;Mexico;"LA TIMBUCHERA; EL OCOTITO Y LA HORTALIZA";1150;COLIMA;2012;7.67;7.58;7.58;7.75;7.67;6.83;7.5;Sample  82.58;12;Green
+82.58;Arabica;Colombia;;De 1.600 a 1.950 msnm;Huila;2012;7.33;7.42;7.58;7.42;7.67;7.5;7.67;Sample  82.58;11;Green
+82.58;Arabica;Brazil;Fazenda Chamusca;900-1050m;South Minas Gerais;2011;7.58;7.5;7.33;7.75;7.5;7.5;7.42;Sample  82.58;0;
+82.5;Arabica;Brazil;Fazenda Capoeirinha;890;South of Minas Gerais;2017 / 2018;7.5;7.5;7.5;7.5;7.58;7.5;7.42;Sample  82.50;11;Green
+82.5;Arabica;Indonesia;Various;1250;Bali Kintamani;2017;7.83;7.75;7.25;7.5;7.42;7.33;7.42;Sample  82.50;11;Green
+82.5;Arabica;Honduras;Las Cuchillas;1400;Comayagua;2017;7.58;7.58;7.33;7.5;7.5;7.5;7.5;Sample  82.50;10;Green
+82.5;Arabica;Guatemala;LA ESPERANZA;4000;ORIENTE;2016;7.5;7.5;7.33;7.5;7.67;7.5;7.5;Sample  82.50;10;Green
+82.5;Arabica;Thailand;;800++;THAILAND;2014;7.5;7.83;7.5;7.75;7.33;7.42;7.83;Sample  82.50;12;Green
+82.5;Arabica;Thailand;;1,400-1,500 m;Chiangrai;2014;7.33;7.5;7.5;7.5;7.67;7.5;7.5;Sample  82.50;11;
+82.5;Arabica;Tanzania, United Republic Of;Shah Plantation;1600;Karatu Arusha;2014;7.67;7.42;7.33;7.58;7.5;7.5;7.5;Sample  82.50;12;Green
+82.5;Arabica;Tanzania, United Republic Of;Amkeni;;Moshi Rural;2014;7.75;7.0;7.42;7.58;7.58;7.58;7.58;Sample  82.50;12;Bluish-Green
+82.5;Arabica;Mexico;Finca San El Retiro;1,500-1,700m;Chiapas;2013;7.42;7.58;7.5;7.67;7.25;7.5;7.58;Sample  82.50;0;Green
+82.5;Arabica;Brazil;Fazenda Rio Verde;1260;South Minas;2013/2014;7.42;7.5;7.67;7.33;7.42;7.67;7.5;Sample  82.50;11;Bluish-Green
+82.5;Arabica;Guatemala;LA UNION MONTEVERDE;4300;ORIENTE;2013;7.83;7.42;7.33;7.67;7.42;7.5;7.33;Sample  82.50;12;Green
+82.5;Arabica;Colombia;;1750 msnm;HUILA;2013;7.5;7.5;7.42;7.42;7.58;7.58;7.5;Sample  82.50;11;Green
+82.5;Arabica;Guatemala;LA ESPERANZA Y ANEXOS;4300;ORIENTE;2013;7.83;7.67;7.17;7.33;7.5;7.67;7.33;Sample  82.50;11;Green
+82.5;Arabica;Mexico;LA PAGUA;1679;SAN BARTOLO TUTOTEPEC;2012;7.5;7.58;7.5;7.5;7.42;7.42;7.58;Sample  82.50;13;None
+82.5;Arabica;Mexico;CALTUCHOCO;1100;ZAPOTITLAN DE MENDEZ;2012;7.67;7.5;7.33;7.67;7.5;7.33;7.5;Sample  82.50;12;Green
+82.5;Arabica;Mexico;SANTA CRUZ - PANTE DON MANUEL;1650;LA CONCORDIA;2012;7.92;7.5;7.33;7.58;7.25;7.42;7.5;Sample  82.50;11;
+82.5;Arabica;Guatemala;VARIOUS;;ORIENTE;2012;7.67;7.33;7.33;7.33;7.5;7.83;7.5;Sample  82.50;11;Green
+82.5;Arabica;Brazil;Fazenda do Sertao;1.250 m;Carmo de Minas Micro Region;2012;7.67;7.42;7.33;7.67;7.5;7.5;7.42;Sample  82.50;0;Blue-Green
+82.5;Arabica;Colombia;;DE 1.600 A 1.950 MSNM;HUILA;2012;7.67;7.5;7.33;7.5;7.25;7.67;7.58;Sample  82.50;11;Green
+82.5;Arabica;United States (Hawaii);;;Kona;2012;7.33;7.42;7.33;7.75;7.42;7.67;7.58;Sample  82.50;12;Green
+82.5;Arabica;Guatemala;;1600;Huehuetenango;;7.75;7.58;7.67;7.67;7.58;7.58;7.33;Sample  82.50;1;
+82.42;Arabica;Honduras;Carrillo Cooperativa;1500;Comayagua, Honduras;2017;7.42;7.67;7.17;7.58;7.58;7.5;7.5;Sample  82.42;12;Green
+82.42;Arabica;Guatemala;PIAMONTE;1700;SAN MARCOS;2017;7.58;7.5;7.33;7.75;7.33;7.5;7.42;Sample  82.42;10;Green
+82.42;Arabica;Guatemala;LAS MERCEDITAS;1700;SAN MARCOS;2016;7.67;7.58;7.25;7.67;7.42;7.33;7.5;Sample  82.42;12;Green
+82.42;Arabica;Guatemala;LA ESMERALDA;518;EL PROGRESO;2017;7.58;7.5;7.25;7.67;7.5;7.5;7.42;Sample  82.42;12;Green
+82.42;Arabica;Guatemala;PROVIDENCIA;;SANTA ROSA;2017;7.5;7.42;7.08;7.75;7.67;7.5;7.5;Sample  82.42;11;Green
+82.42;Arabica;Colombia;;1600;Guayatá;2016;5.08;7.75;7.83;7.75;7.83;8.08;8.08;Sample  82.42;11;Green
+82.42;Arabica;China;Menglian Gao Sanlin Coffee Factory;1600;Yunnan province Pu'er City Menglian County;2015;7.67;7.42;7.42;7.5;7.42;7.42;7.58;Sample  82.42;10;Green
+82.42;Arabica;Brazil;;;CAMPOS ALTOS - CERRADO;2016;7.42;7.5;7.33;7.5;7.25;7.42;8.0;Sample  82.42;11;Green
+82.42;Arabica;Tanzania, United Republic Of;NGURUMA;2285;ARUSHA MERU;2015/2016;7.67;7.25;7.42;7.42;7.67;7.42;7.58;Sample  82.42;13;Green
+82.42;Arabica;Brazil;Rio Verde;1;South of Minas Gerais;2015/2016;7.17;7.83;7.33;7.5;7.75;7.42;7.42;Sample  82.42;0;Green
+82.42;Arabica;Guatemala;SEVERAL;1400 mts;Atitlan;2013;7.5;7.5;7.5;7.67;7.42;7.5;7.33;Sample  82.42;10;Green
+82.42;Arabica;Mexico;LOS LLANITOS;1296;LA YERBA;2014;7.42;7.5;7.42;7.58;7.42;7.5;7.58;Sample  82.42;11;Green
+82.42;Arabica;Brazil;Fazenda Serra Negra;1000m;South of Minas Gerais;2012;7.58;7.67;7.33;7.5;7.5;7.42;7.42;Sample  82.42;12;Blue-Green
+82.42;Arabica;Peru;;Huanuco;Peru;2013;7.58;7.58;7.58;7.75;7.5;7.58;7.5;Sample  82.42;0;Green
+82.42;Arabica;Brazil;Fazenda Rio Verde;1260;South Minas;2013/2014;7.25;7.33;7.25;7.5;7.42;7.5;8.17;Sample  82.42;0;Green
+82.42;Arabica;Mexico;FINCA LOS BARREALES;1170;Teocelo;2013;7.5;7.58;7.5;7.92;7.42;7.67;7.5;Sample  82.42;12;Green
+82.42;Arabica;Honduras;;;;2012;7.25;7.67;7.42;7.17;7.75;7.5;7.67;Sample  82.42;9;None
+82.42;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2013;7.67;7.42;7.33;7.5;7.58;7.5;7.42;Sample  82.42;11;Green
+82.42;Arabica;Mexico;CIPRESAL;1560;CHIAPAS;2013;7.5;7.42;7.42;7.67;7.42;7.58;7.42;Sample  82.42;12;Green
+82.42;Arabica;Mexico;PANTE SAN PEDRO;1400;SAN PEDRO COTZILNAM;2012;7.42;7.58;7.5;7.42;7.58;7.5;7.42;Sample  82.42;13;Green
+82.42;Arabica;Mexico;CAFETAL EL EQUIMITE, RANCHO AGROECOLÓGICO;1300;COATEPEC;2012;7.42;7.58;7.33;7.58;7.5;7.5;7.5;Sample  82.42;14;Green
+82.42;Arabica;Mexico;LOS BARREALES 1112LBCAT_S110312;1170;XALAPA;2012;7.75;7.33;7.25;7.58;7.58;7.33;7.58;Sample  82.42;13;Green
+82.42;Arabica;Mexico;CORRAL DEL DIABLO LOTE 1;1300;ZIHUATANEJO DE AZUETA;2012;7.5;7.58;7.33;7.5;7.5;7.5;7.5;Sample  82.42;11;Green
+82.42;Arabica;Mexico;CAÑADA FRIA;1350;HUATUSCO;2012;7.58;7.58;7.17;7.5;7.5;7.5;7.58;Sample  82.42;14;Green
+82.42;Arabica;Mexico;FINCA NEXTLALPA;1150;XICOTEPEC DE JUAREZ;2012;7.58;7.33;7.33;7.58;7.5;7.5;7.58;Sample  82.42;11;Green
+82.42;Arabica;Mexico;SANTA ROSA;1250;PROGRESO SANTA ROSA TEOCELO;2012;7.67;7.58;7.33;7.42;7.58;7.33;7.5;Sample  82.42;13;
+82.42;Arabica;Mexico;FLN MIRADOR;1450;FLN MIRADOR;2012;7.83;7.5;7.42;7.67;7.17;7.33;7.5;Sample  82.42;12;Bluish-Green
+82.42;Arabica;Colombia;;442 MSNM;HUILA;2012;7.67;7.33;7.25;7.42;7.5;7.67;7.58;Sample  82.42;0;
+82.42;Arabica;Brazil;Santa Mariana;;South of Minas Gerais;2012;7.75;7.5;7.42;7.42;7.5;7.42;7.42;Sample  82.42;11;Blue-Green
+82.42;Arabica;Colombia;;1750;Huila;2011;7.33;7.58;7.17;7.58;7.42;7.58;7.75;Sample  82.42;0;Green
+82.42;Arabica;Colombia;;1750 m.s.n.m;huila;3T/2011;7.58;7.25;7.42;7.25;7.58;7.83;7.5;Sample  82.42;2;
+82.33;Arabica;Honduras;Los Hicaques;1396;Comayagua;2017;7.5;7.58;7.33;7.5;7.42;7.42;7.58;Sample  82.33;10;Green
+82.33;Arabica;Brazil;Fazenda São Pedro;982;Cerrado;2016;7.33;7.5;7.5;7.33;7.5;7.5;7.67;Sample  82.33;11;Green
+82.33;Arabica;Brazil;;;CERRADO;2016 / 2017;7.42;7.42;7.42;7.5;7.5;7.58;7.5;Sample  82.33;11;Green
+82.33;Arabica;Brazil;Capoeirinha Farm;934;South of Minas Gerais;2016;7.5;7.5;7.42;7.5;7.42;7.5;7.5;Sample  82.33;11;Bluish-Green
+82.33;Arabica;Costa Rica;Gamboa;1850;Tarrazu;2015;7.75;7.5;7.25;7.25;7.42;7.67;7.5;Sample  82.33;10;Bluish-Green
+82.33;Arabica;Costa Rica;Rio Jorco;1550;Tarrazu;2015;7.75;7.33;7.5;7.5;7.33;7.58;7.33;Sample  82.33;0;Green
+82.33;Arabica;China;Yun Lan Coffee Co. Ltd;1580;XiShuangBanNa Prefecture;2015;7.5;7.58;7.42;7.5;7.42;7.42;7.5;Sample  82.33;12;Green
+82.33;Arabica;Brazil;Rio Verde;1268;South Minas Gerais;2015/2016;8.25;7.83;7.25;8.33;8.17;8.08;7.75;Sample  82.33;7;Green
+82.33;Arabica;Brazil;;;CHAPADÃO DE FERRO (CERRADO MINEIRO);2015;7.42;7.5;7.5;7.42;7.5;7.58;7.42;Sample  82.33;11;Green
+82.33;Arabica;Guatemala;FINCA LOMA LINDA Y ANEXO;5500 METROS;HUEHUETENANGO;2015;7.5;7.42;7.17;7.83;7.5;7.5;7.42;Sample  82.33;10;Green
+82.33;Arabica;Malawi;Utchisi Mountain;1450 M;South of Mzuzu;2014;7.33;7.58;7.42;7.58;7.33;7.5;7.58;Sample  82.33;12;Green
+82.33;Arabica;Brazil;Rio Verde;1100;South Minas Gerais;2014/2015;7.75;8.08;7.67;8.08;8.08;8.0;8.0;Sample  82.33;11;Blue-Green
+82.33;Arabica;Guatemala;EL MORITO;5000 FT.;JALAPA;2014;7.58;7.67;7.5;7.58;7.75;7.5;7.42;Sample  82.33;12;Green
+82.33;Arabica;Mexico;;;Veracruz;2014;7.33;7.58;7.42;7.5;7.5;7.5;7.5;Sample  82.33;11;Green
+82.33;Arabica;Colombia;SEVERAL;1300;ANTIOQUIA;2013;7.42;7.33;7.5;7.17;7.08;8.33;7.5;Sample  82.33;10;Green
+82.33;Arabica;Taiwan;Guo cun nong yuan 國村農園;200 M;Changhua BaGuaShan 彰化市八卦山;2013/2014;7.5;7.5;7.5;7.5;7.5;7.5;7.33;Sample  82.33;11;Green
+82.33;Arabica;Taiwan;Yu jin gui 玉金櫃咖啡;600 M;Taichung Xinshe 台中市新社區;2013/2014;7.5;7.5;7.5;7.5;7.5;7.5;7.33;Sample  82.33;11;Green
+82.33;Arabica;Guatemala;EL MORITO;4300;ORIENTE;2013;7.5;7.42;7.58;7.5;7.5;7.58;7.25;Sample  82.33;12;Green
+82.33;Arabica;Colombia;;1750 msnm;huila;2013;7.5;7.42;7.5;7.5;7.5;7.58;7.33;Sample  82.33;0;Green
+82.33;Arabica;Mexico;SANTA TERESA;1300;LA CONCORDIA, CHIAPAS;2013;7.67;7.5;7.42;7.5;7.42;7.42;7.42;Sample  82.33;12;Green
+82.33;Arabica;Costa Rica;;;Central Valley;2012;7.92;7.58;7.25;7.75;7.92;7.58;7.67;Sample  82.33;0;Green
+82.33;Arabica;Guatemala;FINCA EL MORITO;5,500-6,000 PSNM;JALAPA;2012;7.67;7.5;7.33;7.67;7.5;7.33;7.33;Sample  82.33;11;Green
+82.33;Arabica;Mexico;TEPEMALACAX;441;JALTOCAN, HIDALGO;2012;7.58;7.67;7.58;7.33;7.0;7.58;7.58;Sample  82.33;15;None
+82.33;Arabica;Mexico;FINCA LOS BARREALES 1112LBGA7250412;1170;TEOCELO;2012;7.67;7.58;7.5;7.58;7.5;7.5;7.0;Sample  82.33;13;Green
+82.33;Arabica;Guatemala;AGROPECUARIA QUIAGRAL;4300;ORIENTE;2012;7.5;7.67;7.33;7.5;7.33;7.5;7.5;Sample  82.33;10;Green
+82.33;Arabica;Brazil;Sitío Santa Luzia;1100m;Grama Valley;2012;7.58;7.5;7.42;7.5;7.5;7.42;7.42;Sample  82.33;12;Green
+82.33;Arabica;Mexico;CAFETAL SANTA MARIA;1200 A 1400;SANTA CATARINA JUQUILA;2012;8.0;7.75;7.33;7.33;7.08;7.67;7.83;Sample  82.33;11;Green
+82.33;Arabica;Brazil;Café Citrus;950m;South of Minas Gerais;2012;7.58;7.58;7.25;7.58;7.42;7.5;7.42;Sample  82.33;11;Green
+82.33;Arabica;Colombia;;442 MSNM;HUILA;2012;7.83;7.58;7.33;7.25;7.58;7.42;7.33;Sample  82.33;0;Green
+82.25;Arabica;Brazil;FAZENDAS KLEM LTDA;1100;BRAZIL MATAS DE MINAS;;7.58;7.5;7.25;7.42;7.67;7.33;7.5;Sample  82.25;9;Green
+82.25;Arabica;Taiwan;眉泉莊園        ;;;2016/2017;7.0;7.08;7.0;7.17;7.0;7.0;10.0;Sample  82.25;10;Blue-Green
+82.25;Arabica;Guatemala;LINDA VISTA;1450;NUEVO ORIENTE;2016;7.67;7.5;7.25;7.67;7.42;7.42;7.33;Sample  82.25;11;Green
+82.25;Arabica;Brazil;Rio Verde;1;South of Minas Gerais;2015/2016;7.42;7.67;7.5;7.08;7.5;7.42;7.67;Sample  82.25;0;Green
+82.25;Arabica;El Salvador;Zapato de Mico;1500;Apaneca-Ilamatepec;2014;7.58;7.67;7.5;7.67;7.83;8.42;7.58;Sample  82.25;12;Green
+82.25;Arabica;Honduras;Bethel;1350;Marcala;2015;7.58;7.5;7.42;7.58;7.42;7.42;7.33;Sample  82.25;11;Green
+82.25;Arabica;Malawi;Kachere;1180M;South of Mzuzu;2014;7.58;7.42;7.33;7.42;7.58;7.5;7.42;Sample  82.25;13;Blue-Green
+82.25;Arabica;Brazil;Rio Verde;1100;South Minas Gerais;2014/2015;7.75;7.58;7.42;7.42;7.33;7.33;7.42;Sample  82.25;11;Green
+82.25;Arabica;Taiwan;Guo xing ka fei wang 國姓咖啡王咖啡莊園;650 M;Nantou Guoxing 南投縣國姓鄉;2013/2014;7.5;7.5;7.5;7.5;7.5;7.5;7.25;Sample  82.25;11;Green
+82.25;Arabica;Mexico;FINCA HUEHUETECPAM;1338;COSAUTLAN DE CARVAJAL, VER.;2013;7.58;7.58;7.42;7.42;7.42;7.42;7.42;Sample  82.25;12;Blue-Green
+82.25;Arabica;United States (Hawaii);;;KONA;2013;7.33;7.42;7.5;7.67;7.5;7.42;7.42;Sample  82.25;0;Bluish-Green
+82.25;Arabica;Mexico;OMICUATLA;533;CALNALI, HIDALGO;2012;7.58;7.58;7.5;7.17;7.42;7.42;7.58;Sample  82.25;16;None
+82.25;Arabica;Guatemala;FINCA MEDINA;4563;ANTIGUA;2012;7.5;7.5;7.33;7.58;7.67;7.33;7.33;Sample  82.25;11;Green
+82.25;Arabica;Mexico;LOS BARREALES 1112LBGR7230412;1170;TEOCELO;2012;7.5;7.58;7.42;7.67;7.33;7.42;7.33;Sample  82.25;13;Green
+82.25;Arabica;Mexico;JAMAICA;1250;JUQUILA;2012;7.67;7.58;7.33;7.5;7.42;7.42;7.33;Sample  82.25;12;Green
+82.25;Arabica;El Salvador;;;;2012;7.75;7.33;7.33;7.5;7.5;7.5;7.33;Sample  82.25;0;Green
+82.25;Arabica;Mexico;CHILCUATLA;1100;HUATUSCO;2012;7.33;7.58;7.42;7.67;7.33;7.5;7.42;Sample  82.25;11;Green
+82.25;Arabica;Mexico;COMUNIDAD DE CANOAS;900;CANOAS;2012;7.42;7.5;7.42;7.58;7.42;7.5;7.42;Sample  82.25;10;Green
+82.25;Arabica;Colombia;;1750;huila;2012;7.5;7.42;7.67;7.33;7.58;7.33;7.42;Sample  82.25;12;Green
+82.25;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;2012;7.67;7.33;7.33;7.33;7.5;7.5;7.58;Sample  82.25;11;Green
+82.25;Arabica;Brazil;Caxambu;;;2012;7.67;7.58;7.42;7.0;7.5;7.58;7.5;Sample  82.25;12;Green
+82.25;Arabica;Colombia;;;Cauca;;7.17;7.25;7.58;7.25;7.58;7.67;7.75;Sample  82.25;22;
+82.17;Arabica;Brazil;Fazenda Capoeirinha;934;South of Minas Gerais;2016;7.42;7.42;7.5;7.42;7.42;7.5;7.5;Sample  82.17;11;Green
+82.17;Arabica;Honduras;Las Cuchillas;1500;Comayagua;2015;7.5;7.5;7.17;7.42;7.5;7.5;7.58;Sample  82.17;11;Bluish-Green
+82.17;Arabica;Nicaragua;EL BRIGADUM - LA CORONELA;1000;JINOTEGA PROVINCE;;7.5;7.5;7.33;7.42;7.5;7.42;7.5;Sample  82.17;10;Green
+82.17;Arabica;Tanzania, United Republic Of;Langiro farm group;1500-1800;Ruvuma;2015;7.58;7.42;7.42;7.33;7.5;7.42;7.5;Sample  82.17;13;Green
+82.17;Arabica;Tanzania, United Republic Of;;1600;Northern;2015/2016;7.42;7.42;7.42;7.5;7.5;7.33;7.58;Sample  82.17;12;Green
+82.17;Arabica;Brazil;Rio Verde;1;South of Minas Gerais;2015/2016;6.92;7.58;7.42;7.33;7.83;7.5;7.58;Sample  82.17;0;Green
+82.17;Arabica;Thailand;;800++;THAILAND;2014;7.42;7.42;7.17;7.75;7.25;7.67;7.5;Sample  82.17;12;Bluish-Green
+82.17;Arabica;Honduras;Bethel;1350;Marcala;2015;7.67;7.5;7.25;7.42;7.58;7.42;7.33;Sample  82.17;11;Green
+82.17;Arabica;Guatemala;Blue Lake;1500;Atitlan;2014;7.42;7.42;7.5;7.5;7.42;7.5;7.42;Sample  82.17;9;Blue-Green
+82.17;Arabica;Brazil;;;CERRADO - CAMPOS ALTOS;2014;7.58;7.5;7.42;7.25;7.5;7.42;7.5;Sample  82.17;12;Green
+82.17;Arabica;Tanzania, United Republic Of;Ilomba 2;1700;Ilomba Vilage, Mbozi;2014;7.75;7.42;7.42;7.58;7.33;7.42;7.25;Sample  82.17;12;Green
+82.17;Arabica;Mexico;EL PINO;1100;COSAUTLAN DE CARVAJAL;2013;7.42;7.33;7.17;7.42;7.33;8.17;7.33;Sample  82.17;12;Green
+82.17;Arabica;Mexico;;1,200-1,600m;La Concordia, Chiapas;2013;7.5;7.5;7.33;7.42;7.5;7.42;7.5;Sample  82.17;10;None
+82.17;Arabica;Taiwan;Song Yue Coffee 嵩岳咖啡;1200 M;Yunlin 雲林縣石壁;2013/2014;7.5;7.5;7.5;7.5;7.5;7.5;7.17;Sample  82.17;11;Green
+82.17;Arabica;Taiwan;Kan Tou Mountain Coffee 崁頭山咖啡館;800 M;Dongshan Dist., Tainan City 臺南市東山區;2012;7.67;7.5;7.5;7.17;7.17;7.58;7.58;Sample  82.17;0;Green
+82.17;Arabica;Colombia;;1750 msnm;huila;2013;7.33;7.25;7.25;7.58;7.75;7.5;7.5;Sample  82.17;0;Bluish-Green
+82.17;Arabica;Mexico;EL NANCHI;1144;SAN BARTOLO TUTOTEPEC;2012;7.5;7.67;7.0;7.5;7.33;7.5;7.67;Sample  82.17;15;None
+82.17;Arabica;Guatemala;;1350;Oriente;2012;7.25;7.75;7.0;7.75;8.17;7.75;7.17;Sample  82.17;12;None
+82.17;Arabica;Mexico;LAS TRUCHAS;1000;ALTOTONGA;2012;7.5;7.58;7.25;7.5;7.5;7.33;7.5;Sample  82.17;12;Green
+82.17;Arabica;Mexico;LA CALERA, BARRANCA DE LA LEONA, EL NOGAL;1200;COLIMA;2012;7.0;7.67;7.5;7.5;7.42;7.5;7.58;Sample  82.17;10;Green
+82.17;Arabica;Colombia;;1800 msnm;huila;4T/10;7.58;7.67;7.42;7.17;7.17;7.75;7.42;Sample  82.17;8;
+82.08;Arabica;Indonesia;Vary;1300;Aceh Gayo;2017;7.5;7.5;7.42;7.42;7.5;7.42;7.33;Sample  82.08;15;
+82.08;Arabica;Colombia;;;Huila;2016;7.75;7.58;7.42;7.67;7.83;7.58;7.58;Sample  82.08;0;Green
+82.08;Arabica;Brazil;Fazenda Capoeirinha;894;South of Minas Gerais;2016;7.42;7.58;7.42;7.5;7.42;7.25;7.5;Sample  82.08;11;Green
+82.08;Arabica;Brazil;Rio Verde;1;South of Minas Gerais;2015/2016;7.25;7.25;7.58;7.58;7.25;7.92;7.25;Sample  82.08;0;Green
+82.08;Arabica;Costa Rica;EL PATALILLO;1200-1400 MASL;TRES RIOS;2015;7.75;7.42;7.42;7.25;7.17;7.42;7.67;Sample  82.08;0;Blue-Green
+82.08;Arabica;Tanzania, United Republic Of;AMPCG;1500;Kilimanjaro;2014;7.42;7.33;7.42;7.42;7.5;7.58;7.42;Sample  82.08;12;Green
+82.08;Arabica;Tanzania, United Republic Of;Ngorogoro Convenant Estate;1500 - 1700;Ngorogoro;2014;7.42;7.5;7.5;7.33;7.33;7.5;7.5;Sample  82.08;12;Green
+82.08;Arabica;Colombia;;;;2013;7.5;7.42;7.42;7.42;7.67;7.42;7.25;Sample  82.08;11;Green
+82.08;Arabica;Costa Rica;Cafetalera Aquiares;1.3;Turrialba;2013;7.58;7.33;7.33;7.33;7.5;7.67;7.33;Sample  82.08;11;Green
+82.08;Arabica;United States (Hawaii);;;KONA;2012;7.25;7.58;7.58;7.25;7.5;7.42;7.5;Sample  82.08;11;Bluish-Green
+82.08;Arabica;Mexico;CAFETAL EL EQUIMITE, RANCHO AGROECOLÓGICO;1300;COATEPEC;2012;7.42;7.58;7.5;7.33;7.42;7.42;7.42;Sample  82.08;13;Green
+82.08;Arabica;Mexico;;1800;TAPACHULA;2012;7.5;7.42;7.42;7.5;7.25;7.5;7.5;Sample  82.08;13;Green
+82.08;Arabica;Mexico;BOLA DE ORO;1250;COATEPEC;2012;7.67;7.5;7.25;7.58;7.42;7.33;7.33;Sample  82.08;11;Green
+82.08;Arabica;Vietnam;Apollo Co., LTd.;1040M;Don Duong;2012;7.67;8.0;7.17;7.08;7.67;7.08;7.42;Sample  82.08;12;Green
+82.08;Arabica;Mexico;TOMATLANCILLO;1250;HUATUSCO;2012;7.58;7.42;7.25;7.75;7.33;7.42;7.33;Sample  82.08;11;Green
+82.08;Arabica;United States (Hawaii);;;Kona;2012;7.33;7.5;7.33;7.58;7.08;7.83;7.42;Sample  82.08;10;Green
+82.08;Arabica;Colombia;;1600 msnm;Cauca;January 2011;7.67;7.42;7.67;7.33;7.25;7.58;7.17;Sample  82.08;8;
+82.0;Arabica;Honduras;Las Moras;1600;El Paraíso;2017;7.5;7.5;7.17;7.5;7.5;7.42;7.42;Sample  82.00;12;Green
+82.0;Arabica;Honduras;Las Moras;1600;Guinope El Paraíso;2016;7.5;7.5;7.25;7.33;7.42;7.5;7.5;Sample  82.00;10;Green
+82.0;Arabica;Brazil;Capoeirinha Farm;944;South of Minas Gerais;2016;7.5;7.33;7.42;7.5;7.33;7.42;7.5;Sample  82.00;11;Green
+82.0;Arabica;Tanzania, United Republic Of;Family farm;1500-1800;Kilimanjaro;2015;7.67;7.33;7.33;7.42;7.42;7.42;7.42;Sample  82.00;13;Green
+82.0;Arabica;Laos;Club Green;1250m;Lao P.D.R.;2015;7.42;7.5;7.25;7.33;7.5;7.5;7.5;Sample  82.00;12;Blue-Green
+82.0;Arabica;Tanzania, United Republic Of;Finca Estate;1300- 1400;Meru;2014;7.42;7.42;7.33;7.58;7.33;7.42;7.5;Sample  82.00;12;Green
+82.0;Arabica;Malawi;Chikali;2500M;North of Mzuzu;2014;7.5;7.42;7.33;7.58;7.33;7.5;7.33;Sample  82.00;13;Bluish-Green
+82.0;Arabica;Taiwan;You Siang Coffee FarmTainan, Taiwan 台灣台南優香咖啡;600M;Dongshan Dist., Tainan City 臺南市東山區;2013;7.33;7.5;7.17;7.42;7.5;7.33;7.75;Sample  82.00;9;Green
+82.0;Arabica;Thailand;;800++;Thailand;2013;7.58;7.5;7.42;7.42;7.33;7.42;7.33;Sample  82.00;11;Green
+82.0;Arabica;Costa Rica;VARIOS;1200-1400;CENTRAL VALLEY - WEST VALLEY;2013;7.5;7.25;7.33;7.33;7.75;7.5;7.33;Sample  82.00;10;Green
+82.0;Arabica;Honduras;BSR;1400 m.s.n.m.;Occidental;2014;7.33;7.33;7.33;7.5;7.5;7.83;7.17;Sample  82.00;11;Green
+82.0;Arabica;Colombia;;1800 - 2000;Huila;2013;7.33;7.33;7.58;7.5;7.5;7.58;7.17;Sample  82.00;11;Green
+82.0;Arabica;Taiwan;Gao Chun Fang 高醇坊;600-700 M;Dongshan Dist., Tainan City 臺南市東山區;2012;7.42;7.58;7.33;7.42;8.0;7.5;7.42;Sample  82.00;12;Bluish-Green
+82.0;Arabica;Brazil;Café do Paraíso;894m - 1183m;Minas Gerais, BR;2012;7.33;7.67;7.42;7.17;7.33;7.42;7.67;Sample  82.00;11;Blue-Green
+82.0;Arabica;Mexico;LA CEIBA;940;COSCOMATEPEC;2012;7.67;7.33;7.25;7.5;7.42;7.42;7.42;Sample  82.00;12;Green
+82.0;Arabica;Brazil;Campo das Flores;1000m;South of Minas Gerais;2012;7.42;7.5;7.33;7.5;7.33;7.5;7.42;Sample  82.00;12;Green
+82.0;Arabica;Brazil;São José da Lagoa;1050m;Cerrado of Minas Gerais;2012;7.42;7.5;7.25;7.5;7.5;7.42;7.42;Sample  82.00;11;Blue-Green
+82.0;Arabica;Guatemala;EL FARO;;SAN MARCOS;2012;7.33;7.33;7.33;7.5;7.67;7.67;7.17;Sample  82.00;11;Green
+82.0;Arabica;Brazil;Santa Mariana/São Vicente;950m;South of Minas Gerais;2012;7.58;7.5;7.17;7.5;7.5;7.42;7.33;Sample  82.00;12;Green
+82.0;Arabica;Guatemala;Conquista/Morito;4,600 ft.;Oriente;2012;7.75;7.33;7.33;7.42;7.75;7.67;7.42;Sample  82.00;0;Green
+82.0;Arabica;Colombia;;De 1.600 a 1.950 msn;Huila;Mayo a Julio;7.33;7.0;7.08;7.42;7.5;7.67;8.0;Sample  82.00;7;
+81.92;Arabica;Guatemala;LA ESPERANZA;1901;ORIENTE;2017;7.58;7.5;7.25;7.58;7.58;7.5;7.58;Sample  81.92;10;Green
+81.92;Arabica;Guatemala;LAS DELICIAS;4000;SANTA ROSA;2017;7.5;7.5;7.25;7.42;7.42;7.42;7.42;Sample  81.92;11;Green
+81.92;Arabica;Honduras;Los Hicaques;1400;Comayagua;2017;7.58;7.5;7.25;7.33;7.42;7.5;7.33;Sample  81.92;12;Green
+81.92;Arabica;Brazil;Santa Bárbara;1020;Monte Carmelo, Cerrado;2016 / 2017;7.42;7.33;7.33;7.5;7.5;7.33;7.5;Sample  81.92;11;Green
+81.92;Arabica;El Salvador;La Esperanza;1250;El bálsamo - Quezaltepec;2014;7.67;7.58;7.33;7.5;7.5;7.67;7.33;Sample  81.92;11;Green
+81.92;Arabica;Guatemala;LAS CEBOLLAS Y ANEXOS;1300 A 1800 MTRS. A NIVEL DEL MAR;NUEVO ORIENTE;2015;7.58;7.58;7.17;7.83;7.17;7.33;7.25;Sample  81.92;11;Green
+81.92;Arabica;Tanzania, United Republic Of;Mcomafa Farm No1155GR;1877;Mbeya;2014;7.33;7.33;7.33;7.42;7.5;7.58;7.42;Sample  81.92;12;Green
+81.92;Arabica;Nicaragua;;;;2013;7.58;7.42;7.25;7.17;7.5;7.67;7.33;Sample  81.92;12;Green
+81.92;Arabica;Zambia;Mubuyu Munali;1,000-1,500m;Mubuyu Estate;2014;7.67;7.08;7.42;7.33;7.75;7.42;7.25;Sample  81.92;0;
+81.92;Arabica;Honduras;;;;2012;7.42;7.33;7.33;7.58;7.33;7.5;7.42;Sample  81.92;11;Green
+81.92;Arabica;Taiwan;Dragon Coffee 龍咖啡;1000 M;Taichung Xinshe 台中市新社區;2012;7.5;7.5;7.42;7.25;7.5;7.5;7.25;Sample  81.92;11;Green
+81.92;Arabica;Mexico;VARIAS COMUNIDADES;1300;CHIAPAS;2013;7.58;7.5;7.25;7.58;7.5;7.25;7.25;Sample  81.92;12;Green
+81.92;Arabica;Mexico;PLATANAL;981;CHAPULHUACAN, HIDALGO;2012;7.5;7.5;7.25;7.25;7.5;7.5;7.42;Sample  81.92;13;None
+81.92;Arabica;Mexico;TEXPANCO;690;HUAZALINGO, HIDALGO;2012;7.5;7.42;7.25;7.5;7.33;7.33;7.58;Sample  81.92;14;None
+81.92;Arabica;Mexico;LA LAJA;1650;VERACRUZ;2012;7.33;7.58;7.17;7.58;7.42;7.33;7.5;Sample  81.92;12;Green
+81.92;Arabica;Mexico;MATA LARGA;1000;FORTÍN DE LAS FLORES;2012;7.67;7.42;7.33;7.83;7.5;7.5;7.33;Sample  81.92;12;Green
+81.92;Arabica;Brazil;Sitío Corrego da Olaria/São Caetano;1100m;Grama Valley;2012;7.42;7.58;7.25;7.5;7.33;7.5;7.33;Sample  81.92;12;Green
+81.92;Arabica;Colombia;;1600 m.s.n.m;Cundinamarca;4T/2010;7.67;7.33;7.33;7.58;7.33;7.33;7.33;Sample  81.92;9;
+81.83;Arabica;Guatemala;LA ESMERALDA;518;ORIENTE;2017;7.42;7.5;7.25;7.5;7.33;7.42;7.42;Sample  81.83;10;Green
+81.83;Arabica;Costa Rica;Estate La Patricia;1900;Tarrazu;2016;7.25;7.33;7.5;7.33;7.67;7.42;7.33;Sample  81.83;0;Green
+81.83;Arabica;Brazil;Helena;973;Monte Carmelo - Cerrado;2016;7.42;7.5;7.42;7.5;7.42;7.25;7.33;Sample  81.83;11;Green
+81.83;Arabica;Indonesia;MUDAR;1250;BALI;2015;7.75;7.83;7.58;7.75;7.92;7.83;5.17;Sample  81.83;11;Green
+81.83;Arabica;Guatemala;CHAPULTEPEC;3280;NORTE;2015;7.58;7.5;7.33;7.42;7.58;7.25;7.17;Sample  81.83;10;Green
+81.83;Arabica;Brazil;Rio Verde;1;South of Minas Gerais;2015/2016;7.17;7.58;6.83;7.5;7.75;7.25;7.75;Sample  81.83;0;Green
+81.83;Arabica;Brazil;Rio Verde;1;South of Minas Gerais;2015/2016;7.58;7.0;6.92;6.92;7.67;7.5;8.25;Sample  81.83;0;Green
+81.83;Arabica;Myanmar;Wat-Ka-Bu;4001;Ywar Ngan;2015;7.33;7.58;7.5;7.42;7.33;7.33;7.33;Sample  81.83;0;Green
+81.83;Arabica;Mexico;RANCHO BONITO;1350-1500;CHIAPAS;2015;7.58;7.5;7.33;7.5;7.17;7.33;7.42;Sample  81.83;11;Green
+81.83;Arabica;Honduras;CERRO BUENO;1400 MSNM;MARCALA;2015;7.5;7.5;7.33;7.5;7.42;7.25;7.33;Sample  81.83;12;Green
+81.83;Arabica;Costa Rica;EL PATALILLO;1200-1400 MASL;TRES RIOS;2015;7.67;7.5;7.5;7.25;7.08;7.42;7.42;Sample  81.83;9;Green
+81.83;Arabica;Taiwan;Gao Chun Fang 高醇坊;700M;Dongshan Dist., Tainan City 臺南市東山區;2014;7.67;7.33;7.17;7.25;7.75;7.33;7.33;Sample  81.83;0;Green
+81.83;Arabica;Indonesia;Dozen small farmer;1300m;Lington NiHuta;2014;7.42;7.42;7.42;7.33;7.42;7.42;7.42;Sample  81.83;11;None
+81.83;Arabica;Malawi;Kakoma;1556M;Kakoma;2014;7.58;7.42;7.33;7.33;7.33;7.42;7.42;Sample  81.83;13;Green
+81.83;Arabica;Brazil;Rio Verde;1100;South Minas Gerais;2014/2015;7.33;7.58;7.25;7.17;7.83;7.33;7.33;Sample  81.83;11;Green
+81.83;Arabica;Honduras;Gran Manzana y el Aguacate;1350;Comayagua;2014;7.5;7.5;7.33;7.33;7.33;7.33;7.5;Sample  81.83;10;Green
+81.83;Arabica;Mexico;various small farms;1,550 meters;Siltepec el Triunfo, Chiapas, Mexico;2014;7.42;7.42;7.25;7.5;7.33;7.42;7.5;Sample  81.83;11;Green
+81.83;Arabica;Colombia;;DE 1.600 A 1950 msnm;HUILA;2013;7.5;7.5;7.0;7.42;7.5;7.58;7.33;Sample  81.83;0;Bluish-Green
+81.83;Arabica;United States (Hawaii);;;KONA;2012;7.83;7.83;7.83;8.0;7.83;7.83;8.0;Sample  81.83;0;Bluish-Green
+81.83;Arabica;Brazil;SERTAO FARM;1250;SUL DE MINAS;2012;7.75;7.75;7.5;7.42;7.83;7.75;7.83;Sample  81.83;12;Bluish-Green
+81.83;Arabica;Guatemala;EL SACRAMENTO;4300;ORIENTE;2013;7.83;7.67;7.33;7.33;7.67;7.83;7.5;Sample  81.83;11;Green
+81.83;Arabica;Mexico;FINCA MUXBAL;1500;VERACRUZ;2012;7.83;7.33;7.25;7.58;7.25;7.33;7.25;Sample  81.83;12;Green
+81.83;Arabica;Mexico;EL DESEO;1250;COAEPEC;2012;7.33;7.33;7.25;7.5;7.5;7.5;7.42;Sample  81.83;12;Green
+81.83;Arabica;Brazil;Cianorte;900-950m;Cerrado of Minas Gerais;2011;7.33;7.67;7.25;7.5;7.5;7.25;7.33;Sample  81.83;2;
+81.83;Arabica;Colombia;;1600-1800 msnm;huila;1t/2011;7.58;7.5;7.17;7.58;7.33;7.33;7.33;Sample  81.83;5;
+81.83;Arabica;United States (Hawaii);Kona Pacific Farmers Cooperative;;Kona;;7.25;7.58;7.83;7.67;7.75;7.75;7.33;Sample  81.83;2;
+81.75;Arabica;Guatemala;LAS MERCEDITAS;1700;SAN MARCOS;2017;7.5;7.5;7.25;7.42;7.42;7.33;7.33;Sample  81.75;11;Green
+81.75;Arabica;Vietnam;APOLLO Estate;1040;Vietnam;2014;7.0;7.08;7.33;7.5;7.5;7.33;8.0;Sample  81.75;12;Bluish-Green
+81.75;Arabica;Tanzania, United Republic Of;Ngorogoro Convenant Estate;1500 - 1700;Ngorogoro;2014;7.42;7.42;7.42;7.42;7.33;7.33;7.42;Sample  81.75;12;Bluish-Green
+81.75;Arabica;Brazil;;;;2013;7.17;7.25;7.17;7.25;7.42;8.25;7.25;Sample  81.75;10;Bluish-Green
+81.75;Arabica;Mexico;LOS MAGUEYES;774;TENANGO DE DORIA, HIDALGO;2012;7.5;7.5;7.33;7.42;7.25;7.25;7.5;Sample  81.75;13;None
+81.75;Arabica;Mexico;FINCA TEPICTLA;1250;TEPICTLA;2012;7.42;7.5;7.17;7.67;7.33;7.42;7.25;Sample  81.75;13;Green
+81.75;Arabica;Mexico;ARROYO TRISTE, ARROYO TRISTE, SAN JOSE VISTA HERMOSA;1100;OAXACA;2012;7.42;7.5;7.33;7.58;7.33;7.33;7.25;Sample  81.75;11;Green
+81.75;Arabica;Mexico;;1550;LA CONCORDIA;2012;7.33;7.42;7.33;7.67;7.42;7.25;7.33;Sample  81.75;12;Green
+81.75;Arabica;Mexico;SANTA CRUZ - PANTE DOÑA GRACIELA;1650;LA CONCORDIA;2012;7.5;7.42;7.25;7.33;7.67;7.25;7.33;Sample  81.75;12;
+81.75;Arabica;Colombia;;1750 msnm;Huila;2011;7.33;7.42;7.33;7.33;7.5;7.67;7.17;Sample  81.75;0;Green
+81.75;Arabica;Colombia;;De 1600 a 1950 msnm;Huila;Mayo a Julio;7.42;7.58;6.92;7.08;7.25;8.0;7.5;Sample  81.75;8;
+81.67;Arabica;Brazil;Fazenda Capoeirinha;890;South of Minas Gerais;2017 / 2018;7.42;7.5;7.25;7.5;7.5;7.25;7.25;Sample  81.67;11;Green
+81.67;Arabica;Guatemala;LAS MERCEDITAS;1700;SAN MARCOS;2017;7.42;7.42;7.08;7.42;7.33;7.42;7.58;Sample  81.67;10;Green
+81.67;Arabica;Guatemala;LA ESMERALDA;4000;SANTA ROSA;2017;7.42;7.33;7.17;7.67;7.33;7.42;7.33;Sample  81.67;12;Green
+81.67;Arabica;Honduras;BETHEL;1450;MARCALA;2016;7.58;7.5;7.33;7.33;7.42;7.25;7.25;Sample  81.67;11;Blue-Green
+81.67;Arabica;Tanzania, United Republic Of;Ngima;1800;Mbinga;2016;7.17;7.33;7.33;7.42;7.5;7.33;7.58;Sample  81.67;0;Green
+81.67;Arabica;Nicaragua;Santa Matilde;;Jinotega, Nicaragua;;7.58;7.5;7.25;7.25;7.5;7.25;7.33;Sample  81.67;10;Green
+81.67;Arabica;Colombia;;;La plata;2016;7.75;7.75;7.75;7.67;5.25;7.83;7.67;Sample  81.67;0;
+81.67;Arabica;Brazil;Rio Verde;1;South of Minas Gerais;2015/2016;7.25;7.75;6.92;7.42;7.5;7.58;7.25;Sample  81.67;0;Green
+81.67;Arabica;Tanzania, United Republic Of;Multiple;1200-1800M;Mbinga;2014;7.42;7.33;7.25;7.42;7.5;7.42;7.33;Sample  81.67;12;Green
+81.67;Arabica;Tanzania, United Republic Of;Ilomba 1;1700;Ilomba Vilage, Mbozi;2013;7.33;7.33;7.5;7.25;7.42;7.33;7.5;Sample  81.67;12;Green
+81.67;Arabica;Brazil;Rio Verde;1260;South Minas Gerais;2014/2015;7.25;7.42;7.25;7.5;7.5;7.42;7.33;Sample  81.67;10;Green
+81.67;Arabica;Indonesia;;;Bener Meriah;2013;7.17;7.42;7.33;7.42;7.33;7.42;7.58;Sample  81.67;11;Bluish-Green
+81.67;Arabica;Honduras;Gran Manzana y el Aguacate;1400;Comayagua;2014;7.5;7.33;7.5;7.5;7.17;7.17;7.5;Sample  81.67;10;Green
+81.67;Arabica;Costa Rica;Gamboa;1850;Tarrazu;2013;7.5;7.17;7.17;7.17;7.5;7.08;8.08;Sample  81.67;11;Green
+81.67;Arabica;Mexico;;;Veracruz;2014;7.42;7.42;7.67;8.0;7.58;7.5;7.42;Sample  81.67;0;Green
+81.67;Arabica;Taiwan;Mu he zi Coffee 木盒子咖啡園;150 M;Changhua BaGuaShan 彰化市八卦山;2013/2014;7.5;7.5;7.5;7.25;7.42;7.25;7.25;Sample  81.67;11;Green
+81.67;Arabica;Taiwan;Guo xin ka fei 國昕咖啡;750 M;Nantou Guoxing 南投縣國姓鄉;2013/2014;7.58;7.42;7.33;7.42;7.33;7.33;7.25;Sample  81.67;11;Green
+81.67;Arabica;Mexico;UNION RAMAL SANTA CRUZ;1400;LA CONCORDIA, CHIAPAS;2013;7.5;7.42;7.08;7.58;7.33;7.33;7.42;Sample  81.67;12;Green
+81.67;Arabica;Guatemala;FINCA EL MORITO;5,500-6,000 PSNM;JALAPA;2012;7.5;7.67;7.33;7.33;7.33;7.33;7.17;Sample  81.67;11;Green
+81.67;Arabica;Mexico;FINCA CAFETALERA LA SUIZA;1650;TUXTLA GUTIERREZ;2012;7.25;7.67;7.58;7.67;7.67;7.58;7.58;Sample  81.67;13;Green
+81.67;Arabica;Mexico;;1400;YAJALON;2012;7.67;7.25;7.17;7.75;7.5;7.25;7.08;Sample  81.67;11;Green
+81.67;Arabica;Mexico;UCIPA SANTA CATARINA;1200;VERACRUZ;2012;7.5;7.42;7.33;7.42;7.42;7.42;7.17;Sample  81.67;11;Green
+81.67;Arabica;Mexico;FINCA NUEVA LINDA;1400;LA CONCORDIA, CHIAPAS;2012;7.58;7.42;7.25;7.58;7.25;7.17;7.42;Sample  81.67;11;Green
+81.67;Arabica;Mexico;SACÚN PALMA;940;SACÚN PALMA, MUNICIPIO DE CHILÓN, CHIAPAS;2012;7.75;7.58;7.25;7.17;7.58;7.33;7.67;Sample  81.67;11;Green
+81.67;Arabica;United States (Hawaii);;;Kona;2012;7.42;7.33;7.33;7.33;7.17;7.83;7.25;Sample  81.67;10;Green
+81.58;Arabica;Honduras;varios;1200;Western Region;2018;7.5;7.42;7.08;7.42;7.5;7.33;7.33;Sample  81.58;11;Blue-Green
+81.58;Arabica;Guatemala;LA ESPERANZA;190164;HUEHUETENANGO;2017;7.42;7.42;7.08;7.5;7.42;7.33;7.42;Sample  81.58;12;Green
+81.58;Arabica;Taiwan;Baishengcun Coffee 百勝村咖啡莊園;800;Guoxing Township, Nantou County 南投縣國姓鄉;2016;7.42;7.42;7.25;7.67;7.33;7.25;7.25;Sample  81.58;10;Blue-Green
+81.58;Arabica;Costa Rica;Cafetalera Aquiares;1.3;Turrialba;2015;7.58;7.42;7.5;7.17;7.08;7.58;7.25;Sample  81.58;12;Green
+81.58;Arabica;Tanzania, United Republic Of;Acacia Hills;1800;Oldeani , Mongola;2014;7.42;7.42;7.33;7.42;7.42;7.33;7.25;Sample  81.58;12;Green
+81.58;Arabica;Malawi;Kavuzi;1100M;West of Mzuzu;2014;7.42;7.42;7.17;7.58;7.33;7.33;7.33;Sample  81.58;13;Green
+81.58;Arabica;Taiwan;Jacob's Estate 雅谷咖啡;850 M;Guoxing Township, Nantou County 南投縣國姓鄉;2014;7.33;7.17;7.08;7.08;8.33;8.25;7.0;Sample  81.58;0;
+81.58;Arabica;Brazil;Rio Verde;1260;South Minas;2013/2014;7.42;7.42;7.33;7.33;7.5;7.25;7.33;Sample  81.58;12;Blue-Green
+81.58;Arabica;Guatemala;EL MORITO;4300;ORIENTE;2013;7.42;7.33;7.17;7.58;7.42;7.5;7.17;Sample  81.58;12;Green
+81.58;Arabica;Mexico;UNION RAMAL SANTA CRUZ;1400;LA CONCORDIA, CHIAPAS;2013;7.67;7.5;7.42;7.5;6.75;7.42;7.33;Sample  81.58;12;Green
+81.58;Arabica;Mexico;LAS NUBES - PANTE DON JAIME;1600;LA CONCORDIA;2012;7.33;7.5;7.25;7.5;7.5;7.17;7.33;Sample  81.58;11;
+81.58;Arabica;Mexico;SANTA CRUZ - PANTE DON JAIME;1650;LA CONCORDIA;2012;7.67;7.58;7.42;7.58;7.58;7.42;7.67;Sample  81.58;11;
+81.58;Arabica;Thailand;Doi Chaang Coffee Original Co.,Ltd;4921ft;Doi Chaang Village, Chiang Rai, Thialand;2011;7.08;7.33;7.58;7.58;7.17;7.5;7.33;Sample  81.58;1;
+81.58;Arabica;Thailand;Doi Tung Development Project;;;2011;7.33;7.33;7.17;7.5;7.58;7.33;7.33;Sample  81.58;20;
+81.58;Arabica;Costa Rica;;4500-6000 Feet;Tarrazu, San Jose, Costa Rica;;7.25;7.17;7.33;7.33;7.5;7.75;7.25;Sample  81.58;0;
+81.5;Arabica;Guatemala;LAS DELICIAS;4000;SANTA ROSA;2017;7.67;7.58;7.17;7.42;7.33;7.42;7.58;Sample  81.50;10;Green
+81.5;Arabica;Nicaragua;Finca Las Marías;1100;JALAPA;2017;7.5;7.42;7.33;7.33;7.25;7.33;7.33;Sample  81.50;11;Green
+81.5;Arabica;Honduras;LAS CUCHILLAS;1400;COMAYAGUA;2017;7.5;7.5;7.33;7.42;7.17;7.25;7.33;Sample  81.50;10;Green
+81.5;Arabica;Guatemala;LAS DELICIAS;;SANTA ROSA;2017;7.5;7.42;7.25;7.25;7.5;7.25;7.33;Sample  81.50;12;Green
+81.5;Arabica;Taiwan;谷泉咖啡莊園;160-200M;古坑鄉荷包村尖山坑60號;2015;7.5;7.42;7.33;7.08;7.58;7.25;7.33;Sample  81.50;12;Green
+81.5;Arabica;Myanmar;Mixed;4000 ft;Ywar Ngan Township;2015;7.25;7.42;7.25;7.5;7.33;7.33;7.42;Sample  81.50;0;Green
+81.5;Arabica;Costa Rica;Several;1200 msm;Occidental;2014;7.83;7.33;7.08;7.08;7.33;7.5;7.33;Sample  81.50;12;Green
+81.5;Arabica;Malawi;Chinongo;1599M;North of Mzuzu;2014;7.67;7.42;6.92;7.5;7.5;7.17;7.33;Sample  81.50;12;Green
+81.5;Arabica;Guatemala;VARIAS;4000 PSNM;ORIENTE;2014;7.5;7.42;7.17;7.58;7.25;7.42;7.17;Sample  81.50;12;Green
+81.5;Arabica;Taiwan;Good Mood Coffee 馨晴咖啡        ;900 M;Guoxing Township, Nantou County 南投縣國姓鄉        ;2014;7.42;7.33;7.67;7.33;7.42;7.5;7.5;Sample  81.50;11;Blue-Green
+81.5;Arabica;Brazil;PEREIRA ESTATE COFFEEE;1200;SUL DE MINAS;2014;7.58;7.5;7.5;7.67;7.67;7.83;7.75;Sample  81.50;0;Green
+81.5;Arabica;Haiti;Mixed;400-1250m;Dondon, Haiti;2013;7.42;7.33;7.25;7.42;7.42;7.33;7.33;Sample  81.50;11;Bluish-Green
+81.5;Arabica;Taiwan;Xu yuan zhang 徐源漳;600 M;Taichung Xinshe 台中市新社區;2013/2014;7.5;7.42;7.25;7.25;7.33;7.33;7.42;Sample  81.50;11;Green
+81.5;Arabica;Mexico;NUEVA LINDA;1150;LA CONCORDIA, CHIAPAS;2013;7.33;7.33;7.17;7.42;7.5;7.5;7.25;Sample  81.50;13;Green
+81.5;Arabica;Mexico;PRODUCTOR INDEPENDIENTE GUADALUPE VICTORIA;1600;AMATENANGO DE LA FRONTERA;2012;7.58;7.42;7.25;7.42;7.33;7.33;7.17;Sample  81.50;12;Green
+81.5;Arabica;Mexico;SANTA MARIA TEMAXCALAPA;1100;TEMAXCALAPA;2012;7.42;7.25;7.17;7.42;7.17;8.0;7.08;Sample  81.50;12;Green
+81.5;Arabica;Mexico;CANOA MANZANILLO;1000;MANZANILLO;2012;7.33;7.5;7.33;7.33;7.33;7.42;7.25;Sample  81.50;11;Green
+81.5;Arabica;Mexico;HAMBURGO 7 ARROYOS;1250;TAPACHULA;2012;7.42;7.42;7.33;7.17;7.25;7.42;7.5;Sample  81.50;13;Green
+81.5;Arabica;Mexico;EL ROMANCE AZUL;1100;ATOYAC DE ALVAREZ;2012;7.5;7.5;7.25;7.5;7.42;7.58;7.42;Sample  81.50;11;Green
+81.5;Arabica;Indonesia;Ijen Highland, East Java;1200-1600masl;Ijen Highland, East Java;2012;7.75;7.17;7.17;7.33;7.58;7.33;7.17;Sample  81.50;12;Green
+81.5;Arabica;Brazil;Sertao;1.25;SUL DE MINAS;2012;7.5;7.42;7.17;7.42;7.5;7.33;7.17;Sample  81.50;12;Blue-Green
+81.5;Arabica;Guatemala;CHIQUIMULJA / ALPHA CAFE / SENFRO;;ORIENTE;2012;7.33;7.5;7.33;7.42;7.17;7.33;7.42;Sample  81.50;11;Green
+81.5;Arabica;Colombia;;1050 - 1850;Cauca;Abril - Julio;7.42;7.42;7.17;7.42;7.42;7.33;7.33;Sample  81.50;6;
+81.5;Arabica;United States (Hawaii);;;Kona;;7.33;7.33;7.33;7.5;7.5;7.83;7.33;Sample  81.50;0;
+81.42;Arabica;Mexico;Cafetal;1100;Veracruz;2017;7.58;7.33;7.08;7.33;7.5;7.33;7.25;Sample  81.42;12;Green
+81.42;Arabica;Guatemala;NUEVA GRANADA;4500;SAN MARCOS;2016;7.42;7.33;7.08;7.58;7.33;7.25;7.42;Sample  81.42;10;Green
+81.42;Arabica;Brazil;FAZENDA RIO BRILHANTE;1100;CERRADO MINEIRO;2015/2016;7.33;7.5;7.5;7.33;6.83;7.42;7.5;Sample  81.42;11;Green
+81.42;Arabica;Honduras;CERRO BUENO;1400 MSNM;Marcala;2015;7.5;7.33;7.17;7.25;7.5;7.42;7.25;Sample  81.42;12;Green
+81.42;Arabica;Taiwan;山彎有機咖啡農場;110公尺;苗栗三灣;2014;7.83;7.75;7.42;7.17;7.08;7.08;7.08;Sample  81.42;12;Green
+81.42;Arabica;Malawi;Chimpumba;1422;North of Mzuzu;2014;7.58;7.17;7.33;7.42;7.08;7.42;7.42;Sample  81.42;12;Bluish-Green
+81.42;Arabica;Brazil;Rio Verde;1100;South Minas Gerais;2014/2015;7.25;7.5;7.42;7.17;7.33;7.33;7.42;Sample  81.42;0;Green
+81.42;Arabica;Guatemala;SANTO TOMAS PACHUJ;1550 MTS.;SAN LUCAS TOLIMAN, SOLOLA;2014;7.42;7.5;7.17;7.42;7.42;7.42;7.08;Sample  81.42;10;Green
+81.42;Arabica;Mexico;various small farms;1,550 meter;Siltepec el Triunfo;2014;7.67;7.33;7.25;7.17;7.25;7.42;7.33;Sample  81.42;0;Green
+81.42;Arabica;Peru;;;Puno;2013;7.42;7.42;7.17;7.33;7.42;7.42;7.25;Sample  81.42;10;Bluish-Green
+81.42;Arabica;Guatemala;LA UNION MONTE VERDE;4300;ORIENTE;2013;7.42;7.33;7.25;7.42;7.42;7.5;7.08;Sample  81.42;12;Green
+81.42;Arabica;Mexico;PALANTLA;763;HUAZALINGO, HIDALGO;2012;7.42;7.33;7.25;7.17;7.25;7.42;7.58;Sample  81.42;13;None
+81.42;Arabica;Mexico;LOS BRUJOS;1100;COATEPEC, COATEPEC;2012;7.42;7.42;7.25;7.25;7.5;7.33;7.25;Sample  81.42;13;
+81.42;Arabica;Colombia;;1750 m.s.n.m;huila;2011;7.5;7.42;7.25;7.17;7.17;7.75;7.17;Sample  81.42;11;Green
+81.42;Arabica;Colombia;;1880 msnm;Cauca;4T72010;7.75;7.33;7.42;7.0;7.33;7.25;7.33;Sample  81.42;16;
+81.42;Arabica;United States (Hawaii);Kona Pacific Farmers Cooperative;;Kona;;7.83;7.0;7.0;7.58;7.58;7.5;6.92;Sample  81.42;1;
+81.33;Arabica;Colombia;;;Huila;2016;7.5;7.33;7.33;7.17;7.33;7.42;7.25;Sample  81.33;0;
+81.33;Arabica;Honduras;Las Cuchillas;1500;Comayagua;2016 / 2017;7.5;7.5;7.0;7.17;7.5;7.33;7.33;Sample  81.33;11;Bluish-Green
+81.33;Arabica;Mexico;;1130;Huatusco, Veracruz;2016;7.67;7.42;7.0;7.42;7.58;7.08;7.17;Sample  81.33;12;Green
+81.33;Arabica;Brazil;FAZENDA SACRAMENTO;1100;CERRADO MINEIRO;2015/2016;7.25;7.33;7.33;7.33;7.33;7.42;7.33;Sample  81.33;11;Green
+81.33;Arabica;Honduras;Bethel;1350;Marcala;2015;7.58;7.42;7.17;7.42;7.17;7.17;7.42;Sample  81.33;9;Green
+81.33;Arabica;Brazil;SERTAO FARM;1200;MANTIQUEIRA DE MINAS;2014/2015;7.17;7.33;7.42;7.25;7.42;7.33;7.42;Sample  81.33;12;Green
+81.33;Arabica;Philippines;BACOFA;1400 MASL;DAVAO CITY, REGION 11;2014;7.08;7.33;7.42;7.33;7.33;7.5;7.33;Sample  81.33;14;Green
+81.33;Arabica;Malawi;Usingini Farm;1200M;West of Mzuzu;2014;7.75;7.33;7.08;7.33;7.33;7.25;7.25;Sample  81.33;13;Green
+81.33;Arabica;Honduras;El Cerron;1450 MSNM;San Marcos Ocotepeque;2014;7.33;7.33;7.17;7.33;7.5;7.33;7.33;Sample  81.33;12;Green
+81.33;Arabica;Mexico;;1800;TAPACHULA;2012;7.58;7.42;7.25;7.33;7.25;7.25;7.25;Sample  81.33;13;Green
+81.33;Arabica;Mexico;CRUZ VERDE;1000;VERACRUZ;2012;7.33;7.25;7.17;7.42;7.58;7.33;7.25;Sample  81.33;12;None
+81.33;Arabica;Brazil;FAZENDAS KLEM        ;1100;MATAS DE MINAS        ;;7.5;7.58;7.5;7.5;7.75;7.83;7.58;Sample  81.33;11;Green
+81.25;Arabica;Taiwan;Jing Jing Café 晶晶坊青山咖啡教室;680;Dongshan Dist., Tainan City 台南市東山區;2015;7.83;7.75;7.67;7.83;7.83;7.75;5.25;Sample  81.25;12;Green
+81.25;Arabica;Brazil;Rio Verde;1;South of Minas Gerais;2015/2016;7.17;7.42;7.17;7.08;6.92;8.17;7.33;Sample  81.25;0;Green
+81.25;Arabica;Nicaragua;Cafetales Santa Matilde;1100;Jinotega;2015;7.08;7.5;7.33;7.17;7.42;7.25;7.5;Sample  81.25;10;Green
+81.25;Arabica;Honduras;CERRO BUENO;1400 MSN;MARCALA;2015;7.42;7.17;7.17;7.5;7.33;7.25;7.42;Sample  81.25;12;Green
+81.25;Arabica;Guatemala;El Injerto S.A.;1700m;Huehuetenango;2014;7.33;7.42;7.17;7.25;7.42;7.33;7.33;Sample  81.25;9;Bluish-Green
+81.25;Arabica;Tanzania, United Republic Of;Shangrilla Estate;1700;Karatu Ngorogoro;2014;7.33;7.17;7.17;7.5;7.25;7.42;7.42;Sample  81.25;13;Green
+81.25;Arabica;Taiwan;Jia jia Coffee 佳佳咖啡莊;650 M;Nantou Guoxing 南投縣國姓鄉;2013/2014;7.5;7.5;7.25;7.25;7.25;7.25;7.25;Sample  81.25;11;Green
+81.25;Arabica;Guatemala;FINCA MEDINA;5,000 F;SACATEPEQUEZ, GUATEMALA;2013;7.5;7.33;7.5;7.58;7.0;7.25;7.08;Sample  81.25;11;Green
+81.25;Arabica;Mexico;FINCA CHANJUL;1500;MOTOZINTLA;2012;7.42;7.42;7.33;7.33;7.5;7.42;7.5;Sample  81.25;12;Green
+81.17;Arabica;Nicaragua;LAS PROMESAS DE SAN BLASS;1200;DIPILTO, NUEVA SEGOVIA;2016;7.33;7.5;7.17;7.17;7.58;7.17;7.25;Sample  81.17;9;Green
+81.17;Arabica;Tanzania, United Republic Of;Mviwambi Coffee Farmers;100/2000;Ruvuma, Mbinga;2015/2016;7.67;7.17;7.17;7.33;7.5;7.17;7.17;Sample  81.17;12;Green
+81.17;Arabica;Mexico;Exportadora Café California;1200;CHIAPAS, JALTENANGO;2015;7.75;7.58;7.08;7.25;7.08;7.25;7.17;Sample  81.17;12;Green
+81.17;Arabica;Costa Rica;EL PATALILLO;1200-1400 MASL;Tres Rios;2015;7.5;7.5;7.33;7.17;7.08;7.17;7.42;Sample  81.17;11;Bluish-Green
+81.17;Arabica;Honduras;Los Hicaques;1450 mals;Central Region;2015;7.42;7.33;7.0;7.42;7.33;7.33;7.33;Sample  81.17;13;Green
+81.17;Arabica;Thailand;;1,400-1,500 m;Chiangrai;2014;6.83;7.42;7.42;7.17;7.5;7.42;7.42;Sample  81.17;12;Blue-Green
+81.17;Arabica;Philippines;IRISAN, BAGUIO;1200 MASL;CORILLERA ADMINISTRATIVE;2014;7.25;7.25;7.25;7.08;7.58;7.5;7.25;Sample  81.17;0;None
+81.17;Arabica;Tanzania, United Republic Of;AMPCG;1550;Mbinga, Ruvuma;2014;7.58;7.17;7.17;7.33;7.33;7.25;7.33;Sample  81.17;12;Bluish-Green
+81.17;Arabica;Malawi;Makoka Valley Estate;990-1000M;Southern- Zomba;2014;7.58;7.25;7.33;7.08;7.33;7.33;7.25;Sample  81.17;12;Green
+81.17;Arabica;Costa Rica;VARIOS;1200-1400;CENTRAL VALLEY - WEST VALLEY;2014;7.33;7.08;7.33;7.25;7.33;7.58;7.25;Sample  81.17;11;Green
+81.17;Arabica;Brazil;JULIANA;;MONTE CARMELO;2013;7.42;7.42;7.17;7.42;7.33;7.25;7.17;Sample  81.17;11;Green
+81.17;Arabica;Mexico;;1800;TAPACHULA;2012;7.42;7.25;7.08;7.75;7.42;7.17;7.08;Sample  81.17;13;Green
+81.17;Arabica;Guatemala;Finca Quequesquez;1450;Oriente;2012;7.42;7.25;7.33;7.25;7.25;7.42;7.25;Sample  81.17;12;Green
+81.17;Arabica;Brazil;Fazenda São Sebastião;1000m;South of Minas Gerais;2012;7.42;7.33;7.25;7.42;7.5;7.17;7.08;Sample  81.17;12;Green
+81.17;Arabica;United States (Hawaii);;;Kona;;7.25;7.75;7.67;7.67;7.42;7.67;7.75;Sample  81.17;4;
+81.08;Arabica;Ethiopia;;0;sidamo;2016;7.42;7.33;7.17;7.33;7.42;7.17;7.25;Sample  81.08;11;
+81.08;Arabica;Brazil;Fazenda São José Mirante;695;Alta Paulista (Sao Paulo);2016;7.58;7.42;7.5;7.25;7.75;7.58;7.33;Sample  81.08;11;Green
+81.08;Arabica;Nicaragua;CAFETALES SANTA MATILDE;1,100 m.o.s.l.;JINOTEGA;2015;7.33;7.33;7.33;7.42;7.33;7.33;7.0;Sample  81.08;11;
+81.08;Arabica;United States;;5600 feet;Central America;2014;7.42;7.17;7.33;7.42;7.25;7.33;7.17;Sample  81.08;0;
+81.08;Arabica;Tanzania, United Republic Of;Mwalyego Amcos;1456;Iwala Village, Mbeya Rural;2014;7.42;7.33;7.33;7.25;7.25;7.33;7.17;Sample  81.08;13;Green
+81.08;Arabica;Costa Rica;Santa Laura;1500 mts;Naranjo;2014;7.42;7.25;7.17;7.25;7.25;7.58;7.17;Sample  81.08;13;Green
+81.08;Arabica;United States (Puerto Rico);Hacienda Caracolillo;2800 ft;Yauco Region;2013;7.67;7.75;7.67;7.58;7.58;7.67;8.5;Sample  81.08;0;Green
+81.08;Arabica;Mexico;SAN FERNANDO, CHIAPAS;1650;SAN FERNANDO;2012;7.25;7.42;7.33;7.33;7.17;7.33;7.25;Sample  81.08;13;None
+81.08;Arabica;Mexico;CAFETAL SINAI;1300;SANTO REYES NOPALA;2012;7.33;7.25;7.33;7.42;7.25;7.42;7.08;Sample  81.08;12;Green
+81.08;Arabica;Mexico;;1642;SANTA MARIA SITEPEC;2012;7.33;7.33;7.25;7.42;7.25;7.25;7.25;Sample  81.08;11;Green
+81.08;Arabica;Mexico;EL DESMORONADO;1200;TALPA DE ALLENDE;2012;7.42;7.33;7.25;7.42;7.17;7.25;7.25;Sample  81.08;10;Green
+81.08;Arabica;United States (Hawaii);;;;2012;7.42;7.42;7.25;7.58;6.92;7.17;7.33;Sample  81.08;6;Blue-Green
+81.0;Arabica;Brazil;CACHOEIRA DA GRAMA FARM;;GRAMA VALLEY;;7.25;7.25;7.17;7.5;7.33;7.17;7.33;Sample  81.00;11;Green
+81.0;Arabica;El Salvador;Santa Josefita;1450;Apaneca - Ilamatepec;2017;7.42;7.08;7.08;7.33;7.25;7.58;7.25;Sample  81.00;0;Green
+81.0;Arabica;Brazil;CACHOEIRA DA GRAMA FARM;;GRAMA VALLEY;2016 / 2017;7.33;7.17;7.17;7.67;7.33;7.17;7.17;Sample  81.00;11;Bluish-Green
+81.0;Arabica;Guatemala;CHAPULTEPEC;3280;NORTE;2016;7.42;7.25;7.17;7.5;7.25;7.17;7.25;Sample  81.00;9;Green
+81.0;Arabica;Colombia;;1600;Guayatá;2016;7.67;7.5;7.42;5.25;7.67;7.75;7.75;Sample  81.00;0;Green
+81.0;Arabica;Guatemala;EL PAPATURRO;4000PSN;ORIENTE;2015;7.5;7.25;7.0;7.25;7.5;7.25;7.25;Sample  81.00;11;Green
+81.0;Arabica;Taiwan;Jing Jing Café 晶晶坊青山咖啡教室;758M;Dongshan Dist., Tainan City 臺南市東山區;2015;7.25;7.17;7.17;7.25;7.5;7.33;7.33;Sample  81.00;12;Bluish-Green
+81.0;Arabica;Honduras;EL CERRON;1350 ,SNN;SAN MARCOS, OCOTEPEQUE;2014;7.42;7.25;7.25;7.33;7.25;7.17;7.33;Sample  81.00;12;Green
+81.0;Arabica;Brazil;;;CERRADO - CAMPOS ALTOS;2014;7.67;7.75;7.83;7.75;7.83;7.75;7.75;Sample  81.00;12;Green
+81.0;Arabica;Tanzania, United Republic Of;Rural Cooperative Society;1525 M;Arusha;2014;7.33;7.33;7.08;7.42;7.17;7.33;7.33;Sample  81.00;12;Green
+81.0;Arabica;Uganda;Kapchorwa;1700;Eastern;2013;7.33;6.92;7.17;7.33;7.42;7.42;7.42;Sample  81.00;12;Green
+81.0;Arabica;Taiwan;Taiwan hao ka 台灣好咖莊園;1100 M;Nantou Xinyi 南投縣信義鄉;2013/2014;7.5;6.92;7.33;7.33;7.33;7.33;7.25;Sample  81.00;11;Green
+81.0;Arabica;Thailand;Doi Tung Development Project;800++;Thailand;2012;7.33;7.42;7.25;7.42;7.25;7.17;7.17;Sample  81.00;0;Green
+81.0;Arabica;Mexico;FINCA EL GAVILANCILLO;950;MOTOZINTLA, CHIAPAS;2012;7.08;7.33;7.33;7.33;7.42;7.25;7.25;Sample  81.00;12;Green
+81.0;Arabica;Mexico;;1100;ADOLFO LOPEZ MATEOS;2012;7.58;7.67;7.5;7.67;7.58;7.5;7.5;Sample  81.00;0;Green
+80.92;Arabica;Taiwan;八杞莊園;200;Taiwan;2017;7.33;7.17;7.25;7.33;7.33;7.25;7.25;Sample  80.92;0;Blue-Green
+80.92;Arabica;Guatemala;LA ESPERANZA;1901;ORIENTE;2017;7.67;7.67;7.33;7.58;7.67;7.5;7.5;Sample  80.92;10;Green
+80.92;Arabica;Kenya;Thiririka/maara;1600;Kiambu/Meru;2017;7.17;7.58;7.5;7.5;8.0;7.75;5.42;Sample  80.92;11;Green
+80.92;Arabica;Mexico;Finca Monte Azúl;1100;Huatusco, Veracruz;2017;7.5;7.33;7.17;7.42;7.5;7.33;7.33;Sample  80.92;11;Green
+80.92;Arabica;Myanmar;Sithar Coffee Farm;3500 ft;Pyinoolwin;2015;7.17;7.42;7.0;7.58;7.33;7.0;7.42;Sample  80.92;0;
+80.92;Arabica;United States (Hawaii);;;KONA;2014;7.42;7.08;7.17;7.17;7.58;7.25;7.25;Sample  80.92;10;Bluish-Green
+80.92;Arabica;Tanzania, United Republic Of;Karatu Estate;1700;Manyara, Karatu;2014;7.33;7.17;7.17;7.25;7.42;7.33;7.25;Sample  80.92;12;Green
+80.92;Arabica;Brazil;SERTAO FARM;1200;MANTIQUEIRA DE MINAS;2014/2015;7.25;7.33;7.25;7.25;7.25;7.33;7.25;Sample  80.92;12;Green
+80.92;Arabica;Taiwan;張文進莊園;550公尺;台中新社;2014;7.92;7.67;7.33;7.08;7.08;7.08;6.75;Sample  80.92;9;Green
+80.92;Arabica;Brazil;Rio Verde;1100;South Minas Gerais;2014/2015;7.17;7.42;7.17;7.25;7.25;7.33;7.33;Sample  80.92;10;None
+80.92;Arabica;Nicaragua;;Between 700 and 1,400 meters;Matagalpa, Jinotega and Nueva Segovia;2013;7.33;7.08;7.25;7.0;7.5;7.42;7.33;Sample  80.92;10;Green
+80.92;Arabica;Guatemala;EL MORITO;5000 FT.;JALAPA;2014;7.58;7.42;6.92;7.5;7.25;7.17;7.08;Sample  80.92;12;Green
+80.92;Arabica;Taiwan;Bi yun si shi yi 碧云四十一咖啡坊;900 M;Taichung Taiping 台中市太平區;2013/2014;7.42;7.25;7.25;7.25;7.25;7.25;7.25;Sample  80.92;11;
+80.92;Arabica;Taiwan;Bai he lin Coffee 白鶴林咖啡莊園;688 M;Nantou Lugu Bai he lin南投縣鹿谷鄉白鶴林;2013/2014;7.25;7.17;7.08;7.08;7.08;8.08;7.17;Sample  80.92;11;Green
+80.92;Arabica;Taiwan;Heng lu Coffee 橫鹿咖啡;300 M;New Taipei Zhonghe 新北市中和區;2013/2014;7.42;7.25;7.25;7.25;7.25;7.25;7.25;Sample  80.92;11;Green
+80.92;Arabica;Mexico;OLOTLAN, EL PLAN, CRIOLLO GARNICA;1186;IXHUATLAN DEL CAFE;2012;7.58;7.33;7.08;7.5;7.17;7.25;7.0;Sample  80.92;13;Green
+80.92;Arabica;Thailand;Doi Tung Development Project;;;;7.67;7.58;7.33;7.33;7.17;7.0;6.83;Sample  80.92;0;
+80.83;Arabica;Laos;Savan Coffee Bean;1300;Paksong,Laos;2016;7.42;7.33;7.17;7.17;7.17;7.25;7.33;Sample  80.83;0;Green
+80.83;Arabica;Guatemala;several;1200;Orient;2013;7.67;7.25;7.08;7.33;7.17;7.25;7.08;Sample  80.83;11;Green
+80.83;Arabica;Mexico;LA VICTORIA PANTE NUBES;1210;MOTOZINTLA;2012;7.17;7.08;7.25;7.42;7.25;7.33;7.33;Sample  80.83;13;Green
+80.83;Arabica;Mexico;FINCA SANTA CLARA;1100;OAXACA;2012;7.33;7.25;7.33;7.33;7.25;7.17;7.17;Sample  80.83;11;Green
+80.83;Arabica;Mexico;SELVA NEGRA;100;VERACRUZ;2012;7.5;7.17;7.33;7.25;7.17;7.17;7.25;Sample  80.83;13;Green
+80.83;Arabica;United States (Hawaii);;;Kona;2012;7.42;7.33;7.0;7.25;7.33;7.5;7.0;Sample  80.83;10;Blue-Green
+80.83;Arabica;Colombia;;1800 m.s.n.m;Huila;4T/2010;7.33;7.33;7.0;6.83;7.33;7.67;7.33;Sample  80.83;1;
+80.75;Arabica;Brazil;CASTELHANA FARM;;MONTE CARMELO;2015/2016;7.17;7.25;7.08;7.17;7.25;7.58;7.25;Sample  80.75;0;Green
+80.75;Arabica;Myanmar;Myaing;3825;Ywar Ngan;2015;6.92;7.5;7.0;7.58;7.5;7.08;7.17;Sample  80.75;0;Green
+80.75;Arabica;Guatemala;FINCA LOS CERROS Y ANEXOS;5440-5760 METROS;HUEHUETENANGO;2015;7.5;7.33;7.0;7.42;7.17;7.17;7.17;Sample  80.75;12;Green
+80.75;Arabica;Nicaragua;CAFETALES SANTA MATILDE;1,100.00 mosl;JINOTEGA;2015;7.25;7.25;7.17;7.25;7.33;7.25;7.25;Sample  80.75;12;Green
+80.75;Arabica;Honduras;Juan Damaso;1450 masl;Siguatepeque, Comayagua;2015;7.5;7.33;7.0;7.42;7.25;7.17;7.08;Sample  80.75;11;Green
+80.75;Arabica;Panama;Elida Estate;1680M;Boquete;2014;7.25;7.33;7.17;7.33;7.33;7.17;7.17;Sample  80.75;11;Green
+80.75;Arabica;Honduras;Bethel;1350;Marcala;2015;7.42;7.17;7.08;7.42;7.25;7.25;7.17;Sample  80.75;9;Green
+80.75;Arabica;Honduras;Los Hicaques;1450 mals;Central Region;2015;7.25;7.33;7.08;7.5;7.25;7.33;7.0;Sample  80.75;13;Green
+80.75;Arabica;Costa Rica;SEVERAL;1300 MSNM;SAN RAMON;2014;7.33;7.33;7.25;7.25;7.17;7.17;7.25;Sample  80.75;11;Green
+80.75;Arabica;Mexico;SAN JOSÉ Y EL PORTILLO;1200;OAXACA;2012;7.58;7.33;7.42;7.25;7.5;7.5;7.5;Sample  80.75;11;Green
+80.75;Arabica;Haiti;2000 Farms;~1000 meters;Haiti;2012;7.42;7.0;7.42;7.25;7.08;7.33;7.25;Sample  80.75;12;Green
+80.75;Arabica;United States (Hawaii);;;Kona;2011;7.08;7.33;7.17;7.25;7.33;7.67;6.92;Sample  80.75;13;Bluish-Green
+80.67;Arabica;Taiwan;胖胖糖;;Taiwan;2016;7.33;7.08;7.08;7.08;7.42;7.33;7.33;Sample  80.67;0;Green
+80.67;Arabica;Indonesia;Darmawi;1200-1500;Sumatra Brastagi;2015;7.58;7.42;7.0;7.67;7.5;7.5;7.33;Sample  80.67;13;Blue-Green
+80.67;Arabica;Guatemala;FINCA MEDINA;1500msnm;ANTIGUA;2015/2016;7.67;7.42;6.83;7.17;7.42;7.17;7.0;Sample  80.67;11;Green
+80.67;Arabica;Costa Rica;Gamboa;1.85;TARRAZU;2015;7.83;7.5;7.67;7.67;7.83;7.5;8.0;Sample  80.67;11;Blue-Green
+80.67;Arabica;Malawi;Makoka Valley Estate;990-1000M;Southern- Zomba;2014;7.5;7.25;7.17;7.17;7.25;7.17;7.17;Sample  80.67;12;Bluish-Green
+80.67;Arabica;Mexico;EL DESMORONADO, TALPAN DE ALLENDE JALISCO;1200;EL DESMORONADO, TALPAN DE ALLENDE JALISCO;2014;7.25;7.17;7.17;7.25;7.17;7.42;7.25;Sample  80.67;12;Green
+80.67;Arabica;Colombia;;1550;Santander;2014;7.67;7.5;7.42;7.67;7.5;7.75;8.5;Sample  80.67;0;
+80.67;Arabica;Guatemala;SANTO TOMAS PACHUJ;1550;SAN LUCAS TOLIMAN, SOLOLA;2013;7.67;7.17;7.0;7.5;7.0;7.0;7.33;Sample  80.67;12;Green
+80.67;Arabica;Guatemala;CHIQUIMULJA / ALPHA CAFE / SENFRO;;ORIENTE;2012;7.0;7.33;7.5;7.33;7.0;7.33;7.17;Sample  80.67;11;Green
+80.67;Arabica;Guatemala;CHIQUIMULJA / ALPHA CAFE / SENFRO;;ORIENTE;2012;7.0;7.5;7.33;7.17;7.17;7.17;7.33;Sample  80.67;11;Green
+80.67;Arabica;Colombia;;;;;7.17;7.25;7.08;7.42;7.08;7.42;7.25;Sample  80.67;18;
+80.58;Arabica;Brazil;LETICIA FARM;;MONTE CARMELO;2016;7.33;7.25;7.33;7.08;7.58;7.25;7.42;Sample  80.58;11;Green
+80.58;Arabica;Nicaragua;Los Saltarines;;Nueva Segovia;2016;7.08;7.5;7.0;7.25;7.42;7.0;7.33;Sample  80.58;11;Green
+80.58;Arabica;Tanzania, United Republic Of;Burka coffee Estates;1400;Arusha;2014;7.25;7.08;7.08;7.33;7.33;7.25;7.25;Sample  80.58;12;Bluish-Green
+80.58;Arabica;Brazil;Rio Verde;1200;South Minas Gerais;2014/2015;7.42;7.25;7.33;7.0;7.08;7.25;7.25;Sample  80.58;0;Green
+80.58;Arabica;Honduras;BSR;1400 m.s.n.m.;Occidental;2014;7.5;7.17;7.0;7.42;7.33;7.0;7.17;Sample  80.58;11;Green
+80.58;Arabica;Guatemala;FINCA EL NARANJAL;4540 METROS;HUEHUETENANGO;2014;7.17;7.42;6.83;7.5;7.17;7.25;7.25;Sample  80.58;11;Green
+80.58;Arabica;United States (Hawaii);;;;;7.42;7.58;7.5;7.92;7.83;7.83;7.83;Sample  80.58;0;
+80.58;Arabica;Colombia;;;;;7.08;7.25;7.0;7.5;7.08;7.33;7.33;Sample  80.58;0;
+80.5;Arabica;Taiwan;王秋金;50;Taiwan;2017;7.17;7.17;7.17;7.42;7.17;7.25;7.17;Sample  80.50;0;Blue-Green
+80.5;Arabica;Guatemala;EL GUAYABO;1500;SANTA ROSA;2017;7.33;7.25;7.08;7.17;7.25;7.17;7.25;Sample  80.50;10;Green
+80.5;Arabica;Honduras;La Bendicion;1650;Ocotepeque;2017;7.58;7.33;7.0;7.17;7.33;7.08;7.0;Sample  80.50;11;Green
+80.5;Arabica;Mauritius;Case Noyale ltd;280;Chamarel (South West);2016;7.25;7.25;7.17;7.17;7.25;7.17;7.25;Sample  80.50;12;Green
+80.5;Arabica;Brazil;CACHOEIRA DA GRAMA FARM;1250 m;VALE DA GRAMA;2015/2016;7.25;7.33;7.17;7.5;7.33;7.25;7.33;Sample  80.50;11;Green
+80.5;Arabica;Myanmar;Mixed;3800;Pyin Oo Lwin;2015;7.17;7.33;7.17;7.42;7.25;7.08;7.08;Sample  80.50;0;Green
+80.5;Arabica;Guatemala;VARIAS;4000 P.S.N.M.;ORIENTE;2014;7.5;7.17;6.83;7.5;7.17;7.17;7.17;Sample  80.50;11;Green
+80.5;Arabica;Brazil;PEREIRA ESTATE COFFEE;1250;MANTIQUEIRA DE MINAS;2013;7.42;7.42;7.08;7.33;7.67;7.5;7.42;Sample  80.50;10;None
+80.5;Arabica;United States (Hawaii);;;KONA;2013;7.42;7.33;7.33;7.58;7.58;7.42;7.17;Sample  80.50;11;Green
+80.5;Arabica;Guatemala;BARRANCA DE LAS FLORES;6100 METROS;HUEHUETENANGO;2013;7.5;7.5;7.0;7.67;7.17;7.0;6.67;Sample  80.50;12;Green
+80.5;Arabica;Mexico;PEÑA NEGRA;1450;ZARAGOZA ITUNDUJIA;2012;7.25;7.25;7.08;7.33;7.25;7.17;7.17;Sample  80.50;15;None
+80.42;Arabica;Honduras;BETHEL;1450;Marcala;2016;7.25;7.42;7.0;7.42;7.33;7.0;7.0;Sample  80.42;10;Green
+80.42;Arabica;Taiwan;春風咖啡;600公尺;南投國姓;2014;7.58;7.17;7.17;7.17;7.17;7.17;7.0;Sample  80.42;14;Green
+80.42;Arabica;El Salvador;Finca La Fany;1,450m;Department of Ahuachapan, Municipality of Apanecallamatepec Mountain;2013;7.33;7.17;7.08;7.08;7.33;7.17;7.25;Sample  80.42;0;Green
+80.42;Arabica;China;Alicia's Farm;1700;Yunnan;2013;7.25;7.08;7.25;7.17;7.33;7.17;7.17;Sample  80.42;17;Green
+80.42;Arabica;Taiwan;Guoxing Farm Coffee 國姓農場咖啡        ;600 M;Nantou Guoxing 南投縣國姓鄉        ;2013/2014;7.25;7.25;7.17;7.25;7.25;7.25;7.0;Sample  80.42;11;Green
+80.42;Arabica;Mexico;COPALITA;1050;POCHUTLA;2012;6.92;7.17;7.08;7.5;7.33;7.17;7.25;Sample  80.42;10;Green
+80.42;Arabica;Mexico;;1550;LA CONCORDIA;2012;7.42;7.08;7.08;7.33;7.25;7.17;7.08;Sample  80.42;12;Green
+80.33;Arabica;Burundi;;1700;MUMIRWA;2016;7.08;7.25;7.17;7.33;7.08;7.08;7.33;Sample  80.33;12;Green
+80.33;Arabica;Tanzania, United Republic Of;Delfina Farm;1700;Mkuu Rombo;2015/2016;7.25;7.17;7.0;7.25;7.42;7.08;7.17;Sample  80.33;13;Green
+80.33;Arabica;Tanzania, United Republic Of;Kongoni Estate;;Arusha;2014;7.25;7.17;7.25;7.25;7.25;7.08;7.08;Sample  80.33;12;Bluish-Green
+80.33;Arabica;Taiwan;TOKOFFEE莊園;600 M;Taichung Xinshe 台中市新社區;2013/2014;7.25;7.25;7.08;7.25;7.25;7.25;7.0;Sample  80.33;11;Green
+80.33;Arabica;Guatemala;LA CASTELLANA;4300;ORIENTE;2013;7.33;7.33;6.83;7.5;7.0;7.17;7.17;Sample  80.33;11;Green
+80.33;Arabica;Mexico;;940;CHILÓN;2012;7.25;7.08;7.08;7.33;7.33;7.17;7.08;Sample  80.33;11;Green
+80.33;Arabica;United States (Hawaii);;;Kona;2012;7.17;7.5;6.92;7.33;7.67;7.33;7.08;Sample  80.33;12;Green
+80.33;Arabica;Ethiopia;;;Kelem Welega;2010;7.25;7.25;7.25;7.33;7.5;8.0;7.08;Sample  80.33;10;
+80.25;Arabica;Brazil;São Rafael_ RA/RAS Certified;995;Cerrado - Monte Carmelo - Minas Gerais;2017 / 2018;7.17;7.33;7.42;7.08;7.0;7.0;7.25;Sample  80.25;11;Green
+80.25;Arabica;Honduras;Las Moras;1400;Comayagua;2016;7.25;7.25;7.0;7.0;7.42;7.0;7.33;Sample  80.25;10;Green
+80.25;Arabica;Mexico;Cortapico;1600;Sierra Madre Occidental;2016;7.25;7.17;7.0;7.33;7.33;7.0;7.17;Sample  80.25;10;Green
+80.25;Arabica;Myanmar;Waylead Farms;3000 ft;Yauk Sauk, Shan State;2015;8.0;7.08;7.0;7.33;7.08;6.92;6.83;Sample  80.25;11;Green
+80.25;Arabica;Myanmar;Thein Kone;4287;Ywar Ngan;2014;7.42;7.0;7.08;7.0;7.17;7.33;7.25;Sample  80.25;0;Green
+80.25;Arabica;Nicaragua;FINCA EL CONSUELO;900 m.s.n.m.;MATAGALPA - NICARAGUA;2015;7.08;6.92;7.0;7.25;7.5;7.25;7.25;Sample  80.25;11;Green
+80.25;Arabica;United States (Hawaii);;;KONA;2014;7.5;7.08;7.67;7.67;7.42;7.58;7.33;Sample  80.25;12;Green
+80.25;Arabica;Colombia;;;;2012;7.42;8.0;7.83;7.75;8.08;7.58;7.58;Sample  80.25;10;Green
+80.25;Arabica;Taiwan;Weng hui ling 翁惠鈴;700 M;Chiayi Fanlu嘉義縣番路鄉;2013/2014;7.25;7.08;7.25;7.25;7.17;7.25;7.0;Sample  80.25;11;Green
+80.25;Arabica;Guatemala;Several;1400;Oriente;2012;7.0;7.17;7.33;7.33;7.0;7.17;7.25;Sample  80.25;11;Green
+80.25;Arabica;Mexico;MIRADOR;808;CALNALI, HIDALGO;2012;7.58;7.33;7.17;7.25;6.75;7.0;7.17;Sample  80.25;11;None
+80.17;Arabica;Vietnam;Apollo Estate;1550;Dala;2017;7.42;7.25;7.25;7.58;7.42;7.33;7.25;Sample  80.17;0;
+80.17;Arabica;Nicaragua;Los Mesones;1100 - 1275 mts;Jinotega;2015;7.17;7.08;7.08;7.33;7.25;7.08;7.17;Sample  80.17;11;
+80.17;Arabica;Honduras;Cerro Bueno;1400 msnm;Marcala;2015;7.25;7.25;7.0;7.17;7.08;7.08;7.33;Sample  80.17;11;Green
+80.17;Arabica;Guatemala;EL MORITO;4300;ORIENTE;2013;7.33;7.33;7.0;7.17;7.17;7.17;7.0;Sample  80.17;11;Green
+80.17;Arabica;Mexico;LA ORDUÑA, COATEPEC, VERACRUZ;1250;COATEPEC;2012;7.33;7.08;6.92;7.42;7.25;7.08;7.08;Sample  80.17;11;Green
+80.17;Arabica;Mexico;EL CARRIZO;1550;ZARAGOZA ITUNDUJIA;2012;7.58;7.42;7.33;7.5;7.08;7.17;7.42;Sample  80.17;14;Green
+80.17;Arabica;Mexico;EL AGUACATE;1000;VERACRUZ;2012;7.33;7.33;7.17;7.08;7.25;7.0;7.0;Sample  80.17;12;Green
+80.17;Arabica;Guatemala;AGROPECUARIA QUIAGRAL;4300;ORIENTE;2012;7.33;7.33;7.0;7.33;7.0;7.0;7.17;Sample  80.17;11;Green
+80.17;Arabica;United States (Hawaii);;;Kona;;7.58;7.5;7.33;7.33;7.67;7.33;7.42;Sample  80.17;5;
+80.08;Arabica;Brazil;;1100;MANTIQUEIRA DE MINAS;2017 / 2018;7.17;7.17;7.0;7.17;7.25;7.25;7.08;Sample  80.08;11;Green
+80.08;Arabica;Taiwan;好自在咖啡莊園;850公尺;苗栗泰安;2014;7.42;7.25;7.25;7.17;7.0;7.0;7.0;Sample  80.08;7;Green
+80.08;Arabica;Nicaragua;;;;2013;7.25;7.17;6.92;7.25;7.17;7.25;7.08;Sample  80.08;10;Green
+80.08;Arabica;Taiwan;Sheng he shang pin Coffee 聖荷上品咖啡坊;200 M;Yunlin Gukeng He bao 雲林縣古坑鄉荷苞村;2013/2014;7.25;7.25;7.25;7.25;7.08;7.0;7.0;Sample  80.08;11;Green
+80.08;Arabica;Taiwan;A shu she Coffee 阿束社咖啡莊園;150 M;Changhua BaGuaShan 彰化市八卦山;2013/2014;7.25;7.25;7.25;7.0;7.25;7.08;7.0;Sample  80.08;11;Green
+80.08;Arabica;Taiwan;Wu kun shan Coffee 吳焜山咖啡園;250 M;Changhua BaGuaShan 彰化市八卦山;2013/2014;7.25;7.25;7.25;7.08;7.17;7.08;7.0;Sample  80.08;11;Green
+80.08;Arabica;Mexico;EL TABACO;1300;ZARAGOZA ITUNDUJIA;2012;7.33;7.17;7.25;7.08;7.08;7.08;7.08;Sample  80.08;15;None
+80.08;Arabica;Mexico;;1300;ESCUITLA;2012;7.25;7.08;7.0;7.17;7.33;7.17;7.08;Sample  80.08;14;Green
+80.0;Arabica;Nicaragua;SANTA MATILDE;1250;JINOTEGA, NICARAGUA;2017;7.33;7.08;6.92;7.08;7.42;7.17;7.0;Sample  80.00;10;Green
+80.0;Arabica;Myanmar;Doe Kwin;3845;Doe Kwin, Pyin Oo Lwin;2015;7.17;7.33;7.0;7.42;7.17;7.0;6.92;Sample  80.00;0;Green
+80.0;Arabica;Mexico;various small farms;1,300 to 1,500 meters;Sierra Fraylesca, Chiapas;2014;7.58;7.75;7.42;7.5;7.5;7.5;7.42;Sample  80.00;0;Green
+80.0;Arabica;Taiwan;Zhang li hong Coffee 張立宏咖啡莊園;250 M;Changhua BaGuaShan 彰化市八卦山;2013/2014;7.25;7.25;7.25;7.0;7.25;7.0;7.0;Sample  80.00;11;Green
+80.0;Arabica;Thailand;Doi Tung Development Project;800++;Thailand;2012;7.33;6.67;7.08;7.42;7.42;7.08;7.0;Sample  80.00;0;Green
+80.0;Arabica;Mexico;LA ORDUÑA, COATEPEC, VERACRUZ;1250;COATEPEC;2012;7.25;7.25;7.08;7.17;7.33;7.33;7.25;Sample  80.00;12;Green
+80.0;Arabica;Mexico;SANTA CLARA, CALIFORNIA Y CAMILA;1100;SAN MIGUEL DEL PUERTO;2012;7.08;7.33;7.0;7.33;7.08;7.0;7.17;Sample  80.00;11;Green
+80.0;Arabica;Ethiopia;Phone number | 0911-51-08-01, Email | at;;Limu;2010;7.42;7.42;7.5;7.92;7.75;7.58;7.75;Sample  80.00;5;
+79.92;Arabica;Colombia;;;Huila;2015;7.83;7.67;7.58;7.75;7.83;7.17;7.42;Sample  79.92;0;Green
+79.92;Arabica;United States (Hawaii);;;KONA;2014;7.5;7.0;7.0;6.92;7.33;7.17;7.0;Sample  79.92;11;Green
+79.92;Arabica;Mexico;VARIAS COMUNIDADES;1300;CHIAPAS;2013;7.33;7.08;7.08;7.33;7.42;7.17;7.17;Sample  79.92;12;Green
+79.92;Arabica;Mexico;FINCA BUENOS AIRES;1100;MOTOZINTLA, CHIAPAS;2012;7.17;7.17;6.92;7.25;7.33;7.08;7.0;Sample  79.92;12;Green
+79.92;Arabica;Mexico;RANCHO SAN FRANCISCO III;1100;VERACRUZ;2012;7.5;7.17;7.0;7.17;7.25;7.08;6.75;Sample  79.92;0;
+79.92;Arabica;Mexico;FINCA MONTEGRANDE;1100;JALTENANGO;2012;7.17;7.08;7.08;7.08;7.5;7.33;7.33;Sample  79.92;11;Green
+79.92;Arabica;Mexico;FINCA LA ORDUÑA;1250;COATEPEC;2012;7.33;7.25;7.0;7.42;7.17;7.17;7.25;Sample  79.92;12;Green
+79.92;Arabica;Mexico;FINCA HUEHUETECPAN;1250;COSAUTLAN DE CARVAJAL;2012;7.17;7.33;7.08;7.58;7.33;7.08;7.0;Sample  79.92;11;Green
+79.92;Arabica;United States (Hawaii);;;Kona;;7.5;7.42;7.58;7.42;7.5;7.58;7.58;Sample  79.92;5;
+79.83;Arabica;Kenya;YARA ESTATE / BENVAR ESTATE;1500;KIAMBU;2017;7.0;7.08;7.0;7.17;7.25;7.25;7.08;Sample  79.83;11;
+79.83;Arabica;Guatemala;PIAMONTE;1700;SAN MARCOS;2017;7.33;7.25;6.92;7.33;7.25;7.33;7.08;Sample  79.83;10;Green
+79.83;Arabica;Nicaragua;Asociación Aldea Global Jinotega;1250;Jinotega;2014;6.83;7.17;7.17;6.92;7.5;7.08;7.17;Sample  79.83;11;Green
+79.83;Arabica;Mexico;LA CUCHILLA;1300;HUATUSCO;2012;7.17;7.08;7.0;7.25;7.5;7.0;6.83;Sample  79.83;12;Green
+79.83;Arabica;United States (Hawaii);;;Kona;2012;7.58;7.08;6.83;7.17;7.5;7.17;7.17;Sample  79.83;12;Blue-Green
+79.75;Arabica;Guatemala;LA ESPERANZA;1901.64;Oriente;2016;7.5;7.42;7.25;7.58;7.33;7.42;7.25;Sample  79.75;10;Green
+79.75;Arabica;Taiwan;Ka-vulungan Coffee Estate;800-1200;Taiwu Township , Pingtung County 屏東縣泰武鄉;2014;7.75;7.33;7.17;7.33;7.67;7.83;7.33;Sample  79.75;0;
+79.75;Arabica;Taiwan;Baijiada Coffee Farm佰加達咖啡莊園;500-700M;Baihe Dist., Tainan City 臺南市白河區;2013;7.08;7.08;7.25;7.0;7.17;7.17;7.0;Sample  79.75;10;Blue-Green
+79.75;Arabica;Thailand;;800++;Thailand;2013;7.25;7.08;6.92;7.5;7.08;6.92;7.0;Sample  79.75;12;Green
+79.75;Arabica;Peru;;;Huanuco;2013;7.0;7.08;7.0;7.25;7.5;7.42;7.17;Sample  79.75;12;Green
+79.75;Arabica;Costa Rica;Several;1100;Brunca;2013;7.58;7.5;7.67;7.75;7.67;7.58;8.0;Sample  79.75;10;Bluish-Green
+79.75;Arabica;Mexico;UNION RAMAL SANTA CRUZ;1400;LA CONCORDIA, CHIAPAS;2013;7.58;7.08;7.0;7.0;7.5;6.92;6.67;Sample  79.75;12;Green
+79.75;Arabica;Mexico;COMONYAJ NOPTIC S DE SS;1022;CHIAPAS;2013;7.58;7.08;6.92;7.58;7.5;6.92;6.83;Sample  79.75;13;Green
+79.75;Arabica;Mexico;VARIAS COUNIDADES;1300;CHIAPAS;2013;7.25;7.08;7.0;7.17;7.17;7.08;7.0;Sample  79.75;12;Green
+79.75;Arabica;Mexico;PEÑA NEGRA;1450;ZARAGOZA ITUNDUJIA;2012;7.25;7.17;7.17;7.08;7.17;7.0;6.92;Sample  79.75;14;None
+79.75;Arabica;Mexico;EL VERGEL;1050;POCHUTLA;2012;7.33;7.25;7.0;7.08;7.08;7.0;7.0;Sample  79.75;10;Green
+79.75;Arabica;Guatemala;Genuine Antigua Medina;-(average);Antigua;2012;7.58;7.33;7.5;7.33;7.0;7.33;7.67;Sample  79.75;0;Green
+79.75;Arabica;Mexico;FINCA MONTE GRANDE;1100;TUXTLA GUTIERREZ;2012;7.25;6.83;6.92;7.08;7.25;7.08;7.33;Sample  79.75;12;
+79.67;Arabica;Guatemala;LA ESMERALDA;4000;ORIENTE;2016;7.42;7.42;7.25;7.58;7.42;7.33;7.25;Sample  79.67;10;Green
+79.67;Arabica;El Salvador;La Montaña;1250;CACAHUATIQUE;2016;7.25;7.08;7.0;6.83;7.33;7.17;7.0;Sample  79.67;0;Bluish-Green
+79.67;Arabica;Thailand;;800++;Thailand;2013;6.92;7.17;6.83;7.42;7.17;7.08;7.08;Sample  79.67;12;Blue-Green
+79.67;Arabica;Guatemala;LA CASTELLANA;4300;ORIENTE;2013;7.5;7.0;6.83;7.08;7.08;7.17;7.0;Sample  79.67;11;Green
+79.67;Arabica;Mexico;UNION RAMAL SANTA CRUZ;1400;LA CONCORDIA, CHIAPAS;2013;7.42;7.25;6.83;7.58;7.17;6.58;6.83;Sample  79.67;12;Green
+79.67;Arabica;Mexico;EL ENCINAL;975;TENANGO DE DORIA, HIDALGO;2012;7.33;7.17;7.0;6.75;7.08;7.0;7.33;Sample  79.67;13;None
+79.67;Arabica;Mexico;CONSOLAPA;1264;COATEPEC, COATEPEC;2012;6.92;7.17;7.17;7.17;7.08;7.08;7.08;Sample  79.67;0;
+79.67;Arabica;Thailand;Doi Tung Development Project;;;;7.17;7.17;7.0;7.0;7.25;6.92;7.17;Sample  79.67;0;
+79.58;Arabica;Mexico;TEPETZINGO;1250;TEPETZINGO;2012;7.08;7.0;6.92;7.33;7.25;7.08;6.92;Sample  79.58;12;None
+79.58;Arabica;Mexico;;1550;LA CONCORDIA;2012;7.25;6.92;6.92;7.33;7.25;7.0;6.92;Sample  79.58;13;Green
+79.58;Arabica;Colombia;;1800 msnm;huila;4T/10;7.25;7.17;7.0;6.75;7.17;7.33;6.92;Sample  79.58;10;
+79.58;Arabica;Guatemala;La Igualdad;3,500 - 5,200 feet;Chuva, San Marcos;2009/2010;7.08;7.0;6.83;7.33;7.25;7.0;7.08;Sample  79.58;17;
+79.5;Arabica;Nicaragua;Las Nubes;1050;Jinotega;2015;6.92;6.92;7.0;7.42;7.25;7.0;7.0;Sample  79.50;12;Green
+79.5;Arabica;Taiwan;Su-Zhen Huang 黃素真;700M公尺;Nantou 南投日月潭;2014;6.92;7.0;7.17;7.0;7.42;7.0;7.0;Sample  79.50;0;
+79.5;Arabica;Colombia;;1550 msnm;cundinamarca;2013;7.83;7.5;7.42;7.42;7.67;7.5;7.5;Sample  79.50;0;Green
+79.5;Arabica;Mexico;;1550;LA CONCORDIA;2012;7.25;7.08;6.92;7.25;7.58;7.08;7.0;Sample  79.50;12;Green
+79.5;Arabica;Mexico;CASA BLANCA;1100;COATEPEC, COATEPEC;2012;7.25;7.33;7.0;7.25;7.17;7.17;7.0;Sample  79.50;12;Bluish-Green
+79.42;Arabica;Guatemala;EL PAPATURRO;4000 P.S.N.M.;ORIENTE;2013;7.08;7.33;7.25;7.58;7.33;7.42;7.42;Sample  79.42;10;Green
+79.42;Arabica;Guatemala;VARIAS;4000 P.S.N.M.;ORIENTE;2014;7.25;7.33;6.83;7.0;7.0;7.17;6.83;Sample  79.42;10;Green
+79.42;Arabica;Mexico;CRE-LEG L-4;800;XICOTEPEC DE JUAREZ;2012;7.0;6.83;6.83;7.42;7.33;7.17;6.83;Sample  79.42;13;Green
+79.33;Arabica;Cote d?Ivoire;CNRA Station of Divo;200;CNRA Station of Divo;2016;7.42;7.25;6.83;7.0;7.33;7.08;7.08;Sample  79.33;13;Bluish-Green
+79.33;Arabica;Colombia;Several;1200;Pereira;2013;7.42;7.25;6.75;7.25;7.42;7.25;7.33;Sample  79.33;0;Green
+79.33;Arabica;Mexico;EL ENCANTO;950;ZENTLA;2012;7.0;7.0;6.83;7.33;7.42;6.92;6.83;Sample  79.33;14;None
+79.33;Arabica;Mexico;LA GLORIA;750;ZENTLA;2012;7.42;7.17;7.08;7.17;7.08;7.08;7.0;Sample  79.33;14;Green
+79.33;Arabica;Guatemala;Conquista/ Morito;;ORIENTE;2012;7.17;6.5;6.33;7.25;7.58;7.33;7.17;Sample  79.33;11;Green
+79.25;Arabica;Taiwan;BaiShenCun Coffee Farm百勝村咖啡莊園;850;Guoxing Township, Nantou County 南投縣國姓鄉;2014;7.08;6.83;6.83;7.25;7.42;7.08;6.75;Sample  79.25;11;Blue-Green
+79.25;Arabica;Mexico;EL AGUACATE;1000;VERACRUZ;2012;7.0;7.0;6.92;7.17;7.17;7.08;6.92;Sample  79.25;13;Green
+79.17;Arabica;Guatemala;LAS DELICIAS;4000;SANTA ROSA;2017;7.33;7.42;7.33;7.42;7.5;7.42;7.42;Sample  79.17;10;Green
+79.17;Arabica;Honduras;La Bendicion;1650;Ocotepeque;2017;7.58;7.0;6.75;6.92;7.0;6.92;7.0;Sample  79.17;11;Green
+79.17;Arabica;Guatemala;CHAPULTEPEC;1320;OCCIDENTE;2016;7.08;7.0;6.92;7.42;7.0;6.92;6.83;Sample  79.17;11;Green
+79.17;Arabica;Guatemala;EL CHILE;1300 A 1800 METROS SOBRE EL NIVEL DEL MAR;NUEVO ORIENTE;2015;7.25;7.17;6.75;7.25;7.0;6.92;6.83;Sample  79.17;11;Green
+79.17;Arabica;Costa Rica;;;San Rafael;2012;7.17;7.42;7.5;8.0;7.25;7.83;7.33;Sample  79.17;10;None
+79.17;Arabica;Mexico;LA TEJERIA;1550;ZARAGOZA ITUNDUJIA;2012;7.25;7.08;6.92;7.08;7.17;7.17;7.17;Sample  79.17;14;None
+79.17;Arabica;Mexico;EL DELIRIO;1450;YAJALON;2012;7.17;6.92;6.92;7.08;7.17;7.0;6.92;Sample  79.17;14;Green
+79.17;Arabica;Mexico;Various smallholders;1200 m;Pluma Hidalogo, Oaxaca;08/09 crop;6.75;6.75;6.83;7.25;7.58;7.08;6.92;Sample  79.17;1;
+79.08;Arabica;Guatemala;LAS MERCEDITAS;1700;SAN MARCOS;2017;7.58;7.67;7.42;7.42;7.67;7.67;7.67;Sample  79.08;10;Green
+79.08;Arabica;United States (Puerto Rico);Hacienda Caracolillo;2800 ft;Yauco Region;2013;7.42;7.08;6.75;7.33;7.33;6.92;6.92;Sample  79.08;13;Green
+79.08;Arabica;Mexico;HUANACAXTLE;1500;ZARAGOZA ITUNDUJIA;2012;7.33;7.0;6.92;7.25;7.33;7.08;6.83;Sample  79.08;16;None
+79.08;Arabica;Mexico;LAS PALMAS;1100;TLACUILOTEPEC;2012;7.25;7.08;6.75;7.33;7.42;7.0;6.92;Sample  79.08;11;Green
+79.08;Arabica;Mexico;EL DESMORONADO;1200;TALPA DE ALLENDE;2012;7.17;7.25;7.25;7.17;7.25;7.08;7.25;Sample  79.08;10;Bluish-Green
+79.08;Arabica;;;;;;6.75;6.75;6.42;6.83;7.58;7.5;7.25;Sample  79.08;10;
+79.0;Arabica;Guatemala;Varias;4000;Oriente;2014;7.33;7.17;6.58;7.42;7.08;6.83;6.58;Sample  79.00;12;Green
+79.0;Arabica;Honduras;Varios Farms;1350;INTIBUCA;2014;7.0;7.0;7.0;7.0;7.0;7.0;7.0;Sample  79.00;11;Green
+79.0;Arabica;Peru;;1400;San Ignacio;2012;7.67;7.17;7.08;7.25;8.0;7.5;7.0;Sample  79.00;0;
+79.0;Arabica;Mexico;;1300;ILIATENCO, GUERRERO;2012;6.75;7.08;6.67;7.25;7.17;7.08;7.0;Sample  79.00;12;None
+79.0;Arabica;Mexico;EL SAUCE;1550;ZARAGOZA ITUNDUJIA;2012;7.5;7.17;6.92;7.5;7.25;7.0;7.0;Sample  79.00;14;Green
+79.0;Arabica;Mexico;PICO DEL ORO;12OO;AMATENANGO DE LA FRONTERA;2012;7.17;6.83;6.83;7.25;7.17;6.92;6.83;Sample  79.00;14;Green
+78.92;Arabica;Mexico;SANTA TERESA;1300;LA CONCORDIA, CHIAPAS;2013;7.33;7.0;6.75;7.08;7.17;7.25;7.0;Sample  78.92;12;Green
+78.92;Arabica;Mexico;LA PANDORA;1400;ZARAGOZA ITUNDUJIA;2012;7.5;7.0;6.92;7.08;6.92;6.75;6.75;Sample  78.92;16;None
+78.83;Arabica;Nicaragua;Finca Las Marías;1100;JALAPA;2016;7.17;7.0;6.92;7.0;7.0;7.0;6.75;Sample  78.83;10;Green
+78.75;Arabica;United States (Hawaii);;;KONA;2013;7.5;6.92;6.92;7.25;7.58;7.42;7.17;Sample  78.75;12;Green
+78.75;Arabica;Guatemala;LA CASTELLANA;4300;ORIENTE;2013;7.33;7.08;6.33;7.25;7.0;7.0;6.75;Sample  78.75;12;Green
+78.75;Arabica;Mexico;LA PATRONA, EL TREBOL, LA CADENA;1320;HUATUSCO;2012;7.25;6.83;6.83;7.0;7.17;7.0;6.67;Sample  78.75;14;Green
+78.75;Arabica;Mexico;EL TESORO;1250;HUATUSCO;2012;7.25;7.33;7.17;7.25;7.08;7.0;7.0;Sample  78.75;14;None
+78.75;Arabica;Mexico;LOS ENCINOS;1350;OHUAPAN, TLALTETELA;2012;7.67;7.17;6.83;7.33;7.58;7.17;7.0;Sample  78.75;12;
+78.67;Arabica;China;Alicia's Farm;1850;Yunnan,China;2013;7.0;6.92;6.83;7.17;7.17;7.17;7.08;Sample  78.67;0;Green
+78.67;Arabica;Mexico;LOS PINOS;1150;YECUATLA;2012;6.92;6.92;6.67;7.25;7.17;6.92;6.83;Sample  78.67;13;None
+78.58;Arabica;Nicaragua;LOS SALTARINES;;Nueva Segovia;2016;7.08;7.0;6.75;6.83;7.08;6.92;6.92;Sample  78.58;10;Green
+78.58;Arabica;Nicaragua;;;;2014;6.83;7.08;6.92;6.75;7.25;7.08;6.67;Sample  78.58;11;Green
+78.58;Arabica;Guatemala;VARIAS;4000 PSNM;ORIENTE;2014;7.33;7.17;6.92;7.58;7.25;7.17;7.17;Sample  78.58;12;Green
+78.58;Arabica;Taiwan;Kan Tou Mountain Coffee 崁頭山咖啡館;800M;Dongshan Dist., Tainan City 臺南市東山區;2013;6.83;6.75;7.17;7.25;7.0;6.92;6.67;Sample  78.58;10;Green
+78.58;Arabica;Mexico;GRAPOS EL PORVENIR;1400;TAPACHULA;2012;7.0;7.0;6.75;7.33;6.92;6.92;6.67;Sample  78.58;13;Green
+78.58;Arabica;Mexico;COFRADIA;1300;COFRADIA DE SUCHITLAN;2012;7.92;7.58;7.58;7.92;7.92;7.5;7.5;Sample  78.58;10;
+78.58;Arabica;United States (Hawaii);Kona Farms;;Kona;;7.92;6.83;7.08;7.42;6.75;7.33;7.25;Sample  78.58;0;
+78.5;Arabica;Mexico;various small farms;1,600 meters;Sierra, Chiapas;2014;7.25;6.75;6.92;6.92;7.25;7.58;7.17;Sample  78.50;0;Green
+78.5;Arabica;Mexico;FINCA SEGO;1400;VILLA TALEA DE CASTRO;2012;7.08;6.83;6.83;7.0;7.0;6.92;6.83;Sample  78.50;12;None
+78.5;Arabica;Mexico;CERCA DE LOS ANGELES;1200;LOS ANGELES;2012;7.25;7.17;7.0;6.83;7.58;7.08;6.92;Sample  78.50;13;Green
+78.42;Arabica;Brazil;SANTA MARIA;;MONTE CARMELO;2014/2015;6.83;7.0;6.92;7.08;6.92;6.83;6.83;Sample  78.42;12;Green
+78.42;Arabica;Mexico;EL NARANJO;1500;ZARAGOZA ITUNDUJIA;2012;7.58;7.17;7.0;7.17;7.33;7.0;7.17;Sample  78.42;14;None
+78.33;Arabica;United States (Hawaii);;;KONA;2014;7.5;7.75;7.58;7.83;7.92;7.92;7.83;Sample  78.33;10;Bluish-Green
+78.33;Arabica;Guatemala;VARIAS;4000 P.S.N.M;ORIENTE;2014;7.17;6.5;6.67;7.0;7.17;7.17;6.67;Sample  78.33;10;Green
+78.33;Arabica;Guatemala;EL SACRAMENTO;4300;ORIENTE;2012;7.17;7.17;6.5;7.17;7.0;6.83;6.5;Sample  78.33;11;Green
+78.33;Arabica;Mexico;LLANO HERMOSO;1300;XOCHITONALCO, HUAUTLA        ;2012;7.25;7.25;7.0;7.5;7.33;7.42;7.75;Sample  78.33;13;Green
+78.33;Arabica;Guatemala;Conquista/ Morito;;ORIENTE;2012;7.17;6.08;6.17;7.25;7.33;7.33;7.0;Sample  78.33;11;Green
+78.25;Arabica;United States (Hawaii);;;KONA;2014;7.5;7.5;7.33;7.58;7.5;7.42;7.42;Sample  78.25;11;Green
+78.25;Arabica;United States (Hawaii);;;KONA;2012;7.42;7.33;7.33;7.5;7.67;7.75;7.25;Sample  78.25;11;Green
+78.17;Arabica;Indonesia;vary;1300;Ijen East Java;2016;6.92;6.83;6.92;6.92;6.92;6.83;6.83;Sample  78.17;13;
+78.08;Arabica;Mexico;;1050;CORDOBA;2012;7.08;6.83;6.67;7.25;7.25;6.92;6.75;Sample  78.08;11;Green
+78.0;Arabica;Taiwan;大鋤花間 (HOE Vs. FLOWER COFFEE FARM);650;台南市東山區( Dongshan Dist., Tainan City);2016;7.5;7.08;7.33;7.17;7.5;7.5;7.25;Sample  78.00;0;Green
+78.0;Arabica;Honduras;Varios Farms;1350;INTIBUCA;2014;6.83;7.0;6.67;7.0;7.0;6.83;6.67;Sample  78.00;11;Green
+78.0;Arabica;United States (Hawaii);;;KONA;2014;7.58;7.33;7.5;7.42;7.5;7.33;7.33;Sample  78.00;12;Green
+78.0;Arabica;Guatemala;VARIAS;4000 P.S.N.M;ORIENTE;2014;7.42;7.25;6.83;7.33;7.0;6.92;7.25;Sample  78.00;10;Green
+78.0;Arabica;China;Hani;1200 meters;Puer;2013;7.33;7.17;6.92;7.08;7.33;7.0;7.17;Sample  78.00;10;Green
+78.0;Arabica;Guatemala;LA UNION MONTEVERDE;4300;ORIENTE;2013;7.0;6.83;6.83;7.17;6.67;6.83;6.67;Sample  78.00;11;Green
+78.0;Arabica;Mexico;FINCA LA FORTUNA;850;MOTOZINTLA, CHIAPAS;2012;7.25;7.33;7.0;7.0;7.25;7.08;7.08;Sample  78.00;12;Green
+78.0;Arabica;Colombia;;;;;7.42;7.17;7.0;7.17;7.67;7.17;7.08;Sample  78.00;10;Green
+77.92;Arabica;Costa Rica;Several;1200 msm;occidental;2014;7.5;7.25;7.42;7.0;7.08;6.83;6.83;Sample  77.92;12;Green
+77.92;Arabica;Mexico;EL REGADITO;1248;PETATLAN;2012;7.42;7.25;7.0;7.0;7.25;7.08;6.92;Sample  77.92;11;Green
+77.92;Arabica;Guatemala;Conquista/ Morito;;ORIENTE;2012;7.17;6.17;6.17;7.08;7.33;6.83;7.17;Sample  77.92;11;Green
+77.83;Arabica;Nicaragua;EL BRIGADUM - LA CORONELA;1000;JINOTEGA PROVINCE;2016;7.42;7.0;7.0;7.17;7.08;7.0;7.17;Sample  77.83;10;Bluish-Green
+77.83;Arabica;Brazil;;;;2014;7.0;6.75;6.67;6.83;7.08;6.83;6.67;Sample  77.83;11;
+77.83;Arabica;Guatemala;EL SACRAMENTO;4300;ORIENTE;2013;7.0;6.83;6.67;7.17;6.83;6.83;6.5;Sample  77.83;11;Green
+77.67;Arabica;Taiwan;Dongshan Gaoyuan village chief manor coffee Tainan, Taiwan 台灣台南東山高原村長莊園咖啡;750-800 M;Dongshan Dist., Tainan City 臺南市東山區;2012;7.17;6.75;6.58;7.33;7.33;7.17;6.67;Sample  77.67;11;Bluish-Green
+77.58;Arabica;United States (Hawaii);;;KONA;2013;7.58;7.67;7.58;7.67;7.42;7.42;7.58;Sample  77.58;12;Green
+77.5;Arabica;Mexico;RANCHO LOS LAURELES;1300;COATEPEC;2012;7.17;6.75;6.58;6.75;6.83;6.75;6.67;Sample  77.50;13;Green
+77.42;Arabica;Guatemala;LA ESPERANZA Y ANEXOS;4300;ORIENTE;2013;7.08;6.92;6.33;7.0;6.92;7.0;6.17;Sample  77.42;11;Green
+77.33;Arabica;Brazil;Fazenda Capoeirinha;890;South of Minas Gerais;2017 / 2018;7.5;7.33;7.42;7.58;7.58;6.92;7.0;Sample  77.33;0;Green
+77.33;Arabica;Guatemala;VARIAS;4000 P.S.N.M.;ORIENTE;2014;7.33;7.0;6.83;7.17;7.17;7.17;6.67;Sample  77.33;10;Green
+77.33;Arabica;Mexico;EL NARANJO;1500;ZARAGOZA ITUNDUJIA;2012;7.33;7.0;6.67;7.0;6.92;6.92;6.83;Sample  77.33;15;None
+77.25;Arabica;Haiti;Mixed;400-1250m;Dondon, Haiti;2013;6.83;6.83;6.83;6.75;6.92;6.92;6.83;Sample  77.25;10;
+77.25;Arabica;United States (Hawaii);;;KONA;2013;7.08;6.92;6.83;6.67;7.58;7.42;6.75;Sample  77.25;12;Green
+77.17;Arabica;Mexico;FINCA LOS ANDES;1200;MOTOZINTLA, CHIAPAS;2012;7.08;7.0;7.0;7.25;7.33;7.25;6.92;Sample  77.17;12;Green
+77.0;Arabica;Peru;producer group (approx. 1,000 farmers);900-1500 masl;San Ignacio, Jaen, Cajamarca;2014;7.42;7.75;7.42;7.67;7.92;7.83;7.67;Sample  77.00;0;Green
+76.83;Arabica;India;;;Chickmangalore;2016;7.67;7.33;7.17;6.67;7.17;7.42;7.42;Sample  76.83;0;Green
+76.75;Arabica;Mexico;Various smallholders;1200 m;Pluma Hidalogo, Oaxaca;08/09 crop;6.67;6.33;6.42;6.83;7.0;6.92;6.58;Sample  76.75;0;
+76.5;Arabica;Guatemala;Conquista/Morito;;Oriente;2012;6.42;6.5;6.5;7.33;6.33;6.92;6.5;Sample  76.50;12;None
+76.42;Arabica;Mexico;;1100;COATEPEC;2012;7.17;6.58;6.58;7.0;7.25;6.58;6.58;Sample  76.42;13;Green
+76.33;Arabica;Guatemala;AGROPECUARIA QUIAGRAL;4300;ORIENTE;2012;7.5;7.0;6.83;7.5;7.17;7.33;7.0;Sample  76.33;11;Green
+76.33;Arabica;Guatemala;Conquista/Morito;;Oriente;2011/2012;6.17;6.5;6.5;7.17;7.0;6.83;6.17;Sample  76.33;11;
+76.25;Arabica;United States (Hawaii);;;KONA;2014;7.25;7.08;6.83;7.17;7.33;6.83;7.08;Sample  76.25;0;Green
+76.17;Arabica;United States (Hawaii);;;KONA;2013;7.5;7.33;7.33;7.58;7.67;7.25;7.5;Sample  76.17;0;Bluish-Green
+76.17;Arabica;Mexico;AGUA DE LA MARIPOSA;1400;ZARAGOZA ITUNDUJIA;2012;7.42;7.0;6.83;7.08;6.92;6.83;6.75;Sample  76.17;16;None
+76.17;Arabica;Indonesia;1;3500;Indonesia;2011;7.33;7.0;6.5;6.08;7.58;6.33;6.67;Sample  76.17;12;None
+76.08;Arabica;Mexico;FINCA TEPICTLA;1250;TEPICTLA;2012;7.08;6.83;6.83;7.17;7.17;7.08;6.58;Sample  76.08;12;Green
+76.0;Arabica;Honduras;Varios Farms;1350;INTIBUCA;2014;6.83;6.83;6.67;6.83;7.0;6.83;7.0;Sample  76.00;11;Green
+75.83;Arabica;Philippines;various smallholders from the municipality of Tuba;1000+ meters;Benguet, Mountain Province;2012;6.83;6.5;6.5;6.92;6.75;7.0;6.67;Sample  75.83;12;Green
+75.67;Arabica;Brazil;;;Monte Carmelo - Cerrado;2017 / 2018;7.17;7.0;6.83;7.5;7.17;7.0;7.0;Sample  75.67;11;Green
+75.58;Arabica;Guatemala;AGROPECUARIA QUIAGRAL;4300;ORIENTE;2012;7.92;7.58;7.17;7.58;7.33;7.17;6.83;Sample  75.58;11;Green
+75.58;Arabica;Guatemala;Conquista / Morito;;Oriente;2012;6.67;6.5;6.33;7.0;7.17;6.75;6.5;Sample  75.58;12;
+75.5;Arabica;Mexico;LA JOYA;1100;TLACUILOTEPEC;2012;7.5;7.25;6.92;7.0;7.17;6.83;6.83;Sample  75.50;11;Green
+75.17;Arabica;Mexico;ZARAGOZA, MONTELIBANO, PAMAL NAVIL;1200;OCOSINGO;2012;7.17;6.92;6.67;6.83;7.25;7.75;6.58;Sample  75.17;11;Green
+75.17;Arabica;Mexico;FINCA MONTE GRANDE;1100;;2012;7.25;6.83;6.67;7.08;7.17;6.83;6.67;Sample  75.17;12;
+75.17;Arabica;Mexico;PEÑA CAMPANA;1280;HUAUTLA DE JIMENEZ;2012;7.17;7.17;6.83;7.17;7.42;6.67;6.75;Sample  75.17;13;Bluish-Green
+75.0;Arabica;Mexico;LA CRUZ;850;MECATLÁN;2012;7.0;6.92;6.75;6.92;7.17;6.83;6.75;Sample  75.00;14;Green
+74.92;Arabica;Mexico;EL LIMÓN;1500;ZARAGOZA ITUNDUJIA;2012;7.08;6.75;6.58;7.0;7.0;6.75;6.42;Sample  74.92;17;None
+74.83;Arabica;Mexico;LA ORDUÑA;1250;COATEPEC;2012;7.33;6.75;6.67;7.25;7.5;7.0;7.0;Sample  74.83;12;Green
+74.75;Arabica;Guatemala;Conquista / Morito;;Oriente;2012;6.75;6.5;6.17;7.0;7.25;6.75;6.33;Sample  74.75;11;
+74.75;Arabica;Guatemala;Conquista/Morito;;Oriente;2012;6.75;6.67;6.17;7.17;7.0;6.58;6.42;Sample  74.75;11;
+74.67;Arabica;Mexico;SIERRA MADRE;1700;CHIAPAS;2013;7.08;7.0;6.83;7.5;7.33;6.83;6.75;Sample  74.67;12;Green
+74.42;Arabica;United States (Hawaii);;;KONA;2014;7.5;7.25;7.0;7.25;7.42;7.33;7.33;Sample  74.42;0;Blue-Green
+74.33;Arabica;Guatemala;LA CASTELLANA;4300;ORIENTE;2013;6.5;6.33;6.5;7.5;7.33;6.83;6.0;Sample  74.33;11;Green
+74.33;Arabica;Mexico;LAS CEIBAS;1140;CHOCAMAN, VERACRUZ;2012;7.0;6.58;6.67;6.83;7.08;6.83;6.67;Sample  74.33;14;Green
+74.0;Arabica;Mexico;LA MARINA-EL ORIZABEÑO;1200;XALAPA;2012;6.92;6.42;6.17;7.33;7.25;6.75;6.5;Sample  74.00;13;None
+73.83;Arabica;Mexico;RANCHO VIGIA;1250;COAEPEC;2012;7.67;7.0;7.17;7.58;7.33;7.33;7.08;Sample  73.83;12;Green
+73.67;Arabica;United States (Hawaii);;;KONA;2012;7.17;7.17;7.17;7.58;7.67;6.92;7.33;Sample  73.67;0;
+73.5;Arabica;Brazil;;;CAMPOS ALTOS - CERRADO;2016;7.25;6.58;6.58;7.0;7.0;6.42;6.67;Sample  73.50;11;Green
+73.42;Arabica;Honduras;Varios Farms;1350;INTIBUCA;2014;7.0;7.17;6.83;7.17;7.0;7.17;7.08;Sample  73.42;11;Green
+72.92;Arabica;Mexico;various small farms;1,200 meters;Sierra Alta Mixe y Zapoteca;2014;7.08;7.08;6.92;7.08;6.92;6.92;6.92;Sample  72.92;0;
+72.83;Arabica;Colombia;;;;2013;8.0;7.33;7.75;7.33;7.42;7.67;7.33;Sample  72.83;0;Bluish-Green
+72.58;Arabica;United States (Hawaii);;;KONA;2014;6.92;6.92;6.92;7.5;7.58;7.17;6.92;Sample  72.58;11;Green
+72.33;Arabica;Haiti;2000 farmers;640m-1400m;Marmelade;2010;6.92;6.75;7.08;7.17;7.33;6.67;6.42;Sample  72.33;8;
+71.75;Arabica;Costa Rica;Several;1200 msm;occidental;2014;6.33;6.5;6.33;6.83;6.33;6.5;6.25;Sample  71.75;11;Green
+71.08;Arabica;Mexico;LA VUELTA;800;TLATLAUQUITEPEC;2012;6.92;6.92;6.92;6.92;7.17;7.0;6.58;Sample  71.08;12;Green
+71.0;Arabica;Mexico;LA MORENA;1800;HUATUSCO;2012;6.5;6.67;6.42;7.17;7.33;6.5;6.42;Sample  71.00;11;Green
+70.75;Arabica;Mexico;various small farms;1,000 meters;Sierra Norte Yajalon, Chiapas;2014;6.92;7.0;6.83;6.92;7.42;6.92;6.75;Sample  70.75;12;Green
+70.67;Arabica;Brazil;;;Cerrado - Monte Carmelo;2017 / 2018;7.0;7.0;6.83;7.0;7.33;6.83;6.67;Sample  70.67;11;Green
+69.33;Arabica;Honduras;Cerro Bueno;1450 msnm;Marcala;2014;6.67;6.5;6.17;6.67;6.83;6.17;6.33;Sample  69.33;10;Green
+69.17;Arabica;Honduras;Cerro Bueno;1450 msnm;MARCALA;2014;7.0;6.17;6.17;6.67;6.5;6.17;6.5;Sample  69.17;10;Green
+69.17;Arabica;Honduras;Cerro Bueno;1450 msnm;MARCALA;2014;7.0;6.33;6.17;6.5;6.67;6.17;6.33;Sample  69.17;10;Green
+68.33;Arabica;Mexico;EL CENTENARIO;900;JUCHIQUE DE FERRER;2012;7.08;6.83;6.25;7.42;7.25;6.75;6.75;Sample  68.33;11;None
+67.92;Arabica;Haiti;200 farms;~350m;Department d'Artibonite , Haiti;2012;6.75;6.58;6.42;6.67;7.08;6.67;6.42;Sample  67.92;14;Blue-Green
+63.08;Arabica;Nicaragua;Finca Las Marías;1100;jalapa;2016;7.25;6.58;6.33;6.25;6.42;6.08;6.17;Sample  63.08;13;Green
+59.83;Arabica;Guatemala;FINCA EL LIMON;4650;NUEVO ORIENTE ALDEA EL LIMON;2012;7.5;6.67;6.67;7.67;7.33;6.67;6.67;Sample  59.83;10;Green
